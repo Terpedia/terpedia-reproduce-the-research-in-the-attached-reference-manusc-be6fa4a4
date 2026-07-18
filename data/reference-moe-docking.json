@@ -1,0 +1,928 @@
+{
+  "schema": "https://terpedia.com/schemas/reference-docking/v1",
+  "source": {
+    "filename": "1-JB-V1-Terpene_1.docx",
+    "sha256": "4d71092f2f90dcf598449ef0194cd3e87c1efad2f3f9d5f2d7b981c875cc2723"
+  },
+  "method": "MOE QuickPrep with GBVI/WSA dG, as reported in the supplied reference manuscript",
+  "extraction": {
+    "engine": "pandoc-gfm-table-parser",
+    "generatedAt": "2026-07-18T17:53:18.499Z",
+    "records": [
+      {
+        "ligand": "AM10257",
+        "target": "CB2",
+        "score_kcal_mol": -75.01,
+        "ligand_class": "known_ligand",
+        "experimental_support": true
+      },
+      {
+        "ligand": "ibipinabant",
+        "target": "CB2",
+        "score_kcal_mol": -74.57,
+        "ligand_class": "known_ligand",
+        "experimental_support": true
+      },
+      {
+        "ligand": "E3R",
+        "target": "CB2",
+        "score_kcal_mol": -72.67,
+        "ligand_class": "known_ligand",
+        "experimental_support": true
+      },
+      {
+        "ligand": "linalool",
+        "target": "CB2",
+        "score_kcal_mol": -40.75,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "bornyl acetate",
+        "target": "CB2",
+        "score_kcal_mol": -39.12,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "terpineol",
+        "target": "CB2",
+        "score_kcal_mol": -37.73,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "eucalyptol",
+        "target": "CB2",
+        "score_kcal_mol": -36.82,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "perillyl alcohol",
+        "target": "CB2",
+        "score_kcal_mol": -36.58,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "fenchol",
+        "target": "CB2",
+        "score_kcal_mol": -32.93,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "gamma-terpinene",
+        "target": "CB2",
+        "score_kcal_mol": -32.8,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "beta-myrcene",
+        "target": "CB2",
+        "score_kcal_mol": -32.72,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "beta-ocimene",
+        "target": "CB2",
+        "score_kcal_mol": -31.95,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "S-carvone",
+        "target": "CB2",
+        "score_kcal_mol": -31.95,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "R-carvone",
+        "target": "CB2",
+        "score_kcal_mol": -31.46,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "p-cymene",
+        "target": "CB2",
+        "score_kcal_mol": -30.65,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "borneol",
+        "target": "CB2",
+        "score_kcal_mol": -30.61,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "terpinolene",
+        "target": "CB2",
+        "score_kcal_mol": -30.29,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "limonene",
+        "target": "CB2",
+        "score_kcal_mol": -30.19,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "sabinene",
+        "target": "CB2",
+        "score_kcal_mol": -29.79,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "alpha-pinene",
+        "target": "CB2",
+        "score_kcal_mol": -29.34,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "beta-pinene",
+        "target": "CB2",
+        "score_kcal_mol": -27.58,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "nerolidol",
+        "target": "CB2",
+        "score_kcal_mol": -50.41,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "alpha-bisabolol",
+        "target": "CB2",
+        "score_kcal_mol": -49.06,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "humulene",
+        "target": "CB2",
+        "score_kcal_mol": -44,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "caryophyllene oxide",
+        "target": "CB2",
+        "score_kcal_mol": -42.5,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "beta-caryophyllene",
+        "target": "CB2",
+        "score_kcal_mol": -42.01,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "CHEMBL2177238",
+        "target": "AR",
+        "score_kcal_mol": -80.2,
+        "ligand_class": "known_ligand",
+        "experimental_support": true
+      },
+      {
+        "ligand": "flutamide",
+        "target": "AR",
+        "score_kcal_mol": -66.36,
+        "ligand_class": "known_ligand",
+        "experimental_support": true
+      },
+      {
+        "ligand": "testosterone propionate",
+        "target": "AR",
+        "score_kcal_mol": -62.14,
+        "ligand_class": "known_ligand",
+        "experimental_support": true
+      },
+      {
+        "ligand": "bornyl acetate",
+        "target": "AR",
+        "score_kcal_mol": -47.84,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "perillyl alcohol",
+        "target": "AR",
+        "score_kcal_mol": -41.27,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "terpineol",
+        "target": "AR",
+        "score_kcal_mol": -35.99,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "linalool",
+        "target": "AR",
+        "score_kcal_mol": -35.75,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "R-carvone",
+        "target": "AR",
+        "score_kcal_mol": -33.05,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "fenchol",
+        "target": "AR",
+        "score_kcal_mol": -32.01,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "beta-myrcene",
+        "target": "AR",
+        "score_kcal_mol": -32,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "terpinolene",
+        "target": "AR",
+        "score_kcal_mol": -30.65,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "gamma-terpinene",
+        "target": "AR",
+        "score_kcal_mol": -30.45,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "limonene",
+        "target": "AR",
+        "score_kcal_mol": -30.28,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "beta-ocimene",
+        "target": "AR",
+        "score_kcal_mol": -30.11,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "S-carvone",
+        "target": "AR",
+        "score_kcal_mol": -30.06,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "sabinene",
+        "target": "AR",
+        "score_kcal_mol": -29.2,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "eucalyptol",
+        "target": "AR",
+        "score_kcal_mol": -29.15,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "p-cymene",
+        "target": "AR",
+        "score_kcal_mol": -28.52,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "beta-pinene",
+        "target": "AR",
+        "score_kcal_mol": -28.28,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "borneol",
+        "target": "AR",
+        "score_kcal_mol": -26.99,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "alpha-pinene",
+        "target": "AR",
+        "score_kcal_mol": -26.59,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "nerolidol",
+        "target": "AR",
+        "score_kcal_mol": -49.36,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "alpha-bisabolol",
+        "target": "AR",
+        "score_kcal_mol": -47.21,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "humulene",
+        "target": "AR",
+        "score_kcal_mol": -37.31,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "beta-caryophyllene",
+        "target": "AR",
+        "score_kcal_mol": -35.98,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "caryophyllene oxide",
+        "target": "AR",
+        "score_kcal_mol": -35.95,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "CHAPS",
+        "target": "11beta-HSD1",
+        "score_kcal_mol": -151.43,
+        "ligand_class": "known_ligand",
+        "experimental_support": true
+      },
+      {
+        "ligand": "AZD4017",
+        "target": "11beta-HSD1",
+        "score_kcal_mol": -96.09,
+        "ligand_class": "known_ligand",
+        "experimental_support": true
+      },
+      {
+        "ligand": "enoxolone",
+        "target": "11beta-HSD1",
+        "score_kcal_mol": -71.89,
+        "ligand_class": "known_ligand",
+        "experimental_support": true
+      },
+      {
+        "ligand": "borneol",
+        "target": "11beta-HSD1",
+        "score_kcal_mol": -40.44,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "perillyl alcohol",
+        "target": "11beta-HSD1",
+        "score_kcal_mol": -38.1,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "linalool",
+        "target": "11beta-HSD1",
+        "score_kcal_mol": -35.12,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "terpineol",
+        "target": "11beta-HSD1",
+        "score_kcal_mol": -34.83,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "bornyl acetate",
+        "target": "11beta-HSD1",
+        "score_kcal_mol": -34.38,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "fenchol",
+        "target": "11beta-HSD1",
+        "score_kcal_mol": -30.81,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "eucalyptol",
+        "target": "11beta-HSD1",
+        "score_kcal_mol": -30.63,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "R-carvone",
+        "target": "11beta-HSD1",
+        "score_kcal_mol": -29.66,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "S-carvone",
+        "target": "11beta-HSD1",
+        "score_kcal_mol": -28.74,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "terpinolene",
+        "target": "11beta-HSD1",
+        "score_kcal_mol": -26.17,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "beta-ocimene",
+        "target": "11beta-HSD1",
+        "score_kcal_mol": -25.78,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "beta-myrcene",
+        "target": "11beta-HSD1",
+        "score_kcal_mol": -24.96,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "limonene",
+        "target": "11beta-HSD1",
+        "score_kcal_mol": -24.06,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "beta-pinene",
+        "target": "11beta-HSD1",
+        "score_kcal_mol": -23.17,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "sabinene",
+        "target": "11beta-HSD1",
+        "score_kcal_mol": -23.16,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "alpha-pinene",
+        "target": "11beta-HSD1",
+        "score_kcal_mol": -22.98,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "gamma-terpinene",
+        "target": "11beta-HSD1",
+        "score_kcal_mol": -21.74,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "p-cymene",
+        "target": "11beta-HSD1",
+        "score_kcal_mol": -20.63,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "nerolidol",
+        "target": "11beta-HSD1",
+        "score_kcal_mol": -44.85,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "alpha-bisabolol",
+        "target": "11beta-HSD1",
+        "score_kcal_mol": -40.99,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "caryophyllene oxide",
+        "target": "11beta-HSD1",
+        "score_kcal_mol": -37.97,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "beta-caryophyllene",
+        "target": "11beta-HSD1",
+        "score_kcal_mol": -33.61,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "humulene",
+        "target": "11beta-HSD1",
+        "score_kcal_mol": -30.52,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "bornyl acetate",
+        "target": "CYP19A1",
+        "score_kcal_mol": -56.48,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "letrozole",
+        "target": "CYP19A1",
+        "score_kcal_mol": -48.49,
+        "ligand_class": "known_ligand",
+        "experimental_support": true
+      },
+      {
+        "ligand": "androstenedione",
+        "target": "CYP19A1",
+        "score_kcal_mol": -44.73,
+        "ligand_class": "known_ligand",
+        "experimental_support": true
+      },
+      {
+        "ligand": "testolactone",
+        "target": "CYP19A1",
+        "score_kcal_mol": -42.43,
+        "ligand_class": "known_ligand",
+        "experimental_support": true
+      },
+      {
+        "ligand": "perillyl alcohol",
+        "target": "CYP19A1",
+        "score_kcal_mol": -42.07,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "linalool",
+        "target": "CYP19A1",
+        "score_kcal_mol": -41.69,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "borneol",
+        "target": "CYP19A1",
+        "score_kcal_mol": -40.91,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "terpineol",
+        "target": "CYP19A1",
+        "score_kcal_mol": -40.37,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "fenchol",
+        "target": "CYP19A1",
+        "score_kcal_mol": -40,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "R-carvone",
+        "target": "CYP19A1",
+        "score_kcal_mol": -36.93,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "S-carvone",
+        "target": "CYP19A1",
+        "score_kcal_mol": -35.21,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "beta-ocimene",
+        "target": "CYP19A1",
+        "score_kcal_mol": -34.77,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "eucalyptol",
+        "target": "CYP19A1",
+        "score_kcal_mol": -30.78,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "p-cymene",
+        "target": "CYP19A1",
+        "score_kcal_mol": -30.32,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "alpha-pinene",
+        "target": "CYP19A1",
+        "score_kcal_mol": -30.28,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "sabinene",
+        "target": "CYP19A1",
+        "score_kcal_mol": -29.89,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "beta-myrcene",
+        "target": "CYP19A1",
+        "score_kcal_mol": -29.36,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "limonene",
+        "target": "CYP19A1",
+        "score_kcal_mol": -28.84,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "beta-pinene",
+        "target": "CYP19A1",
+        "score_kcal_mol": -27.17,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "terpinolene",
+        "target": "CYP19A1",
+        "score_kcal_mol": -25.04,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "nerolidol",
+        "target": "CYP19A1",
+        "score_kcal_mol": -55.01,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "alpha-bisabolol",
+        "target": "CYP19A1",
+        "score_kcal_mol": -53.13,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "caryophyllene oxide",
+        "target": "CYP19A1",
+        "score_kcal_mol": -39.38,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "beta-caryophyllene",
+        "target": "CYP19A1",
+        "score_kcal_mol": -38.37,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "humulene",
+        "target": "CYP19A1",
+        "score_kcal_mol": -35.75,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "4-hydroxytamoxifen",
+        "target": "ERbeta",
+        "score_kcal_mol": -69.63,
+        "ligand_class": "known_ligand",
+        "experimental_support": true
+      },
+      {
+        "ligand": "ospemifene",
+        "target": "ERbeta",
+        "score_kcal_mol": -63.89,
+        "ligand_class": "known_ligand",
+        "experimental_support": true
+      },
+      {
+        "ligand": "R,R-THC",
+        "target": "ERbeta",
+        "score_kcal_mol": -57.14,
+        "ligand_class": "known_ligand",
+        "experimental_support": true
+      },
+      {
+        "ligand": "perillyl alcohol",
+        "target": "ERbeta",
+        "score_kcal_mol": -37.66,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "terpineol",
+        "target": "ERbeta",
+        "score_kcal_mol": -36.88,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "eucalyptol",
+        "target": "ERbeta",
+        "score_kcal_mol": -36,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "bornyl acetate",
+        "target": "ERbeta",
+        "score_kcal_mol": -33.26,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "beta-ocimene",
+        "target": "ERbeta",
+        "score_kcal_mol": -31.18,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "linalool",
+        "target": "ERbeta",
+        "score_kcal_mol": -31.08,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "borneol",
+        "target": "ERbeta",
+        "score_kcal_mol": -30.22,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "terpinolene",
+        "target": "ERbeta",
+        "score_kcal_mol": -30.06,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "beta-myrcene",
+        "target": "ERbeta",
+        "score_kcal_mol": -29.98,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "sabinene",
+        "target": "ERbeta",
+        "score_kcal_mol": -29.11,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "gamma-terpinene",
+        "target": "ERbeta",
+        "score_kcal_mol": -29.03,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "p-cymene",
+        "target": "ERbeta",
+        "score_kcal_mol": -27.96,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "limonene",
+        "target": "ERbeta",
+        "score_kcal_mol": -26.9,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "fenchol",
+        "target": "ERbeta",
+        "score_kcal_mol": -26.57,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "alpha-pinene",
+        "target": "ERbeta",
+        "score_kcal_mol": -26.33,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "beta-pinene",
+        "target": "ERbeta",
+        "score_kcal_mol": -26.26,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "S-carvone",
+        "target": "ERbeta",
+        "score_kcal_mol": -25.82,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "R-carvone",
+        "target": "ERbeta",
+        "score_kcal_mol": -23.79,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "nerolidol",
+        "target": "ERbeta",
+        "score_kcal_mol": -45.88,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "alpha-bisabolol",
+        "target": "ERbeta",
+        "score_kcal_mol": -44.22,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "beta-caryophyllene",
+        "target": "ERbeta",
+        "score_kcal_mol": -36.38,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "humulene",
+        "target": "ERbeta",
+        "score_kcal_mol": -34.8,
+        "ligand_class": null,
+        "experimental_support": false
+      },
+      {
+        "ligand": "caryophyllene oxide",
+        "target": "ERbeta",
+        "score_kcal_mol": -33.82,
+        "ligand_class": null,
+        "experimental_support": false
+      }
+    ],
+    "issues": [
+      {
+        "target": "CYP19A1",
+        "ligand": "gamma-terpinene",
+        "issue": "conflicting_duplicate_score",
+        "scores": [
+          -32.94,
+          -27.24
+        ]
+      }
+    ]
+  }
+}
