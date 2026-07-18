@@ -1,0 +1,4151 @@
+{
+  "run_id": "paper-reproduction-low-20260718",
+  "target": {
+    "name": "Estrogen receptor beta",
+    "short_name": "ERbeta",
+    "pdb_id": "1L2J",
+    "uniprot_id": "Q92731"
+  },
+  "ligands": [
+    "linalool",
+    "bornyl acetate",
+    "terpineol",
+    "eucalyptol",
+    "perillyl alcohol",
+    "fenchol",
+    "gamma-terpinene",
+    "beta-myrcene",
+    "beta-ocimene",
+    "S-carvone",
+    "R-carvone",
+    "p-cymene",
+    "borneol",
+    "terpinolene",
+    "limonene",
+    "sabinene",
+    "alpha-pinene",
+    "beta-pinene",
+    "nerolidol",
+    "alpha-bisabolol",
+    "humulene",
+    "caryophyllene oxide",
+    "beta-caryophyllene",
+    "R,R-THC",
+    "4-hydroxytamoxifen",
+    "ospemifene"
+  ],
+  "input_provenance": {
+    "source": "PubChem PUG REST property records",
+    "snapshot_date": "2026-07-18",
+    "paper": "Target Fishing and Molecular Docking of Terpenes: A Systematic Evaluation of Method Concordance and Ligand Efficiency"
+  },
+  "compute_profile": "low_compute",
+  "observations": [
+    {
+      "ligand": "linalool",
+      "target": "ERbeta",
+      "score_kcal_mol": -5.754,
+      "heavy_atoms": 11,
+      "ligand_class": "monoterpene",
+      "experimental_support": false
+    },
+    {
+      "ligand": "bornyl acetate",
+      "target": "ERbeta",
+      "score_kcal_mol": -6.273,
+      "heavy_atoms": 14,
+      "ligand_class": "monoterpene",
+      "experimental_support": false
+    },
+    {
+      "ligand": "terpineol",
+      "target": "ERbeta",
+      "score_kcal_mol": -6.126,
+      "heavy_atoms": 11,
+      "ligand_class": "monoterpene",
+      "experimental_support": false
+    },
+    {
+      "ligand": "eucalyptol",
+      "target": "ERbeta",
+      "score_kcal_mol": -5.484,
+      "heavy_atoms": 11,
+      "ligand_class": "monoterpene",
+      "experimental_support": false
+    },
+    {
+      "ligand": "perillyl alcohol",
+      "target": "ERbeta",
+      "score_kcal_mol": -6.238,
+      "heavy_atoms": 11,
+      "ligand_class": "monoterpene",
+      "experimental_support": false
+    },
+    {
+      "ligand": "fenchol",
+      "target": "ERbeta",
+      "score_kcal_mol": -5.518,
+      "heavy_atoms": 11,
+      "ligand_class": "monoterpene",
+      "experimental_support": false
+    },
+    {
+      "ligand": "gamma-terpinene",
+      "target": "ERbeta",
+      "score_kcal_mol": -6.064,
+      "heavy_atoms": 10,
+      "ligand_class": "monoterpene",
+      "experimental_support": false
+    },
+    {
+      "ligand": "beta-myrcene",
+      "target": "ERbeta",
+      "score_kcal_mol": -5.848,
+      "heavy_atoms": 10,
+      "ligand_class": "monoterpene",
+      "experimental_support": false
+    },
+    {
+      "ligand": "beta-ocimene",
+      "target": "ERbeta",
+      "score_kcal_mol": -6.109,
+      "heavy_atoms": 10,
+      "ligand_class": "monoterpene",
+      "experimental_support": false
+    },
+    {
+      "ligand": "S-carvone",
+      "target": "ERbeta",
+      "score_kcal_mol": -6.206,
+      "heavy_atoms": 11,
+      "ligand_class": "monoterpene",
+      "experimental_support": false
+    },
+    {
+      "ligand": "R-carvone",
+      "target": "ERbeta",
+      "score_kcal_mol": -6.253,
+      "heavy_atoms": 11,
+      "ligand_class": "monoterpene",
+      "experimental_support": false
+    },
+    {
+      "ligand": "p-cymene",
+      "target": "ERbeta",
+      "score_kcal_mol": -6.157,
+      "heavy_atoms": 10,
+      "ligand_class": "monoterpene",
+      "experimental_support": false
+    },
+    {
+      "ligand": "borneol",
+      "target": "ERbeta",
+      "score_kcal_mol": -5.326,
+      "heavy_atoms": 11,
+      "ligand_class": "monoterpene",
+      "experimental_support": false
+    },
+    {
+      "ligand": "terpinolene",
+      "target": "ERbeta",
+      "score_kcal_mol": -6.398,
+      "heavy_atoms": 10,
+      "ligand_class": "monoterpene",
+      "experimental_support": false
+    },
+    {
+      "ligand": "limonene",
+      "target": "ERbeta",
+      "score_kcal_mol": -5.971,
+      "heavy_atoms": 10,
+      "ligand_class": "monoterpene",
+      "experimental_support": false
+    },
+    {
+      "ligand": "sabinene",
+      "target": "ERbeta",
+      "score_kcal_mol": -5.987,
+      "heavy_atoms": 10,
+      "ligand_class": "monoterpene",
+      "experimental_support": false
+    },
+    {
+      "ligand": "alpha-pinene",
+      "target": "ERbeta",
+      "score_kcal_mol": -5.634,
+      "heavy_atoms": 10,
+      "ligand_class": "monoterpene",
+      "experimental_support": false
+    },
+    {
+      "ligand": "beta-pinene",
+      "target": "ERbeta",
+      "score_kcal_mol": -5.592,
+      "heavy_atoms": 10,
+      "ligand_class": "monoterpene",
+      "experimental_support": false
+    },
+    {
+      "ligand": "nerolidol",
+      "target": "ERbeta",
+      "score_kcal_mol": -7.192,
+      "heavy_atoms": 16,
+      "ligand_class": "sesquiterpene",
+      "experimental_support": false
+    },
+    {
+      "ligand": "alpha-bisabolol",
+      "target": "ERbeta",
+      "score_kcal_mol": -7.374,
+      "heavy_atoms": 16,
+      "ligand_class": "sesquiterpene",
+      "experimental_support": false
+    },
+    {
+      "ligand": "humulene",
+      "target": "ERbeta",
+      "score_kcal_mol": -6.041,
+      "heavy_atoms": 15,
+      "ligand_class": "sesquiterpene",
+      "experimental_support": false
+    },
+    {
+      "ligand": "caryophyllene oxide",
+      "target": "ERbeta",
+      "score_kcal_mol": -5.166,
+      "heavy_atoms": 16,
+      "ligand_class": "sesquiterpene",
+      "experimental_support": false
+    },
+    {
+      "ligand": "beta-caryophyllene",
+      "target": "ERbeta",
+      "score_kcal_mol": -5.101,
+      "heavy_atoms": 15,
+      "ligand_class": "sesquiterpene",
+      "experimental_support": false
+    },
+    {
+      "ligand": "R,R-THC",
+      "target": "ERbeta",
+      "score_kcal_mol": -11.055,
+      "heavy_atoms": 24,
+      "ligand_class": "known_ligand",
+      "experimental_support": true
+    },
+    {
+      "ligand": "4-hydroxytamoxifen",
+      "target": "ERbeta",
+      "score_kcal_mol": -8.944,
+      "heavy_atoms": 29,
+      "ligand_class": "known_ligand",
+      "experimental_support": true
+    },
+    {
+      "ligand": "ospemifene",
+      "target": "ERbeta",
+      "score_kcal_mol": -8.601,
+      "heavy_atoms": 27,
+      "ligand_class": "known_ligand",
+      "experimental_support": true
+    }
+  ],
+  "result": {
+    "results": [
+      {
+        "ligand": {
+          "label": "linalool",
+          "identifiers": {
+            "canonical_smiles": "C=CC(C)(O)CCC=C(C)C",
+            "isomeric_smiles": "C=CC(C)(O)CCC=C(C)C",
+            "inchi": "InChI=1S/C10H18O/c1-5-10(4,11)8-6-7-9(2)3/h5,7,11H,1,6,8H2,2-4H3",
+            "inchi_key": "CDOSHBSSFJOMGT-UHFFFAOYSA-N",
+            "formula": "C10H18O",
+            "cxsmiles": "C=CC(C)(O)CCC=C(C)C"
+          },
+          "heavy_atoms": 11,
+          "molecular_weight": 154.253,
+          "preparation": {
+            "engines": [
+              "RDKit ETKDGv3",
+              "Meeko"
+            ],
+            "seed": 20260717
+          },
+          "resolution": {
+            "cid": 6549,
+            "snapshot": "2026-07-18"
+          }
+        },
+        "receptor": {
+          "source": {
+            "database": "RCSB Protein Data Bank",
+            "pdb_id": "1L2J",
+            "title": "Human Estrogen Receptor beta Ligand-binding Domain in Complex with (R,R)-5,11-cis-diethyl-5,6,11,12-tetrahydrochrysene-2,8-diol",
+            "structure_url": "https://www.rcsb.org/structure/1L2J",
+            "coordinate_url": "https://files.rcsb.org/download/1L2J.pdb",
+            "retrieved_at": "2026-07-18T17:49:32.071280+00:00"
+          },
+          "preparation": {
+            "engine": "Meeko",
+            "engine_version": "0.7.1",
+            "rigid_receptor": true,
+            "chains": [
+              "A"
+            ],
+            "kept_heterogens": [],
+            "prepared_atoms": 1741,
+            "explicit_residue_templates": {},
+            "allow_bad_res": true,
+            "bad_residue_policy": "Meeko excluded observed residues that could not match a complete chemical template.",
+            "removed_reference_ligand": {
+              "residue_name": "ETC",
+              "chain": "A",
+              "residue_number": 600,
+              "padding": 5
+            },
+            "repair": {
+              "engine": "not applied",
+              "reason": "PDBFixer output for 1L2J creates a residue valence conflict in Meeko 0.7.1; use the observed chain-A coordinates and let Meeko exclude incomplete residues that cannot match a chemical template.",
+              "policy": "Observed protein coordinates were passed directly to Meeko; missing atoms and unresolved segments were not modeled."
+            },
+            "hydrogen_and_charge_method": "PDBFixer hydrogens at pH 7.4; Meeko atom typing and charges",
+            "relaxation": "Restrained local OpenMM minimization; parameters and energies are recorded in the repair audit."
+          }
+        },
+        "site": {
+          "center": {
+            "x": 32.398,
+            "y": 82.244,
+            "z": -11.053
+          },
+          "size": {
+            "x": 17.539,
+            "y": 18.25,
+            "z": 16
+          },
+          "derived_from": {
+            "residue_name": "ETC",
+            "chain": "A",
+            "residue_number": 600,
+            "heavy_atoms": 24,
+            "padding_angstrom": 5
+          }
+        },
+        "method": {
+          "engine": "AutoDock Vina",
+          "engine_version": "1.2.7",
+          "scoring_function": "vina",
+          "exhaustiveness": 4,
+          "requested_poses": 3,
+          "energy_range_kcal_mol": 4
+        },
+        "poses": [
+          {
+            "rank": 1,
+            "score_kcal_mol": -5.754,
+            "intermolecular_kcal_mol": -7.268,
+            "intramolecular_kcal_mol": -0.328,
+            "torsional_kcal_mol": 1.514,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5231
+          },
+          {
+            "rank": 2,
+            "score_kcal_mol": -5.553,
+            "intermolecular_kcal_mol": -6.851,
+            "intramolecular_kcal_mol": -0.491,
+            "torsional_kcal_mol": 1.461,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5048
+          },
+          {
+            "rank": 3,
+            "score_kcal_mol": -5.526,
+            "intermolecular_kcal_mol": -6.728,
+            "intramolecular_kcal_mol": -0.58,
+            "torsional_kcal_mol": 1.454,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5024
+          }
+        ],
+        "best_score_kcal_mol": -5.754,
+        "interpretation": {
+          "score_meaning": "Vina scores rank predicted poses under this exact preparation protocol.",
+          "not_an_affinity": "Scores are not experimental binding affinity and must not be converted to Ki, Kd, or IC50.",
+          "comparison_rule": "Compare ligands only when receptor, box, protonation, scoring, and search settings are identical.",
+          "validation": "Use known active/inactive controls, redocking RMSD, orthogonal scoring, and experimental binding assays."
+        },
+        "sources": [
+          {
+            "id": "DOCK1",
+            "title": "AutoDock Vina",
+            "url": "https://autodock-vina.readthedocs.io/"
+          },
+          {
+            "id": "DOCK2",
+            "title": "Meeko receptor and ligand preparation",
+            "url": "https://meeko.readthedocs.io/"
+          },
+          {
+            "id": "DOCK3",
+            "title": "RCSB Protein Data Bank",
+            "url": "https://www.rcsb.org/structure/1L2J"
+          }
+        ],
+        "artifacts": [],
+        "provenance": {
+          "operation": "dock",
+          "service_version": "1.1.0",
+          "rdkit_version": "2025.09.5",
+          "computed_at": "2026-07-18T17:49:45.140279+00:00",
+          "computation_ms": 2979.14
+        }
+      },
+      {
+        "ligand": {
+          "label": "bornyl acetate",
+          "identifiers": {
+            "canonical_smiles": "CC(=O)O[C@@H]1C[C@@H]2CC[C@@]1(C)C2(C)C",
+            "isomeric_smiles": "CC(=O)O[C@@H]1C[C@@H]2CC[C@@]1(C)C2(C)C",
+            "inchi": "InChI=1S/C12H20O2/c1-8(13)14-10-7-9-5-6-12(10,4)11(9,2)3/h9-10H,5-7H2,1-4H3/t9-,10+,12+/m0/s1",
+            "inchi_key": "KGEKLUUHTZCSIP-HOSYDEDBSA-N",
+            "formula": "C12H20O2",
+            "cxsmiles": "CC(=O)O[C@@H]1C[C@@H]2CC[C@@]1(C)C2(C)C"
+          },
+          "heavy_atoms": 14,
+          "molecular_weight": 196.29,
+          "preparation": {
+            "engines": [
+              "RDKit ETKDGv3",
+              "Meeko"
+            ],
+            "seed": 20260717
+          },
+          "resolution": {
+            "cid": 93009,
+            "snapshot": "2026-07-18"
+          }
+        },
+        "receptor": {
+          "source": {
+            "database": "RCSB Protein Data Bank",
+            "pdb_id": "1L2J",
+            "title": "Human Estrogen Receptor beta Ligand-binding Domain in Complex with (R,R)-5,11-cis-diethyl-5,6,11,12-tetrahydrochrysene-2,8-diol",
+            "structure_url": "https://www.rcsb.org/structure/1L2J",
+            "coordinate_url": "https://files.rcsb.org/download/1L2J.pdb",
+            "retrieved_at": "2026-07-18T17:49:32.071280+00:00"
+          },
+          "preparation": {
+            "engine": "Meeko",
+            "engine_version": "0.7.1",
+            "rigid_receptor": true,
+            "chains": [
+              "A"
+            ],
+            "kept_heterogens": [],
+            "prepared_atoms": 1741,
+            "explicit_residue_templates": {},
+            "allow_bad_res": true,
+            "bad_residue_policy": "Meeko excluded observed residues that could not match a complete chemical template.",
+            "removed_reference_ligand": {
+              "residue_name": "ETC",
+              "chain": "A",
+              "residue_number": 600,
+              "padding": 5
+            },
+            "repair": {
+              "engine": "not applied",
+              "reason": "PDBFixer output for 1L2J creates a residue valence conflict in Meeko 0.7.1; use the observed chain-A coordinates and let Meeko exclude incomplete residues that cannot match a chemical template.",
+              "policy": "Observed protein coordinates were passed directly to Meeko; missing atoms and unresolved segments were not modeled."
+            },
+            "hydrogen_and_charge_method": "PDBFixer hydrogens at pH 7.4; Meeko atom typing and charges",
+            "relaxation": "Restrained local OpenMM minimization; parameters and energies are recorded in the repair audit."
+          }
+        },
+        "site": {
+          "center": {
+            "x": 32.398,
+            "y": 82.244,
+            "z": -11.053
+          },
+          "size": {
+            "x": 17.539,
+            "y": 18.25,
+            "z": 16
+          },
+          "derived_from": {
+            "residue_name": "ETC",
+            "chain": "A",
+            "residue_number": 600,
+            "heavy_atoms": 24,
+            "padding_angstrom": 5
+          }
+        },
+        "method": {
+          "engine": "AutoDock Vina",
+          "engine_version": "1.2.7",
+          "scoring_function": "vina",
+          "exhaustiveness": 4,
+          "requested_poses": 3,
+          "energy_range_kcal_mol": 4
+        },
+        "poses": [
+          {
+            "rank": 1,
+            "score_kcal_mol": -6.273,
+            "intermolecular_kcal_mol": -7.007,
+            "intramolecular_kcal_mol": -0.35,
+            "torsional_kcal_mol": 0.733,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.4481
+          },
+          {
+            "rank": 2,
+            "score_kcal_mol": -6.219,
+            "intermolecular_kcal_mol": -6.96,
+            "intramolecular_kcal_mol": -0.336,
+            "torsional_kcal_mol": 0.727,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.4442
+          },
+          {
+            "rank": 3,
+            "score_kcal_mol": -6.072,
+            "intermolecular_kcal_mol": -6.858,
+            "intramolecular_kcal_mol": -0.274,
+            "torsional_kcal_mol": 0.71,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.4337
+          }
+        ],
+        "best_score_kcal_mol": -6.273,
+        "interpretation": {
+          "score_meaning": "Vina scores rank predicted poses under this exact preparation protocol.",
+          "not_an_affinity": "Scores are not experimental binding affinity and must not be converted to Ki, Kd, or IC50.",
+          "comparison_rule": "Compare ligands only when receptor, box, protonation, scoring, and search settings are identical.",
+          "validation": "Use known active/inactive controls, redocking RMSD, orthogonal scoring, and experimental binding assays."
+        },
+        "sources": [
+          {
+            "id": "DOCK1",
+            "title": "AutoDock Vina",
+            "url": "https://autodock-vina.readthedocs.io/"
+          },
+          {
+            "id": "DOCK2",
+            "title": "Meeko receptor and ligand preparation",
+            "url": "https://meeko.readthedocs.io/"
+          },
+          {
+            "id": "DOCK3",
+            "title": "RCSB Protein Data Bank",
+            "url": "https://www.rcsb.org/structure/1L2J"
+          }
+        ],
+        "artifacts": [],
+        "provenance": {
+          "operation": "dock",
+          "service_version": "1.1.0",
+          "rdkit_version": "2025.09.5",
+          "computed_at": "2026-07-18T17:49:47.329506+00:00",
+          "computation_ms": 2187.29
+        }
+      },
+      {
+        "ligand": {
+          "label": "terpineol",
+          "identifiers": {
+            "canonical_smiles": "CC1=CCC(C(C)(C)O)CC1",
+            "isomeric_smiles": "CC1=CCC(C(C)(C)O)CC1",
+            "inchi": "InChI=1S/C10H18O/c1-8-4-6-9(7-5-8)10(2,3)11/h4,9,11H,5-7H2,1-3H3",
+            "inchi_key": "WUOACPNHFRMFPN-UHFFFAOYSA-N",
+            "formula": "C10H18O",
+            "cxsmiles": "CC1=CCC(C(C)(C)O)CC1"
+          },
+          "heavy_atoms": 11,
+          "molecular_weight": 154.253,
+          "preparation": {
+            "engines": [
+              "RDKit ETKDGv3",
+              "Meeko"
+            ],
+            "seed": 20260717
+          },
+          "resolution": {
+            "cid": 17100,
+            "snapshot": "2026-07-18"
+          }
+        },
+        "receptor": {
+          "source": {
+            "database": "RCSB Protein Data Bank",
+            "pdb_id": "1L2J",
+            "title": "Human Estrogen Receptor beta Ligand-binding Domain in Complex with (R,R)-5,11-cis-diethyl-5,6,11,12-tetrahydrochrysene-2,8-diol",
+            "structure_url": "https://www.rcsb.org/structure/1L2J",
+            "coordinate_url": "https://files.rcsb.org/download/1L2J.pdb",
+            "retrieved_at": "2026-07-18T17:49:32.071280+00:00"
+          },
+          "preparation": {
+            "engine": "Meeko",
+            "engine_version": "0.7.1",
+            "rigid_receptor": true,
+            "chains": [
+              "A"
+            ],
+            "kept_heterogens": [],
+            "prepared_atoms": 1741,
+            "explicit_residue_templates": {},
+            "allow_bad_res": true,
+            "bad_residue_policy": "Meeko excluded observed residues that could not match a complete chemical template.",
+            "removed_reference_ligand": {
+              "residue_name": "ETC",
+              "chain": "A",
+              "residue_number": 600,
+              "padding": 5
+            },
+            "repair": {
+              "engine": "not applied",
+              "reason": "PDBFixer output for 1L2J creates a residue valence conflict in Meeko 0.7.1; use the observed chain-A coordinates and let Meeko exclude incomplete residues that cannot match a chemical template.",
+              "policy": "Observed protein coordinates were passed directly to Meeko; missing atoms and unresolved segments were not modeled."
+            },
+            "hydrogen_and_charge_method": "PDBFixer hydrogens at pH 7.4; Meeko atom typing and charges",
+            "relaxation": "Restrained local OpenMM minimization; parameters and energies are recorded in the repair audit."
+          }
+        },
+        "site": {
+          "center": {
+            "x": 32.398,
+            "y": 82.244,
+            "z": -11.053
+          },
+          "size": {
+            "x": 17.539,
+            "y": 18.25,
+            "z": 16
+          },
+          "derived_from": {
+            "residue_name": "ETC",
+            "chain": "A",
+            "residue_number": 600,
+            "heavy_atoms": 24,
+            "padding_angstrom": 5
+          }
+        },
+        "method": {
+          "engine": "AutoDock Vina",
+          "engine_version": "1.2.7",
+          "scoring_function": "vina",
+          "exhaustiveness": 4,
+          "requested_poses": 3,
+          "energy_range_kcal_mol": 4
+        },
+        "poses": [
+          {
+            "rank": 1,
+            "score_kcal_mol": -6.126,
+            "intermolecular_kcal_mol": -6.664,
+            "intramolecular_kcal_mol": -0.159,
+            "torsional_kcal_mol": 0.537,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5569
+          },
+          {
+            "rank": 2,
+            "score_kcal_mol": -5.744,
+            "intermolecular_kcal_mol": -6.226,
+            "intramolecular_kcal_mol": -0.181,
+            "torsional_kcal_mol": 0.504,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5222
+          },
+          {
+            "rank": 3,
+            "score_kcal_mol": -5.475,
+            "intermolecular_kcal_mol": -5.955,
+            "intramolecular_kcal_mol": -0.159,
+            "torsional_kcal_mol": 0.48,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.4977
+          }
+        ],
+        "best_score_kcal_mol": -6.126,
+        "interpretation": {
+          "score_meaning": "Vina scores rank predicted poses under this exact preparation protocol.",
+          "not_an_affinity": "Scores are not experimental binding affinity and must not be converted to Ki, Kd, or IC50.",
+          "comparison_rule": "Compare ligands only when receptor, box, protonation, scoring, and search settings are identical.",
+          "validation": "Use known active/inactive controls, redocking RMSD, orthogonal scoring, and experimental binding assays."
+        },
+        "sources": [
+          {
+            "id": "DOCK1",
+            "title": "AutoDock Vina",
+            "url": "https://autodock-vina.readthedocs.io/"
+          },
+          {
+            "id": "DOCK2",
+            "title": "Meeko receptor and ligand preparation",
+            "url": "https://meeko.readthedocs.io/"
+          },
+          {
+            "id": "DOCK3",
+            "title": "RCSB Protein Data Bank",
+            "url": "https://www.rcsb.org/structure/1L2J"
+          }
+        ],
+        "artifacts": [],
+        "provenance": {
+          "operation": "dock",
+          "service_version": "1.1.0",
+          "rdkit_version": "2025.09.5",
+          "computed_at": "2026-07-18T17:49:49.138903+00:00",
+          "computation_ms": 1809.35
+        }
+      },
+      {
+        "ligand": {
+          "label": "eucalyptol",
+          "identifiers": {
+            "canonical_smiles": "CC12CCC(CC1)C(C)(C)O2",
+            "isomeric_smiles": "CC12CCC(CC1)C(C)(C)O2",
+            "inchi": "InChI=1S/C10H18O/c1-9(2)8-4-6-10(3,11-9)7-5-8/h8H,4-7H2,1-3H3",
+            "inchi_key": "WEEGYLXZBRQIMU-UHFFFAOYSA-N",
+            "formula": "C10H18O",
+            "cxsmiles": "CC12CCC(CC1)C(C)(C)O2"
+          },
+          "heavy_atoms": 11,
+          "molecular_weight": 154.253,
+          "preparation": {
+            "engines": [
+              "RDKit ETKDGv3",
+              "Meeko"
+            ],
+            "seed": 20260717
+          },
+          "resolution": {
+            "cid": 2758,
+            "snapshot": "2026-07-18"
+          }
+        },
+        "receptor": {
+          "source": {
+            "database": "RCSB Protein Data Bank",
+            "pdb_id": "1L2J",
+            "title": "Human Estrogen Receptor beta Ligand-binding Domain in Complex with (R,R)-5,11-cis-diethyl-5,6,11,12-tetrahydrochrysene-2,8-diol",
+            "structure_url": "https://www.rcsb.org/structure/1L2J",
+            "coordinate_url": "https://files.rcsb.org/download/1L2J.pdb",
+            "retrieved_at": "2026-07-18T17:49:32.071280+00:00"
+          },
+          "preparation": {
+            "engine": "Meeko",
+            "engine_version": "0.7.1",
+            "rigid_receptor": true,
+            "chains": [
+              "A"
+            ],
+            "kept_heterogens": [],
+            "prepared_atoms": 1741,
+            "explicit_residue_templates": {},
+            "allow_bad_res": true,
+            "bad_residue_policy": "Meeko excluded observed residues that could not match a complete chemical template.",
+            "removed_reference_ligand": {
+              "residue_name": "ETC",
+              "chain": "A",
+              "residue_number": 600,
+              "padding": 5
+            },
+            "repair": {
+              "engine": "not applied",
+              "reason": "PDBFixer output for 1L2J creates a residue valence conflict in Meeko 0.7.1; use the observed chain-A coordinates and let Meeko exclude incomplete residues that cannot match a chemical template.",
+              "policy": "Observed protein coordinates were passed directly to Meeko; missing atoms and unresolved segments were not modeled."
+            },
+            "hydrogen_and_charge_method": "PDBFixer hydrogens at pH 7.4; Meeko atom typing and charges",
+            "relaxation": "Restrained local OpenMM minimization; parameters and energies are recorded in the repair audit."
+          }
+        },
+        "site": {
+          "center": {
+            "x": 32.398,
+            "y": 82.244,
+            "z": -11.053
+          },
+          "size": {
+            "x": 17.539,
+            "y": 18.25,
+            "z": 16
+          },
+          "derived_from": {
+            "residue_name": "ETC",
+            "chain": "A",
+            "residue_number": 600,
+            "heavy_atoms": 24,
+            "padding_angstrom": 5
+          }
+        },
+        "method": {
+          "engine": "AutoDock Vina",
+          "engine_version": "1.2.7",
+          "scoring_function": "vina",
+          "exhaustiveness": 4,
+          "requested_poses": 3,
+          "energy_range_kcal_mol": 4
+        },
+        "poses": [
+          {
+            "rank": 1,
+            "score_kcal_mol": -5.484,
+            "intermolecular_kcal_mol": -5.484,
+            "intramolecular_kcal_mol": 0,
+            "torsional_kcal_mol": 0,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.4985
+          },
+          {
+            "rank": 2,
+            "score_kcal_mol": -5.451,
+            "intermolecular_kcal_mol": -5.451,
+            "intramolecular_kcal_mol": 0,
+            "torsional_kcal_mol": 0,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.4955
+          },
+          {
+            "rank": 3,
+            "score_kcal_mol": -5.368,
+            "intermolecular_kcal_mol": -5.368,
+            "intramolecular_kcal_mol": 0,
+            "torsional_kcal_mol": 0,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.488
+          }
+        ],
+        "best_score_kcal_mol": -5.484,
+        "interpretation": {
+          "score_meaning": "Vina scores rank predicted poses under this exact preparation protocol.",
+          "not_an_affinity": "Scores are not experimental binding affinity and must not be converted to Ki, Kd, or IC50.",
+          "comparison_rule": "Compare ligands only when receptor, box, protonation, scoring, and search settings are identical.",
+          "validation": "Use known active/inactive controls, redocking RMSD, orthogonal scoring, and experimental binding assays."
+        },
+        "sources": [
+          {
+            "id": "DOCK1",
+            "title": "AutoDock Vina",
+            "url": "https://autodock-vina.readthedocs.io/"
+          },
+          {
+            "id": "DOCK2",
+            "title": "Meeko receptor and ligand preparation",
+            "url": "https://meeko.readthedocs.io/"
+          },
+          {
+            "id": "DOCK3",
+            "title": "RCSB Protein Data Bank",
+            "url": "https://www.rcsb.org/structure/1L2J"
+          }
+        ],
+        "artifacts": [],
+        "provenance": {
+          "operation": "dock",
+          "service_version": "1.1.0",
+          "rdkit_version": "2025.09.5",
+          "computed_at": "2026-07-18T17:49:50.266552+00:00",
+          "computation_ms": 1127.6
+        }
+      },
+      {
+        "ligand": {
+          "label": "perillyl alcohol",
+          "identifiers": {
+            "canonical_smiles": "C=C(C)C1CC=C(CO)CC1",
+            "isomeric_smiles": "C=C(C)C1CC=C(CO)CC1",
+            "inchi": "InChI=1S/C10H16O/c1-8(2)10-5-3-9(7-11)4-6-10/h3,10-11H,1,4-7H2,2H3",
+            "inchi_key": "NDTYTMIUWGWIMO-UHFFFAOYSA-N",
+            "formula": "C10H16O",
+            "cxsmiles": "C=C(C)C1CC=C(CO)CC1"
+          },
+          "heavy_atoms": 11,
+          "molecular_weight": 152.237,
+          "preparation": {
+            "engines": [
+              "RDKit ETKDGv3",
+              "Meeko"
+            ],
+            "seed": 20260717
+          },
+          "resolution": {
+            "cid": 10819,
+            "snapshot": "2026-07-18"
+          }
+        },
+        "receptor": {
+          "source": {
+            "database": "RCSB Protein Data Bank",
+            "pdb_id": "1L2J",
+            "title": "Human Estrogen Receptor beta Ligand-binding Domain in Complex with (R,R)-5,11-cis-diethyl-5,6,11,12-tetrahydrochrysene-2,8-diol",
+            "structure_url": "https://www.rcsb.org/structure/1L2J",
+            "coordinate_url": "https://files.rcsb.org/download/1L2J.pdb",
+            "retrieved_at": "2026-07-18T17:49:32.071280+00:00"
+          },
+          "preparation": {
+            "engine": "Meeko",
+            "engine_version": "0.7.1",
+            "rigid_receptor": true,
+            "chains": [
+              "A"
+            ],
+            "kept_heterogens": [],
+            "prepared_atoms": 1741,
+            "explicit_residue_templates": {},
+            "allow_bad_res": true,
+            "bad_residue_policy": "Meeko excluded observed residues that could not match a complete chemical template.",
+            "removed_reference_ligand": {
+              "residue_name": "ETC",
+              "chain": "A",
+              "residue_number": 600,
+              "padding": 5
+            },
+            "repair": {
+              "engine": "not applied",
+              "reason": "PDBFixer output for 1L2J creates a residue valence conflict in Meeko 0.7.1; use the observed chain-A coordinates and let Meeko exclude incomplete residues that cannot match a chemical template.",
+              "policy": "Observed protein coordinates were passed directly to Meeko; missing atoms and unresolved segments were not modeled."
+            },
+            "hydrogen_and_charge_method": "PDBFixer hydrogens at pH 7.4; Meeko atom typing and charges",
+            "relaxation": "Restrained local OpenMM minimization; parameters and energies are recorded in the repair audit."
+          }
+        },
+        "site": {
+          "center": {
+            "x": 32.398,
+            "y": 82.244,
+            "z": -11.053
+          },
+          "size": {
+            "x": 17.539,
+            "y": 18.25,
+            "z": 16
+          },
+          "derived_from": {
+            "residue_name": "ETC",
+            "chain": "A",
+            "residue_number": 600,
+            "heavy_atoms": 24,
+            "padding_angstrom": 5
+          }
+        },
+        "method": {
+          "engine": "AutoDock Vina",
+          "engine_version": "1.2.7",
+          "scoring_function": "vina",
+          "exhaustiveness": 4,
+          "requested_poses": 3,
+          "energy_range_kcal_mol": 4
+        },
+        "poses": [
+          {
+            "rank": 1,
+            "score_kcal_mol": -6.238,
+            "intermolecular_kcal_mol": -7.15,
+            "intramolecular_kcal_mol": -0.135,
+            "torsional_kcal_mol": 0.912,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5671
+          },
+          {
+            "rank": 2,
+            "score_kcal_mol": -6.187,
+            "intermolecular_kcal_mol": -7.078,
+            "intramolecular_kcal_mol": -0.148,
+            "torsional_kcal_mol": 0.904,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5625
+          },
+          {
+            "rank": 3,
+            "score_kcal_mol": -5.845,
+            "intermolecular_kcal_mol": -6.682,
+            "intramolecular_kcal_mol": -0.152,
+            "torsional_kcal_mol": 0.854,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5314
+          }
+        ],
+        "best_score_kcal_mol": -6.238,
+        "interpretation": {
+          "score_meaning": "Vina scores rank predicted poses under this exact preparation protocol.",
+          "not_an_affinity": "Scores are not experimental binding affinity and must not be converted to Ki, Kd, or IC50.",
+          "comparison_rule": "Compare ligands only when receptor, box, protonation, scoring, and search settings are identical.",
+          "validation": "Use known active/inactive controls, redocking RMSD, orthogonal scoring, and experimental binding assays."
+        },
+        "sources": [
+          {
+            "id": "DOCK1",
+            "title": "AutoDock Vina",
+            "url": "https://autodock-vina.readthedocs.io/"
+          },
+          {
+            "id": "DOCK2",
+            "title": "Meeko receptor and ligand preparation",
+            "url": "https://meeko.readthedocs.io/"
+          },
+          {
+            "id": "DOCK3",
+            "title": "RCSB Protein Data Bank",
+            "url": "https://www.rcsb.org/structure/1L2J"
+          }
+        ],
+        "artifacts": [],
+        "provenance": {
+          "operation": "dock",
+          "service_version": "1.1.0",
+          "rdkit_version": "2025.09.5",
+          "computed_at": "2026-07-18T17:49:52.397605+00:00",
+          "computation_ms": 2131.02
+        }
+      },
+      {
+        "ligand": {
+          "label": "fenchol",
+          "identifiers": {
+            "canonical_smiles": "CC12CCC(C1)C(C)(C)C2O",
+            "isomeric_smiles": "CC12CCC(C1)C(C)(C)C2O",
+            "inchi": "InChI=1S/C10H18O/c1-9(2)7-4-5-10(3,6-7)8(9)11/h7-8,11H,4-6H2,1-3H3",
+            "inchi_key": "IAIHUHQCLTYTSF-UHFFFAOYSA-N",
+            "formula": "C10H18O",
+            "cxsmiles": "CC12CCC(C1)C(C)(C)C2O"
+          },
+          "heavy_atoms": 11,
+          "molecular_weight": 154.253,
+          "preparation": {
+            "engines": [
+              "RDKit ETKDGv3",
+              "Meeko"
+            ],
+            "seed": 20260717
+          },
+          "resolution": {
+            "cid": 15406,
+            "snapshot": "2026-07-18"
+          }
+        },
+        "receptor": {
+          "source": {
+            "database": "RCSB Protein Data Bank",
+            "pdb_id": "1L2J",
+            "title": "Human Estrogen Receptor beta Ligand-binding Domain in Complex with (R,R)-5,11-cis-diethyl-5,6,11,12-tetrahydrochrysene-2,8-diol",
+            "structure_url": "https://www.rcsb.org/structure/1L2J",
+            "coordinate_url": "https://files.rcsb.org/download/1L2J.pdb",
+            "retrieved_at": "2026-07-18T17:49:32.071280+00:00"
+          },
+          "preparation": {
+            "engine": "Meeko",
+            "engine_version": "0.7.1",
+            "rigid_receptor": true,
+            "chains": [
+              "A"
+            ],
+            "kept_heterogens": [],
+            "prepared_atoms": 1741,
+            "explicit_residue_templates": {},
+            "allow_bad_res": true,
+            "bad_residue_policy": "Meeko excluded observed residues that could not match a complete chemical template.",
+            "removed_reference_ligand": {
+              "residue_name": "ETC",
+              "chain": "A",
+              "residue_number": 600,
+              "padding": 5
+            },
+            "repair": {
+              "engine": "not applied",
+              "reason": "PDBFixer output for 1L2J creates a residue valence conflict in Meeko 0.7.1; use the observed chain-A coordinates and let Meeko exclude incomplete residues that cannot match a chemical template.",
+              "policy": "Observed protein coordinates were passed directly to Meeko; missing atoms and unresolved segments were not modeled."
+            },
+            "hydrogen_and_charge_method": "PDBFixer hydrogens at pH 7.4; Meeko atom typing and charges",
+            "relaxation": "Restrained local OpenMM minimization; parameters and energies are recorded in the repair audit."
+          }
+        },
+        "site": {
+          "center": {
+            "x": 32.398,
+            "y": 82.244,
+            "z": -11.053
+          },
+          "size": {
+            "x": 17.539,
+            "y": 18.25,
+            "z": 16
+          },
+          "derived_from": {
+            "residue_name": "ETC",
+            "chain": "A",
+            "residue_number": 600,
+            "heavy_atoms": 24,
+            "padding_angstrom": 5
+          }
+        },
+        "method": {
+          "engine": "AutoDock Vina",
+          "engine_version": "1.2.7",
+          "scoring_function": "vina",
+          "exhaustiveness": 4,
+          "requested_poses": 3,
+          "energy_range_kcal_mol": 4
+        },
+        "poses": [
+          {
+            "rank": 1,
+            "score_kcal_mol": -5.518,
+            "intermolecular_kcal_mol": -5.679,
+            "intramolecular_kcal_mol": 0,
+            "torsional_kcal_mol": 0.161,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5016
+          },
+          {
+            "rank": 2,
+            "score_kcal_mol": -5.327,
+            "intermolecular_kcal_mol": -5.483,
+            "intramolecular_kcal_mol": 0,
+            "torsional_kcal_mol": 0.156,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.4843
+          },
+          {
+            "rank": 3,
+            "score_kcal_mol": -5.324,
+            "intermolecular_kcal_mol": -5.48,
+            "intramolecular_kcal_mol": 0,
+            "torsional_kcal_mol": 0.156,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.484
+          }
+        ],
+        "best_score_kcal_mol": -5.518,
+        "interpretation": {
+          "score_meaning": "Vina scores rank predicted poses under this exact preparation protocol.",
+          "not_an_affinity": "Scores are not experimental binding affinity and must not be converted to Ki, Kd, or IC50.",
+          "comparison_rule": "Compare ligands only when receptor, box, protonation, scoring, and search settings are identical.",
+          "validation": "Use known active/inactive controls, redocking RMSD, orthogonal scoring, and experimental binding assays."
+        },
+        "sources": [
+          {
+            "id": "DOCK1",
+            "title": "AutoDock Vina",
+            "url": "https://autodock-vina.readthedocs.io/"
+          },
+          {
+            "id": "DOCK2",
+            "title": "Meeko receptor and ligand preparation",
+            "url": "https://meeko.readthedocs.io/"
+          },
+          {
+            "id": "DOCK3",
+            "title": "RCSB Protein Data Bank",
+            "url": "https://www.rcsb.org/structure/1L2J"
+          }
+        ],
+        "artifacts": [],
+        "provenance": {
+          "operation": "dock",
+          "service_version": "1.1.0",
+          "rdkit_version": "2025.09.5",
+          "computed_at": "2026-07-18T17:49:53.797202+00:00",
+          "computation_ms": 1399.57
+        }
+      },
+      {
+        "ligand": {
+          "label": "gamma-terpinene",
+          "identifiers": {
+            "canonical_smiles": "CC1=CCC(C(C)C)=CC1",
+            "isomeric_smiles": "CC1=CCC(C(C)C)=CC1",
+            "inchi": "InChI=1S/C10H16/c1-8(2)10-6-4-9(3)5-7-10/h4,7-8H,5-6H2,1-3H3",
+            "inchi_key": "YKFLAYDHMOASIY-UHFFFAOYSA-N",
+            "formula": "C10H16",
+            "cxsmiles": "CC1=CCC(C(C)C)=CC1"
+          },
+          "heavy_atoms": 10,
+          "molecular_weight": 136.238,
+          "preparation": {
+            "engines": [
+              "RDKit ETKDGv3",
+              "Meeko"
+            ],
+            "seed": 20260717
+          },
+          "resolution": {
+            "cid": 7461,
+            "snapshot": "2026-07-18"
+          }
+        },
+        "receptor": {
+          "source": {
+            "database": "RCSB Protein Data Bank",
+            "pdb_id": "1L2J",
+            "title": "Human Estrogen Receptor beta Ligand-binding Domain in Complex with (R,R)-5,11-cis-diethyl-5,6,11,12-tetrahydrochrysene-2,8-diol",
+            "structure_url": "https://www.rcsb.org/structure/1L2J",
+            "coordinate_url": "https://files.rcsb.org/download/1L2J.pdb",
+            "retrieved_at": "2026-07-18T17:49:32.071280+00:00"
+          },
+          "preparation": {
+            "engine": "Meeko",
+            "engine_version": "0.7.1",
+            "rigid_receptor": true,
+            "chains": [
+              "A"
+            ],
+            "kept_heterogens": [],
+            "prepared_atoms": 1741,
+            "explicit_residue_templates": {},
+            "allow_bad_res": true,
+            "bad_residue_policy": "Meeko excluded observed residues that could not match a complete chemical template.",
+            "removed_reference_ligand": {
+              "residue_name": "ETC",
+              "chain": "A",
+              "residue_number": 600,
+              "padding": 5
+            },
+            "repair": {
+              "engine": "not applied",
+              "reason": "PDBFixer output for 1L2J creates a residue valence conflict in Meeko 0.7.1; use the observed chain-A coordinates and let Meeko exclude incomplete residues that cannot match a chemical template.",
+              "policy": "Observed protein coordinates were passed directly to Meeko; missing atoms and unresolved segments were not modeled."
+            },
+            "hydrogen_and_charge_method": "PDBFixer hydrogens at pH 7.4; Meeko atom typing and charges",
+            "relaxation": "Restrained local OpenMM minimization; parameters and energies are recorded in the repair audit."
+          }
+        },
+        "site": {
+          "center": {
+            "x": 32.398,
+            "y": 82.244,
+            "z": -11.053
+          },
+          "size": {
+            "x": 17.539,
+            "y": 18.25,
+            "z": 16
+          },
+          "derived_from": {
+            "residue_name": "ETC",
+            "chain": "A",
+            "residue_number": 600,
+            "heavy_atoms": 24,
+            "padding_angstrom": 5
+          }
+        },
+        "method": {
+          "engine": "AutoDock Vina",
+          "engine_version": "1.2.7",
+          "scoring_function": "vina",
+          "exhaustiveness": 4,
+          "requested_poses": 3,
+          "energy_range_kcal_mol": 4
+        },
+        "poses": [
+          {
+            "rank": 1,
+            "score_kcal_mol": -6.064,
+            "intermolecular_kcal_mol": -6.419,
+            "intramolecular_kcal_mol": -0.138,
+            "torsional_kcal_mol": 0.355,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.6064
+          },
+          {
+            "rank": 2,
+            "score_kcal_mol": -6.037,
+            "intermolecular_kcal_mol": -6.397,
+            "intramolecular_kcal_mol": -0.131,
+            "torsional_kcal_mol": 0.353,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.6037
+          },
+          {
+            "rank": 3,
+            "score_kcal_mol": -5.944,
+            "intermolecular_kcal_mol": -6.295,
+            "intramolecular_kcal_mol": -0.134,
+            "torsional_kcal_mol": 0.347,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5944
+          }
+        ],
+        "best_score_kcal_mol": -6.064,
+        "interpretation": {
+          "score_meaning": "Vina scores rank predicted poses under this exact preparation protocol.",
+          "not_an_affinity": "Scores are not experimental binding affinity and must not be converted to Ki, Kd, or IC50.",
+          "comparison_rule": "Compare ligands only when receptor, box, protonation, scoring, and search settings are identical.",
+          "validation": "Use known active/inactive controls, redocking RMSD, orthogonal scoring, and experimental binding assays."
+        },
+        "sources": [
+          {
+            "id": "DOCK1",
+            "title": "AutoDock Vina",
+            "url": "https://autodock-vina.readthedocs.io/"
+          },
+          {
+            "id": "DOCK2",
+            "title": "Meeko receptor and ligand preparation",
+            "url": "https://meeko.readthedocs.io/"
+          },
+          {
+            "id": "DOCK3",
+            "title": "RCSB Protein Data Bank",
+            "url": "https://www.rcsb.org/structure/1L2J"
+          }
+        ],
+        "artifacts": [],
+        "provenance": {
+          "operation": "dock",
+          "service_version": "1.1.0",
+          "rdkit_version": "2025.09.5",
+          "computed_at": "2026-07-18T17:49:55.037256+00:00",
+          "computation_ms": 1240.02
+        }
+      },
+      {
+        "ligand": {
+          "label": "beta-myrcene",
+          "identifiers": {
+            "canonical_smiles": "C=CC(=C)CCC=C(C)C",
+            "isomeric_smiles": "C=CC(=C)CCC=C(C)C",
+            "inchi": "InChI=1S/C10H16/c1-5-10(4)8-6-7-9(2)3/h5,7H,1,4,6,8H2,2-3H3",
+            "inchi_key": "UAHWPYUMFXYFJY-UHFFFAOYSA-N",
+            "formula": "C10H16",
+            "cxsmiles": "C=CC(=C)CCC=C(C)C"
+          },
+          "heavy_atoms": 10,
+          "molecular_weight": 136.238,
+          "preparation": {
+            "engines": [
+              "RDKit ETKDGv3",
+              "Meeko"
+            ],
+            "seed": 20260717
+          },
+          "resolution": {
+            "cid": 31253,
+            "snapshot": "2026-07-18"
+          }
+        },
+        "receptor": {
+          "source": {
+            "database": "RCSB Protein Data Bank",
+            "pdb_id": "1L2J",
+            "title": "Human Estrogen Receptor beta Ligand-binding Domain in Complex with (R,R)-5,11-cis-diethyl-5,6,11,12-tetrahydrochrysene-2,8-diol",
+            "structure_url": "https://www.rcsb.org/structure/1L2J",
+            "coordinate_url": "https://files.rcsb.org/download/1L2J.pdb",
+            "retrieved_at": "2026-07-18T17:49:32.071280+00:00"
+          },
+          "preparation": {
+            "engine": "Meeko",
+            "engine_version": "0.7.1",
+            "rigid_receptor": true,
+            "chains": [
+              "A"
+            ],
+            "kept_heterogens": [],
+            "prepared_atoms": 1741,
+            "explicit_residue_templates": {},
+            "allow_bad_res": true,
+            "bad_residue_policy": "Meeko excluded observed residues that could not match a complete chemical template.",
+            "removed_reference_ligand": {
+              "residue_name": "ETC",
+              "chain": "A",
+              "residue_number": 600,
+              "padding": 5
+            },
+            "repair": {
+              "engine": "not applied",
+              "reason": "PDBFixer output for 1L2J creates a residue valence conflict in Meeko 0.7.1; use the observed chain-A coordinates and let Meeko exclude incomplete residues that cannot match a chemical template.",
+              "policy": "Observed protein coordinates were passed directly to Meeko; missing atoms and unresolved segments were not modeled."
+            },
+            "hydrogen_and_charge_method": "PDBFixer hydrogens at pH 7.4; Meeko atom typing and charges",
+            "relaxation": "Restrained local OpenMM minimization; parameters and energies are recorded in the repair audit."
+          }
+        },
+        "site": {
+          "center": {
+            "x": 32.398,
+            "y": 82.244,
+            "z": -11.053
+          },
+          "size": {
+            "x": 17.539,
+            "y": 18.25,
+            "z": 16
+          },
+          "derived_from": {
+            "residue_name": "ETC",
+            "chain": "A",
+            "residue_number": 600,
+            "heavy_atoms": 24,
+            "padding_angstrom": 5
+          }
+        },
+        "method": {
+          "engine": "AutoDock Vina",
+          "engine_version": "1.2.7",
+          "scoring_function": "vina",
+          "exhaustiveness": 4,
+          "requested_poses": 3,
+          "energy_range_kcal_mol": 4
+        },
+        "poses": [
+          {
+            "rank": 1,
+            "score_kcal_mol": -5.848,
+            "intermolecular_kcal_mol": -7.216,
+            "intramolecular_kcal_mol": -0.533,
+            "torsional_kcal_mol": 1.368,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5848
+          },
+          {
+            "rank": 2,
+            "score_kcal_mol": -5.754,
+            "intermolecular_kcal_mol": -7.114,
+            "intramolecular_kcal_mol": -0.519,
+            "torsional_kcal_mol": 1.346,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5754
+          },
+          {
+            "rank": 3,
+            "score_kcal_mol": -5.367,
+            "intermolecular_kcal_mol": -6.52,
+            "intramolecular_kcal_mol": -0.636,
+            "torsional_kcal_mol": 1.255,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5367
+          }
+        ],
+        "best_score_kcal_mol": -5.848,
+        "interpretation": {
+          "score_meaning": "Vina scores rank predicted poses under this exact preparation protocol.",
+          "not_an_affinity": "Scores are not experimental binding affinity and must not be converted to Ki, Kd, or IC50.",
+          "comparison_rule": "Compare ligands only when receptor, box, protonation, scoring, and search settings are identical.",
+          "validation": "Use known active/inactive controls, redocking RMSD, orthogonal scoring, and experimental binding assays."
+        },
+        "sources": [
+          {
+            "id": "DOCK1",
+            "title": "AutoDock Vina",
+            "url": "https://autodock-vina.readthedocs.io/"
+          },
+          {
+            "id": "DOCK2",
+            "title": "Meeko receptor and ligand preparation",
+            "url": "https://meeko.readthedocs.io/"
+          },
+          {
+            "id": "DOCK3",
+            "title": "RCSB Protein Data Bank",
+            "url": "https://www.rcsb.org/structure/1L2J"
+          }
+        ],
+        "artifacts": [],
+        "provenance": {
+          "operation": "dock",
+          "service_version": "1.1.0",
+          "rdkit_version": "2025.09.5",
+          "computed_at": "2026-07-18T17:49:57.119532+00:00",
+          "computation_ms": 2082.25
+        }
+      },
+      {
+        "ligand": {
+          "label": "beta-ocimene",
+          "identifiers": {
+            "canonical_smiles": "C=CC(C)=CCC=C(C)C",
+            "isomeric_smiles": "C=CC(C)=CCC=C(C)C",
+            "inchi": "InChI=1S/C10H16/c1-5-10(4)8-6-7-9(2)3/h5,7-8H,1,6H2,2-4H3",
+            "inchi_key": "IHPKGUQCSIINRJ-UHFFFAOYSA-N",
+            "formula": "C10H16",
+            "cxsmiles": "C=CC(C)=CCC=C(C)C"
+          },
+          "heavy_atoms": 10,
+          "molecular_weight": 136.238,
+          "preparation": {
+            "engines": [
+              "RDKit ETKDGv3",
+              "Meeko"
+            ],
+            "seed": 20260717
+          },
+          "resolution": {
+            "cid": 18756,
+            "snapshot": "2026-07-18"
+          }
+        },
+        "receptor": {
+          "source": {
+            "database": "RCSB Protein Data Bank",
+            "pdb_id": "1L2J",
+            "title": "Human Estrogen Receptor beta Ligand-binding Domain in Complex with (R,R)-5,11-cis-diethyl-5,6,11,12-tetrahydrochrysene-2,8-diol",
+            "structure_url": "https://www.rcsb.org/structure/1L2J",
+            "coordinate_url": "https://files.rcsb.org/download/1L2J.pdb",
+            "retrieved_at": "2026-07-18T17:49:32.071280+00:00"
+          },
+          "preparation": {
+            "engine": "Meeko",
+            "engine_version": "0.7.1",
+            "rigid_receptor": true,
+            "chains": [
+              "A"
+            ],
+            "kept_heterogens": [],
+            "prepared_atoms": 1741,
+            "explicit_residue_templates": {},
+            "allow_bad_res": true,
+            "bad_residue_policy": "Meeko excluded observed residues that could not match a complete chemical template.",
+            "removed_reference_ligand": {
+              "residue_name": "ETC",
+              "chain": "A",
+              "residue_number": 600,
+              "padding": 5
+            },
+            "repair": {
+              "engine": "not applied",
+              "reason": "PDBFixer output for 1L2J creates a residue valence conflict in Meeko 0.7.1; use the observed chain-A coordinates and let Meeko exclude incomplete residues that cannot match a chemical template.",
+              "policy": "Observed protein coordinates were passed directly to Meeko; missing atoms and unresolved segments were not modeled."
+            },
+            "hydrogen_and_charge_method": "PDBFixer hydrogens at pH 7.4; Meeko atom typing and charges",
+            "relaxation": "Restrained local OpenMM minimization; parameters and energies are recorded in the repair audit."
+          }
+        },
+        "site": {
+          "center": {
+            "x": 32.398,
+            "y": 82.244,
+            "z": -11.053
+          },
+          "size": {
+            "x": 17.539,
+            "y": 18.25,
+            "z": 16
+          },
+          "derived_from": {
+            "residue_name": "ETC",
+            "chain": "A",
+            "residue_number": 600,
+            "heavy_atoms": 24,
+            "padding_angstrom": 5
+          }
+        },
+        "method": {
+          "engine": "AutoDock Vina",
+          "engine_version": "1.2.7",
+          "scoring_function": "vina",
+          "exhaustiveness": 4,
+          "requested_poses": 3,
+          "energy_range_kcal_mol": 4
+        },
+        "poses": [
+          {
+            "rank": 1,
+            "score_kcal_mol": -6.109,
+            "intermolecular_kcal_mol": -7.18,
+            "intramolecular_kcal_mol": -0.505,
+            "torsional_kcal_mol": 1.071,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.6109
+          },
+          {
+            "rank": 2,
+            "score_kcal_mol": -5.965,
+            "intermolecular_kcal_mol": -7.093,
+            "intramolecular_kcal_mol": -0.424,
+            "torsional_kcal_mol": 1.046,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5965
+          },
+          {
+            "rank": 3,
+            "score_kcal_mol": -5.633,
+            "intermolecular_kcal_mol": -6.801,
+            "intramolecular_kcal_mol": -0.326,
+            "torsional_kcal_mol": 0.988,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5633
+          }
+        ],
+        "best_score_kcal_mol": -6.109,
+        "interpretation": {
+          "score_meaning": "Vina scores rank predicted poses under this exact preparation protocol.",
+          "not_an_affinity": "Scores are not experimental binding affinity and must not be converted to Ki, Kd, or IC50.",
+          "comparison_rule": "Compare ligands only when receptor, box, protonation, scoring, and search settings are identical.",
+          "validation": "Use known active/inactive controls, redocking RMSD, orthogonal scoring, and experimental binding assays."
+        },
+        "sources": [
+          {
+            "id": "DOCK1",
+            "title": "AutoDock Vina",
+            "url": "https://autodock-vina.readthedocs.io/"
+          },
+          {
+            "id": "DOCK2",
+            "title": "Meeko receptor and ligand preparation",
+            "url": "https://meeko.readthedocs.io/"
+          },
+          {
+            "id": "DOCK3",
+            "title": "RCSB Protein Data Bank",
+            "url": "https://www.rcsb.org/structure/1L2J"
+          }
+        ],
+        "artifacts": [],
+        "provenance": {
+          "operation": "dock",
+          "service_version": "1.1.0",
+          "rdkit_version": "2025.09.5",
+          "computed_at": "2026-07-18T17:49:58.919431+00:00",
+          "computation_ms": 1799.87
+        }
+      },
+      {
+        "ligand": {
+          "label": "S-carvone",
+          "identifiers": {
+            "canonical_smiles": "C=C(C)[C@H]1CC=C(C)C(=O)C1",
+            "isomeric_smiles": "C=C(C)[C@H]1CC=C(C)C(=O)C1",
+            "inchi": "InChI=1S/C10H14O/c1-7(2)9-5-4-8(3)10(11)6-9/h4,9H,1,5-6H2,2-3H3/t9-/m0/s1",
+            "inchi_key": "ULDHMXUKGWMISQ-VIFPVBQESA-N",
+            "formula": "C10H14O",
+            "cxsmiles": "C=C(C)[C@H]1CC=C(C)C(=O)C1"
+          },
+          "heavy_atoms": 11,
+          "molecular_weight": 150.221,
+          "preparation": {
+            "engines": [
+              "RDKit ETKDGv3",
+              "Meeko"
+            ],
+            "seed": 20260717
+          },
+          "resolution": {
+            "cid": 16724,
+            "snapshot": "2026-07-18"
+          }
+        },
+        "receptor": {
+          "source": {
+            "database": "RCSB Protein Data Bank",
+            "pdb_id": "1L2J",
+            "title": "Human Estrogen Receptor beta Ligand-binding Domain in Complex with (R,R)-5,11-cis-diethyl-5,6,11,12-tetrahydrochrysene-2,8-diol",
+            "structure_url": "https://www.rcsb.org/structure/1L2J",
+            "coordinate_url": "https://files.rcsb.org/download/1L2J.pdb",
+            "retrieved_at": "2026-07-18T17:49:32.071280+00:00"
+          },
+          "preparation": {
+            "engine": "Meeko",
+            "engine_version": "0.7.1",
+            "rigid_receptor": true,
+            "chains": [
+              "A"
+            ],
+            "kept_heterogens": [],
+            "prepared_atoms": 1741,
+            "explicit_residue_templates": {},
+            "allow_bad_res": true,
+            "bad_residue_policy": "Meeko excluded observed residues that could not match a complete chemical template.",
+            "removed_reference_ligand": {
+              "residue_name": "ETC",
+              "chain": "A",
+              "residue_number": 600,
+              "padding": 5
+            },
+            "repair": {
+              "engine": "not applied",
+              "reason": "PDBFixer output for 1L2J creates a residue valence conflict in Meeko 0.7.1; use the observed chain-A coordinates and let Meeko exclude incomplete residues that cannot match a chemical template.",
+              "policy": "Observed protein coordinates were passed directly to Meeko; missing atoms and unresolved segments were not modeled."
+            },
+            "hydrogen_and_charge_method": "PDBFixer hydrogens at pH 7.4; Meeko atom typing and charges",
+            "relaxation": "Restrained local OpenMM minimization; parameters and energies are recorded in the repair audit."
+          }
+        },
+        "site": {
+          "center": {
+            "x": 32.398,
+            "y": 82.244,
+            "z": -11.053
+          },
+          "size": {
+            "x": 17.539,
+            "y": 18.25,
+            "z": 16
+          },
+          "derived_from": {
+            "residue_name": "ETC",
+            "chain": "A",
+            "residue_number": 600,
+            "heavy_atoms": 24,
+            "padding_angstrom": 5
+          }
+        },
+        "method": {
+          "engine": "AutoDock Vina",
+          "engine_version": "1.2.7",
+          "scoring_function": "vina",
+          "exhaustiveness": 4,
+          "requested_poses": 3,
+          "energy_range_kcal_mol": 4
+        },
+        "poses": [
+          {
+            "rank": 1,
+            "score_kcal_mol": -6.206,
+            "intermolecular_kcal_mol": -6.569,
+            "intramolecular_kcal_mol": -0.099,
+            "torsional_kcal_mol": 0.363,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5642
+          },
+          {
+            "rank": 2,
+            "score_kcal_mol": -6.165,
+            "intermolecular_kcal_mol": -6.528,
+            "intramolecular_kcal_mol": -0.096,
+            "torsional_kcal_mol": 0.36,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5605
+          },
+          {
+            "rank": 3,
+            "score_kcal_mol": -5.994,
+            "intermolecular_kcal_mol": -6.356,
+            "intramolecular_kcal_mol": -0.088,
+            "torsional_kcal_mol": 0.35,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5449
+          }
+        ],
+        "best_score_kcal_mol": -6.206,
+        "interpretation": {
+          "score_meaning": "Vina scores rank predicted poses under this exact preparation protocol.",
+          "not_an_affinity": "Scores are not experimental binding affinity and must not be converted to Ki, Kd, or IC50.",
+          "comparison_rule": "Compare ligands only when receptor, box, protonation, scoring, and search settings are identical.",
+          "validation": "Use known active/inactive controls, redocking RMSD, orthogonal scoring, and experimental binding assays."
+        },
+        "sources": [
+          {
+            "id": "DOCK1",
+            "title": "AutoDock Vina",
+            "url": "https://autodock-vina.readthedocs.io/"
+          },
+          {
+            "id": "DOCK2",
+            "title": "Meeko receptor and ligand preparation",
+            "url": "https://meeko.readthedocs.io/"
+          },
+          {
+            "id": "DOCK3",
+            "title": "RCSB Protein Data Bank",
+            "url": "https://www.rcsb.org/structure/1L2J"
+          }
+        ],
+        "artifacts": [],
+        "provenance": {
+          "operation": "dock",
+          "service_version": "1.1.0",
+          "rdkit_version": "2025.09.5",
+          "computed_at": "2026-07-18T17:50:00.358818+00:00",
+          "computation_ms": 1439.36
+        }
+      },
+      {
+        "ligand": {
+          "label": "R-carvone",
+          "identifiers": {
+            "canonical_smiles": "C=C(C)[C@@H]1CC=C(C)C(=O)C1",
+            "isomeric_smiles": "C=C(C)[C@@H]1CC=C(C)C(=O)C1",
+            "inchi": "InChI=1S/C10H14O/c1-7(2)9-5-4-8(3)10(11)6-9/h4,9H,1,5-6H2,2-3H3/t9-/m1/s1",
+            "inchi_key": "ULDHMXUKGWMISQ-SECBINFHSA-N",
+            "formula": "C10H14O",
+            "cxsmiles": "C=C(C)[C@@H]1CC=C(C)C(=O)C1"
+          },
+          "heavy_atoms": 11,
+          "molecular_weight": 150.221,
+          "preparation": {
+            "engines": [
+              "RDKit ETKDGv3",
+              "Meeko"
+            ],
+            "seed": 20260717
+          },
+          "resolution": {
+            "cid": 439570,
+            "snapshot": "2026-07-18"
+          }
+        },
+        "receptor": {
+          "source": {
+            "database": "RCSB Protein Data Bank",
+            "pdb_id": "1L2J",
+            "title": "Human Estrogen Receptor beta Ligand-binding Domain in Complex with (R,R)-5,11-cis-diethyl-5,6,11,12-tetrahydrochrysene-2,8-diol",
+            "structure_url": "https://www.rcsb.org/structure/1L2J",
+            "coordinate_url": "https://files.rcsb.org/download/1L2J.pdb",
+            "retrieved_at": "2026-07-18T17:49:32.071280+00:00"
+          },
+          "preparation": {
+            "engine": "Meeko",
+            "engine_version": "0.7.1",
+            "rigid_receptor": true,
+            "chains": [
+              "A"
+            ],
+            "kept_heterogens": [],
+            "prepared_atoms": 1741,
+            "explicit_residue_templates": {},
+            "allow_bad_res": true,
+            "bad_residue_policy": "Meeko excluded observed residues that could not match a complete chemical template.",
+            "removed_reference_ligand": {
+              "residue_name": "ETC",
+              "chain": "A",
+              "residue_number": 600,
+              "padding": 5
+            },
+            "repair": {
+              "engine": "not applied",
+              "reason": "PDBFixer output for 1L2J creates a residue valence conflict in Meeko 0.7.1; use the observed chain-A coordinates and let Meeko exclude incomplete residues that cannot match a chemical template.",
+              "policy": "Observed protein coordinates were passed directly to Meeko; missing atoms and unresolved segments were not modeled."
+            },
+            "hydrogen_and_charge_method": "PDBFixer hydrogens at pH 7.4; Meeko atom typing and charges",
+            "relaxation": "Restrained local OpenMM minimization; parameters and energies are recorded in the repair audit."
+          }
+        },
+        "site": {
+          "center": {
+            "x": 32.398,
+            "y": 82.244,
+            "z": -11.053
+          },
+          "size": {
+            "x": 17.539,
+            "y": 18.25,
+            "z": 16
+          },
+          "derived_from": {
+            "residue_name": "ETC",
+            "chain": "A",
+            "residue_number": 600,
+            "heavy_atoms": 24,
+            "padding_angstrom": 5
+          }
+        },
+        "method": {
+          "engine": "AutoDock Vina",
+          "engine_version": "1.2.7",
+          "scoring_function": "vina",
+          "exhaustiveness": 4,
+          "requested_poses": 3,
+          "energy_range_kcal_mol": 4
+        },
+        "poses": [
+          {
+            "rank": 1,
+            "score_kcal_mol": -6.253,
+            "intermolecular_kcal_mol": -6.618,
+            "intramolecular_kcal_mol": -0.095,
+            "torsional_kcal_mol": 0.366,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5685
+          },
+          {
+            "rank": 2,
+            "score_kcal_mol": -6.246,
+            "intermolecular_kcal_mol": -6.612,
+            "intramolecular_kcal_mol": -0.095,
+            "torsional_kcal_mol": 0.365,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5678
+          },
+          {
+            "rank": 3,
+            "score_kcal_mol": -6.026,
+            "intermolecular_kcal_mol": -6.381,
+            "intramolecular_kcal_mol": -0.093,
+            "torsional_kcal_mol": 0.352,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5478
+          }
+        ],
+        "best_score_kcal_mol": -6.253,
+        "interpretation": {
+          "score_meaning": "Vina scores rank predicted poses under this exact preparation protocol.",
+          "not_an_affinity": "Scores are not experimental binding affinity and must not be converted to Ki, Kd, or IC50.",
+          "comparison_rule": "Compare ligands only when receptor, box, protonation, scoring, and search settings are identical.",
+          "validation": "Use known active/inactive controls, redocking RMSD, orthogonal scoring, and experimental binding assays."
+        },
+        "sources": [
+          {
+            "id": "DOCK1",
+            "title": "AutoDock Vina",
+            "url": "https://autodock-vina.readthedocs.io/"
+          },
+          {
+            "id": "DOCK2",
+            "title": "Meeko receptor and ligand preparation",
+            "url": "https://meeko.readthedocs.io/"
+          },
+          {
+            "id": "DOCK3",
+            "title": "RCSB Protein Data Bank",
+            "url": "https://www.rcsb.org/structure/1L2J"
+          }
+        ],
+        "artifacts": [],
+        "provenance": {
+          "operation": "dock",
+          "service_version": "1.1.0",
+          "rdkit_version": "2025.09.5",
+          "computed_at": "2026-07-18T17:50:01.888668+00:00",
+          "computation_ms": 1529.82
+        }
+      },
+      {
+        "ligand": {
+          "label": "p-cymene",
+          "identifiers": {
+            "canonical_smiles": "Cc1ccc(C(C)C)cc1",
+            "isomeric_smiles": "Cc1ccc(C(C)C)cc1",
+            "inchi": "InChI=1S/C10H14/c1-8(2)10-6-4-9(3)5-7-10/h4-8H,1-3H3",
+            "inchi_key": "HFPZCAJZSCWRBC-UHFFFAOYSA-N",
+            "formula": "C10H14",
+            "cxsmiles": "Cc1ccc(C(C)C)cc1"
+          },
+          "heavy_atoms": 10,
+          "molecular_weight": 134.222,
+          "preparation": {
+            "engines": [
+              "RDKit ETKDGv3",
+              "Meeko"
+            ],
+            "seed": 20260717
+          },
+          "resolution": {
+            "cid": 7463,
+            "snapshot": "2026-07-18"
+          }
+        },
+        "receptor": {
+          "source": {
+            "database": "RCSB Protein Data Bank",
+            "pdb_id": "1L2J",
+            "title": "Human Estrogen Receptor beta Ligand-binding Domain in Complex with (R,R)-5,11-cis-diethyl-5,6,11,12-tetrahydrochrysene-2,8-diol",
+            "structure_url": "https://www.rcsb.org/structure/1L2J",
+            "coordinate_url": "https://files.rcsb.org/download/1L2J.pdb",
+            "retrieved_at": "2026-07-18T17:49:32.071280+00:00"
+          },
+          "preparation": {
+            "engine": "Meeko",
+            "engine_version": "0.7.1",
+            "rigid_receptor": true,
+            "chains": [
+              "A"
+            ],
+            "kept_heterogens": [],
+            "prepared_atoms": 1741,
+            "explicit_residue_templates": {},
+            "allow_bad_res": true,
+            "bad_residue_policy": "Meeko excluded observed residues that could not match a complete chemical template.",
+            "removed_reference_ligand": {
+              "residue_name": "ETC",
+              "chain": "A",
+              "residue_number": 600,
+              "padding": 5
+            },
+            "repair": {
+              "engine": "not applied",
+              "reason": "PDBFixer output for 1L2J creates a residue valence conflict in Meeko 0.7.1; use the observed chain-A coordinates and let Meeko exclude incomplete residues that cannot match a chemical template.",
+              "policy": "Observed protein coordinates were passed directly to Meeko; missing atoms and unresolved segments were not modeled."
+            },
+            "hydrogen_and_charge_method": "PDBFixer hydrogens at pH 7.4; Meeko atom typing and charges",
+            "relaxation": "Restrained local OpenMM minimization; parameters and energies are recorded in the repair audit."
+          }
+        },
+        "site": {
+          "center": {
+            "x": 32.398,
+            "y": 82.244,
+            "z": -11.053
+          },
+          "size": {
+            "x": 17.539,
+            "y": 18.25,
+            "z": 16
+          },
+          "derived_from": {
+            "residue_name": "ETC",
+            "chain": "A",
+            "residue_number": 600,
+            "heavy_atoms": 24,
+            "padding_angstrom": 5
+          }
+        },
+        "method": {
+          "engine": "AutoDock Vina",
+          "engine_version": "1.2.7",
+          "scoring_function": "vina",
+          "exhaustiveness": 4,
+          "requested_poses": 3,
+          "energy_range_kcal_mol": 4
+        },
+        "poses": [
+          {
+            "rank": 1,
+            "score_kcal_mol": -6.157,
+            "intermolecular_kcal_mol": -6.517,
+            "intramolecular_kcal_mol": -0.164,
+            "torsional_kcal_mol": 0.36,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.6157
+          },
+          {
+            "rank": 2,
+            "score_kcal_mol": -6.055,
+            "intermolecular_kcal_mol": -6.418,
+            "intramolecular_kcal_mol": -0.155,
+            "torsional_kcal_mol": 0.354,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.6055
+          },
+          {
+            "rank": 3,
+            "score_kcal_mol": -5.841,
+            "intermolecular_kcal_mol": -6.182,
+            "intramolecular_kcal_mol": -0.165,
+            "torsional_kcal_mol": 0.341,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5841
+          }
+        ],
+        "best_score_kcal_mol": -6.157,
+        "interpretation": {
+          "score_meaning": "Vina scores rank predicted poses under this exact preparation protocol.",
+          "not_an_affinity": "Scores are not experimental binding affinity and must not be converted to Ki, Kd, or IC50.",
+          "comparison_rule": "Compare ligands only when receptor, box, protonation, scoring, and search settings are identical.",
+          "validation": "Use known active/inactive controls, redocking RMSD, orthogonal scoring, and experimental binding assays."
+        },
+        "sources": [
+          {
+            "id": "DOCK1",
+            "title": "AutoDock Vina",
+            "url": "https://autodock-vina.readthedocs.io/"
+          },
+          {
+            "id": "DOCK2",
+            "title": "Meeko receptor and ligand preparation",
+            "url": "https://meeko.readthedocs.io/"
+          },
+          {
+            "id": "DOCK3",
+            "title": "RCSB Protein Data Bank",
+            "url": "https://www.rcsb.org/structure/1L2J"
+          }
+        ],
+        "artifacts": [],
+        "provenance": {
+          "operation": "dock",
+          "service_version": "1.1.0",
+          "rdkit_version": "2025.09.5",
+          "computed_at": "2026-07-18T17:50:03.184573+00:00",
+          "computation_ms": 1295.87
+        }
+      },
+      {
+        "ligand": {
+          "label": "borneol",
+          "identifiers": {
+            "canonical_smiles": "CC1(C)C2CCC1(C)C(O)C2",
+            "isomeric_smiles": "CC1(C)C2CCC1(C)C(O)C2",
+            "inchi": "InChI=1S/C10H18O/c1-9(2)7-4-5-10(9,3)8(11)6-7/h7-8,11H,4-6H2,1-3H3",
+            "inchi_key": "DTGKSKDOIYIVQL-UHFFFAOYSA-N",
+            "formula": "C10H18O",
+            "cxsmiles": "CC1(C)C2CCC1(C)C(O)C2"
+          },
+          "heavy_atoms": 11,
+          "molecular_weight": 154.253,
+          "preparation": {
+            "engines": [
+              "RDKit ETKDGv3",
+              "Meeko"
+            ],
+            "seed": 20260717
+          },
+          "resolution": {
+            "cid": 64685,
+            "snapshot": "2026-07-18"
+          }
+        },
+        "receptor": {
+          "source": {
+            "database": "RCSB Protein Data Bank",
+            "pdb_id": "1L2J",
+            "title": "Human Estrogen Receptor beta Ligand-binding Domain in Complex with (R,R)-5,11-cis-diethyl-5,6,11,12-tetrahydrochrysene-2,8-diol",
+            "structure_url": "https://www.rcsb.org/structure/1L2J",
+            "coordinate_url": "https://files.rcsb.org/download/1L2J.pdb",
+            "retrieved_at": "2026-07-18T17:49:32.071280+00:00"
+          },
+          "preparation": {
+            "engine": "Meeko",
+            "engine_version": "0.7.1",
+            "rigid_receptor": true,
+            "chains": [
+              "A"
+            ],
+            "kept_heterogens": [],
+            "prepared_atoms": 1741,
+            "explicit_residue_templates": {},
+            "allow_bad_res": true,
+            "bad_residue_policy": "Meeko excluded observed residues that could not match a complete chemical template.",
+            "removed_reference_ligand": {
+              "residue_name": "ETC",
+              "chain": "A",
+              "residue_number": 600,
+              "padding": 5
+            },
+            "repair": {
+              "engine": "not applied",
+              "reason": "PDBFixer output for 1L2J creates a residue valence conflict in Meeko 0.7.1; use the observed chain-A coordinates and let Meeko exclude incomplete residues that cannot match a chemical template.",
+              "policy": "Observed protein coordinates were passed directly to Meeko; missing atoms and unresolved segments were not modeled."
+            },
+            "hydrogen_and_charge_method": "PDBFixer hydrogens at pH 7.4; Meeko atom typing and charges",
+            "relaxation": "Restrained local OpenMM minimization; parameters and energies are recorded in the repair audit."
+          }
+        },
+        "site": {
+          "center": {
+            "x": 32.398,
+            "y": 82.244,
+            "z": -11.053
+          },
+          "size": {
+            "x": 17.539,
+            "y": 18.25,
+            "z": 16
+          },
+          "derived_from": {
+            "residue_name": "ETC",
+            "chain": "A",
+            "residue_number": 600,
+            "heavy_atoms": 24,
+            "padding_angstrom": 5
+          }
+        },
+        "method": {
+          "engine": "AutoDock Vina",
+          "engine_version": "1.2.7",
+          "scoring_function": "vina",
+          "exhaustiveness": 4,
+          "requested_poses": 3,
+          "energy_range_kcal_mol": 4
+        },
+        "poses": [
+          {
+            "rank": 1,
+            "score_kcal_mol": -5.326,
+            "intermolecular_kcal_mol": -5.481,
+            "intramolecular_kcal_mol": 0,
+            "torsional_kcal_mol": 0.156,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.4842
+          },
+          {
+            "rank": 2,
+            "score_kcal_mol": -5.308,
+            "intermolecular_kcal_mol": -5.463,
+            "intramolecular_kcal_mol": 0,
+            "torsional_kcal_mol": 0.155,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.4825
+          },
+          {
+            "rank": 3,
+            "score_kcal_mol": -5.105,
+            "intermolecular_kcal_mol": -5.254,
+            "intramolecular_kcal_mol": 0,
+            "torsional_kcal_mol": 0.149,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.4641
+          }
+        ],
+        "best_score_kcal_mol": -5.326,
+        "interpretation": {
+          "score_meaning": "Vina scores rank predicted poses under this exact preparation protocol.",
+          "not_an_affinity": "Scores are not experimental binding affinity and must not be converted to Ki, Kd, or IC50.",
+          "comparison_rule": "Compare ligands only when receptor, box, protonation, scoring, and search settings are identical.",
+          "validation": "Use known active/inactive controls, redocking RMSD, orthogonal scoring, and experimental binding assays."
+        },
+        "sources": [
+          {
+            "id": "DOCK1",
+            "title": "AutoDock Vina",
+            "url": "https://autodock-vina.readthedocs.io/"
+          },
+          {
+            "id": "DOCK2",
+            "title": "Meeko receptor and ligand preparation",
+            "url": "https://meeko.readthedocs.io/"
+          },
+          {
+            "id": "DOCK3",
+            "title": "RCSB Protein Data Bank",
+            "url": "https://www.rcsb.org/structure/1L2J"
+          }
+        ],
+        "artifacts": [],
+        "provenance": {
+          "operation": "dock",
+          "service_version": "1.1.0",
+          "rdkit_version": "2025.09.5",
+          "computed_at": "2026-07-18T17:50:04.681029+00:00",
+          "computation_ms": 1496.42
+        }
+      },
+      {
+        "ligand": {
+          "label": "terpinolene",
+          "identifiers": {
+            "canonical_smiles": "CC1=CCC(=C(C)C)CC1",
+            "isomeric_smiles": "CC1=CCC(=C(C)C)CC1",
+            "inchi": "InChI=1S/C10H16/c1-8(2)10-6-4-9(3)5-7-10/h4H,5-7H2,1-3H3",
+            "inchi_key": "MOYAFQVGZZPNRA-UHFFFAOYSA-N",
+            "formula": "C10H16",
+            "cxsmiles": "CC1=CCC(=C(C)C)CC1"
+          },
+          "heavy_atoms": 10,
+          "molecular_weight": 136.238,
+          "preparation": {
+            "engines": [
+              "RDKit ETKDGv3",
+              "Meeko"
+            ],
+            "seed": 20260717
+          },
+          "resolution": {
+            "cid": 11463,
+            "snapshot": "2026-07-18"
+          }
+        },
+        "receptor": {
+          "source": {
+            "database": "RCSB Protein Data Bank",
+            "pdb_id": "1L2J",
+            "title": "Human Estrogen Receptor beta Ligand-binding Domain in Complex with (R,R)-5,11-cis-diethyl-5,6,11,12-tetrahydrochrysene-2,8-diol",
+            "structure_url": "https://www.rcsb.org/structure/1L2J",
+            "coordinate_url": "https://files.rcsb.org/download/1L2J.pdb",
+            "retrieved_at": "2026-07-18T17:49:32.071280+00:00"
+          },
+          "preparation": {
+            "engine": "Meeko",
+            "engine_version": "0.7.1",
+            "rigid_receptor": true,
+            "chains": [
+              "A"
+            ],
+            "kept_heterogens": [],
+            "prepared_atoms": 1741,
+            "explicit_residue_templates": {},
+            "allow_bad_res": true,
+            "bad_residue_policy": "Meeko excluded observed residues that could not match a complete chemical template.",
+            "removed_reference_ligand": {
+              "residue_name": "ETC",
+              "chain": "A",
+              "residue_number": 600,
+              "padding": 5
+            },
+            "repair": {
+              "engine": "not applied",
+              "reason": "PDBFixer output for 1L2J creates a residue valence conflict in Meeko 0.7.1; use the observed chain-A coordinates and let Meeko exclude incomplete residues that cannot match a chemical template.",
+              "policy": "Observed protein coordinates were passed directly to Meeko; missing atoms and unresolved segments were not modeled."
+            },
+            "hydrogen_and_charge_method": "PDBFixer hydrogens at pH 7.4; Meeko atom typing and charges",
+            "relaxation": "Restrained local OpenMM minimization; parameters and energies are recorded in the repair audit."
+          }
+        },
+        "site": {
+          "center": {
+            "x": 32.398,
+            "y": 82.244,
+            "z": -11.053
+          },
+          "size": {
+            "x": 17.539,
+            "y": 18.25,
+            "z": 16
+          },
+          "derived_from": {
+            "residue_name": "ETC",
+            "chain": "A",
+            "residue_number": 600,
+            "heavy_atoms": 24,
+            "padding_angstrom": 5
+          }
+        },
+        "method": {
+          "engine": "AutoDock Vina",
+          "engine_version": "1.2.7",
+          "scoring_function": "vina",
+          "exhaustiveness": 4,
+          "requested_poses": 3,
+          "energy_range_kcal_mol": 4
+        },
+        "poses": [
+          {
+            "rank": 1,
+            "score_kcal_mol": -6.398,
+            "intermolecular_kcal_mol": -6.398,
+            "intramolecular_kcal_mol": 0,
+            "torsional_kcal_mol": 0,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.6398
+          },
+          {
+            "rank": 2,
+            "score_kcal_mol": -6.206,
+            "intermolecular_kcal_mol": -6.206,
+            "intramolecular_kcal_mol": 0,
+            "torsional_kcal_mol": 0,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.6206
+          },
+          {
+            "rank": 3,
+            "score_kcal_mol": -6.183,
+            "intermolecular_kcal_mol": -6.183,
+            "intramolecular_kcal_mol": 0,
+            "torsional_kcal_mol": 0,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.6183
+          }
+        ],
+        "best_score_kcal_mol": -6.398,
+        "interpretation": {
+          "score_meaning": "Vina scores rank predicted poses under this exact preparation protocol.",
+          "not_an_affinity": "Scores are not experimental binding affinity and must not be converted to Ki, Kd, or IC50.",
+          "comparison_rule": "Compare ligands only when receptor, box, protonation, scoring, and search settings are identical.",
+          "validation": "Use known active/inactive controls, redocking RMSD, orthogonal scoring, and experimental binding assays."
+        },
+        "sources": [
+          {
+            "id": "DOCK1",
+            "title": "AutoDock Vina",
+            "url": "https://autodock-vina.readthedocs.io/"
+          },
+          {
+            "id": "DOCK2",
+            "title": "Meeko receptor and ligand preparation",
+            "url": "https://meeko.readthedocs.io/"
+          },
+          {
+            "id": "DOCK3",
+            "title": "RCSB Protein Data Bank",
+            "url": "https://www.rcsb.org/structure/1L2J"
+          }
+        ],
+        "artifacts": [],
+        "provenance": {
+          "operation": "dock",
+          "service_version": "1.1.0",
+          "rdkit_version": "2025.09.5",
+          "computed_at": "2026-07-18T17:50:05.735748+00:00",
+          "computation_ms": 1054.69
+        }
+      },
+      {
+        "ligand": {
+          "label": "limonene",
+          "identifiers": {
+            "canonical_smiles": "C=C(C)C1CC=C(C)CC1",
+            "isomeric_smiles": "C=C(C)C1CC=C(C)CC1",
+            "inchi": "InChI=1S/C10H16/c1-8(2)10-6-4-9(3)5-7-10/h4,10H,1,5-7H2,2-3H3",
+            "inchi_key": "XMGQYMWWDOXHJM-UHFFFAOYSA-N",
+            "formula": "C10H16",
+            "cxsmiles": "C=C(C)C1CC=C(C)CC1"
+          },
+          "heavy_atoms": 10,
+          "molecular_weight": 136.238,
+          "preparation": {
+            "engines": [
+              "RDKit ETKDGv3",
+              "Meeko"
+            ],
+            "seed": 20260717
+          },
+          "resolution": {
+            "cid": 22311,
+            "snapshot": "2026-07-18"
+          }
+        },
+        "receptor": {
+          "source": {
+            "database": "RCSB Protein Data Bank",
+            "pdb_id": "1L2J",
+            "title": "Human Estrogen Receptor beta Ligand-binding Domain in Complex with (R,R)-5,11-cis-diethyl-5,6,11,12-tetrahydrochrysene-2,8-diol",
+            "structure_url": "https://www.rcsb.org/structure/1L2J",
+            "coordinate_url": "https://files.rcsb.org/download/1L2J.pdb",
+            "retrieved_at": "2026-07-18T17:49:32.071280+00:00"
+          },
+          "preparation": {
+            "engine": "Meeko",
+            "engine_version": "0.7.1",
+            "rigid_receptor": true,
+            "chains": [
+              "A"
+            ],
+            "kept_heterogens": [],
+            "prepared_atoms": 1741,
+            "explicit_residue_templates": {},
+            "allow_bad_res": true,
+            "bad_residue_policy": "Meeko excluded observed residues that could not match a complete chemical template.",
+            "removed_reference_ligand": {
+              "residue_name": "ETC",
+              "chain": "A",
+              "residue_number": 600,
+              "padding": 5
+            },
+            "repair": {
+              "engine": "not applied",
+              "reason": "PDBFixer output for 1L2J creates a residue valence conflict in Meeko 0.7.1; use the observed chain-A coordinates and let Meeko exclude incomplete residues that cannot match a chemical template.",
+              "policy": "Observed protein coordinates were passed directly to Meeko; missing atoms and unresolved segments were not modeled."
+            },
+            "hydrogen_and_charge_method": "PDBFixer hydrogens at pH 7.4; Meeko atom typing and charges",
+            "relaxation": "Restrained local OpenMM minimization; parameters and energies are recorded in the repair audit."
+          }
+        },
+        "site": {
+          "center": {
+            "x": 32.398,
+            "y": 82.244,
+            "z": -11.053
+          },
+          "size": {
+            "x": 17.539,
+            "y": 18.25,
+            "z": 16
+          },
+          "derived_from": {
+            "residue_name": "ETC",
+            "chain": "A",
+            "residue_number": 600,
+            "heavy_atoms": 24,
+            "padding_angstrom": 5
+          }
+        },
+        "method": {
+          "engine": "AutoDock Vina",
+          "engine_version": "1.2.7",
+          "scoring_function": "vina",
+          "exhaustiveness": 4,
+          "requested_poses": 3,
+          "energy_range_kcal_mol": 4
+        },
+        "poses": [
+          {
+            "rank": 1,
+            "score_kcal_mol": -5.971,
+            "intermolecular_kcal_mol": -6.32,
+            "intramolecular_kcal_mol": -0.278,
+            "torsional_kcal_mol": 0.349,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5971
+          },
+          {
+            "rank": 2,
+            "score_kcal_mol": -5.901,
+            "intermolecular_kcal_mol": -6.262,
+            "intramolecular_kcal_mol": -0.261,
+            "torsional_kcal_mol": 0.345,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5901
+          },
+          {
+            "rank": 3,
+            "score_kcal_mol": -5.631,
+            "intermolecular_kcal_mol": -6.032,
+            "intramolecular_kcal_mol": -0.206,
+            "torsional_kcal_mol": 0.329,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5631
+          }
+        ],
+        "best_score_kcal_mol": -5.971,
+        "interpretation": {
+          "score_meaning": "Vina scores rank predicted poses under this exact preparation protocol.",
+          "not_an_affinity": "Scores are not experimental binding affinity and must not be converted to Ki, Kd, or IC50.",
+          "comparison_rule": "Compare ligands only when receptor, box, protonation, scoring, and search settings are identical.",
+          "validation": "Use known active/inactive controls, redocking RMSD, orthogonal scoring, and experimental binding assays."
+        },
+        "sources": [
+          {
+            "id": "DOCK1",
+            "title": "AutoDock Vina",
+            "url": "https://autodock-vina.readthedocs.io/"
+          },
+          {
+            "id": "DOCK2",
+            "title": "Meeko receptor and ligand preparation",
+            "url": "https://meeko.readthedocs.io/"
+          },
+          {
+            "id": "DOCK3",
+            "title": "RCSB Protein Data Bank",
+            "url": "https://www.rcsb.org/structure/1L2J"
+          }
+        ],
+        "artifacts": [],
+        "provenance": {
+          "operation": "dock",
+          "service_version": "1.1.0",
+          "rdkit_version": "2025.09.5",
+          "computed_at": "2026-07-18T17:50:07.014284+00:00",
+          "computation_ms": 1278.51
+        }
+      },
+      {
+        "ligand": {
+          "label": "sabinene",
+          "identifiers": {
+            "canonical_smiles": "C=C1CCC2(C(C)C)CC12",
+            "isomeric_smiles": "C=C1CCC2(C(C)C)CC12",
+            "inchi": "InChI=1S/C10H16/c1-7(2)10-5-4-8(3)9(10)6-10/h7,9H,3-6H2,1-2H3",
+            "inchi_key": "NDVASEGYNIMXJL-UHFFFAOYSA-N",
+            "formula": "C10H16",
+            "cxsmiles": "C=C1CCC2(C(C)C)CC12"
+          },
+          "heavy_atoms": 10,
+          "molecular_weight": 136.238,
+          "preparation": {
+            "engines": [
+              "RDKit ETKDGv3",
+              "Meeko"
+            ],
+            "seed": 20260717
+          },
+          "resolution": {
+            "cid": 18818,
+            "snapshot": "2026-07-18"
+          }
+        },
+        "receptor": {
+          "source": {
+            "database": "RCSB Protein Data Bank",
+            "pdb_id": "1L2J",
+            "title": "Human Estrogen Receptor beta Ligand-binding Domain in Complex with (R,R)-5,11-cis-diethyl-5,6,11,12-tetrahydrochrysene-2,8-diol",
+            "structure_url": "https://www.rcsb.org/structure/1L2J",
+            "coordinate_url": "https://files.rcsb.org/download/1L2J.pdb",
+            "retrieved_at": "2026-07-18T17:49:32.071280+00:00"
+          },
+          "preparation": {
+            "engine": "Meeko",
+            "engine_version": "0.7.1",
+            "rigid_receptor": true,
+            "chains": [
+              "A"
+            ],
+            "kept_heterogens": [],
+            "prepared_atoms": 1741,
+            "explicit_residue_templates": {},
+            "allow_bad_res": true,
+            "bad_residue_policy": "Meeko excluded observed residues that could not match a complete chemical template.",
+            "removed_reference_ligand": {
+              "residue_name": "ETC",
+              "chain": "A",
+              "residue_number": 600,
+              "padding": 5
+            },
+            "repair": {
+              "engine": "not applied",
+              "reason": "PDBFixer output for 1L2J creates a residue valence conflict in Meeko 0.7.1; use the observed chain-A coordinates and let Meeko exclude incomplete residues that cannot match a chemical template.",
+              "policy": "Observed protein coordinates were passed directly to Meeko; missing atoms and unresolved segments were not modeled."
+            },
+            "hydrogen_and_charge_method": "PDBFixer hydrogens at pH 7.4; Meeko atom typing and charges",
+            "relaxation": "Restrained local OpenMM minimization; parameters and energies are recorded in the repair audit."
+          }
+        },
+        "site": {
+          "center": {
+            "x": 32.398,
+            "y": 82.244,
+            "z": -11.053
+          },
+          "size": {
+            "x": 17.539,
+            "y": 18.25,
+            "z": 16
+          },
+          "derived_from": {
+            "residue_name": "ETC",
+            "chain": "A",
+            "residue_number": 600,
+            "heavy_atoms": 24,
+            "padding_angstrom": 5
+          }
+        },
+        "method": {
+          "engine": "AutoDock Vina",
+          "engine_version": "1.2.7",
+          "scoring_function": "vina",
+          "exhaustiveness": 4,
+          "requested_poses": 3,
+          "energy_range_kcal_mol": 4
+        },
+        "poses": [
+          {
+            "rank": 1,
+            "score_kcal_mol": -5.987,
+            "intermolecular_kcal_mol": -6.337,
+            "intramolecular_kcal_mol": -0.233,
+            "torsional_kcal_mol": 0.35,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5987
+          },
+          {
+            "rank": 2,
+            "score_kcal_mol": -5.824,
+            "intermolecular_kcal_mol": -6.115,
+            "intramolecular_kcal_mol": -0.283,
+            "torsional_kcal_mol": 0.34,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5824
+          },
+          {
+            "rank": 3,
+            "score_kcal_mol": -5.799,
+            "intermolecular_kcal_mol": -6.071,
+            "intramolecular_kcal_mol": -0.299,
+            "torsional_kcal_mol": 0.339,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5799
+          }
+        ],
+        "best_score_kcal_mol": -5.987,
+        "interpretation": {
+          "score_meaning": "Vina scores rank predicted poses under this exact preparation protocol.",
+          "not_an_affinity": "Scores are not experimental binding affinity and must not be converted to Ki, Kd, or IC50.",
+          "comparison_rule": "Compare ligands only when receptor, box, protonation, scoring, and search settings are identical.",
+          "validation": "Use known active/inactive controls, redocking RMSD, orthogonal scoring, and experimental binding assays."
+        },
+        "sources": [
+          {
+            "id": "DOCK1",
+            "title": "AutoDock Vina",
+            "url": "https://autodock-vina.readthedocs.io/"
+          },
+          {
+            "id": "DOCK2",
+            "title": "Meeko receptor and ligand preparation",
+            "url": "https://meeko.readthedocs.io/"
+          },
+          {
+            "id": "DOCK3",
+            "title": "RCSB Protein Data Bank",
+            "url": "https://www.rcsb.org/structure/1L2J"
+          }
+        ],
+        "artifacts": [],
+        "provenance": {
+          "operation": "dock",
+          "service_version": "1.1.0",
+          "rdkit_version": "2025.09.5",
+          "computed_at": "2026-07-18T17:50:08.290101+00:00",
+          "computation_ms": 1275.78
+        }
+      },
+      {
+        "ligand": {
+          "label": "alpha-pinene",
+          "identifiers": {
+            "canonical_smiles": "CC1=CCC2CC1C2(C)C",
+            "isomeric_smiles": "CC1=CCC2CC1C2(C)C",
+            "inchi": "InChI=1S/C10H16/c1-7-4-5-8-6-9(7)10(8,2)3/h4,8-9H,5-6H2,1-3H3",
+            "inchi_key": "GRWFGVWFFZKLTI-UHFFFAOYSA-N",
+            "formula": "C10H16",
+            "cxsmiles": "CC1=CCC2CC1C2(C)C"
+          },
+          "heavy_atoms": 10,
+          "molecular_weight": 136.238,
+          "preparation": {
+            "engines": [
+              "RDKit ETKDGv3",
+              "Meeko"
+            ],
+            "seed": 20260717
+          },
+          "resolution": {
+            "cid": 6654,
+            "snapshot": "2026-07-18"
+          }
+        },
+        "receptor": {
+          "source": {
+            "database": "RCSB Protein Data Bank",
+            "pdb_id": "1L2J",
+            "title": "Human Estrogen Receptor beta Ligand-binding Domain in Complex with (R,R)-5,11-cis-diethyl-5,6,11,12-tetrahydrochrysene-2,8-diol",
+            "structure_url": "https://www.rcsb.org/structure/1L2J",
+            "coordinate_url": "https://files.rcsb.org/download/1L2J.pdb",
+            "retrieved_at": "2026-07-18T17:49:32.071280+00:00"
+          },
+          "preparation": {
+            "engine": "Meeko",
+            "engine_version": "0.7.1",
+            "rigid_receptor": true,
+            "chains": [
+              "A"
+            ],
+            "kept_heterogens": [],
+            "prepared_atoms": 1741,
+            "explicit_residue_templates": {},
+            "allow_bad_res": true,
+            "bad_residue_policy": "Meeko excluded observed residues that could not match a complete chemical template.",
+            "removed_reference_ligand": {
+              "residue_name": "ETC",
+              "chain": "A",
+              "residue_number": 600,
+              "padding": 5
+            },
+            "repair": {
+              "engine": "not applied",
+              "reason": "PDBFixer output for 1L2J creates a residue valence conflict in Meeko 0.7.1; use the observed chain-A coordinates and let Meeko exclude incomplete residues that cannot match a chemical template.",
+              "policy": "Observed protein coordinates were passed directly to Meeko; missing atoms and unresolved segments were not modeled."
+            },
+            "hydrogen_and_charge_method": "PDBFixer hydrogens at pH 7.4; Meeko atom typing and charges",
+            "relaxation": "Restrained local OpenMM minimization; parameters and energies are recorded in the repair audit."
+          }
+        },
+        "site": {
+          "center": {
+            "x": 32.398,
+            "y": 82.244,
+            "z": -11.053
+          },
+          "size": {
+            "x": 17.539,
+            "y": 18.25,
+            "z": 16
+          },
+          "derived_from": {
+            "residue_name": "ETC",
+            "chain": "A",
+            "residue_number": 600,
+            "heavy_atoms": 24,
+            "padding_angstrom": 5
+          }
+        },
+        "method": {
+          "engine": "AutoDock Vina",
+          "engine_version": "1.2.7",
+          "scoring_function": "vina",
+          "exhaustiveness": 4,
+          "requested_poses": 3,
+          "energy_range_kcal_mol": 4
+        },
+        "poses": [
+          {
+            "rank": 1,
+            "score_kcal_mol": -5.634,
+            "intermolecular_kcal_mol": -5.634,
+            "intramolecular_kcal_mol": 0,
+            "torsional_kcal_mol": 0,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5634
+          },
+          {
+            "rank": 2,
+            "score_kcal_mol": -5.488,
+            "intermolecular_kcal_mol": -5.488,
+            "intramolecular_kcal_mol": 0,
+            "torsional_kcal_mol": 0,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5488
+          },
+          {
+            "rank": 3,
+            "score_kcal_mol": -5.478,
+            "intermolecular_kcal_mol": -5.478,
+            "intramolecular_kcal_mol": 0,
+            "torsional_kcal_mol": 0,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5478
+          }
+        ],
+        "best_score_kcal_mol": -5.634,
+        "interpretation": {
+          "score_meaning": "Vina scores rank predicted poses under this exact preparation protocol.",
+          "not_an_affinity": "Scores are not experimental binding affinity and must not be converted to Ki, Kd, or IC50.",
+          "comparison_rule": "Compare ligands only when receptor, box, protonation, scoring, and search settings are identical.",
+          "validation": "Use known active/inactive controls, redocking RMSD, orthogonal scoring, and experimental binding assays."
+        },
+        "sources": [
+          {
+            "id": "DOCK1",
+            "title": "AutoDock Vina",
+            "url": "https://autodock-vina.readthedocs.io/"
+          },
+          {
+            "id": "DOCK2",
+            "title": "Meeko receptor and ligand preparation",
+            "url": "https://meeko.readthedocs.io/"
+          },
+          {
+            "id": "DOCK3",
+            "title": "RCSB Protein Data Bank",
+            "url": "https://www.rcsb.org/structure/1L2J"
+          }
+        ],
+        "artifacts": [],
+        "provenance": {
+          "operation": "dock",
+          "service_version": "1.1.0",
+          "rdkit_version": "2025.09.5",
+          "computed_at": "2026-07-18T17:50:09.302122+00:00",
+          "computation_ms": 1011.99
+        }
+      },
+      {
+        "ligand": {
+          "label": "beta-pinene",
+          "identifiers": {
+            "canonical_smiles": "C=C1CCC2CC1C2(C)C",
+            "isomeric_smiles": "C=C1CCC2CC1C2(C)C",
+            "inchi": "InChI=1S/C10H16/c1-7-4-5-8-6-9(7)10(8,2)3/h8-9H,1,4-6H2,2-3H3",
+            "inchi_key": "WTARULDDTDQWMU-UHFFFAOYSA-N",
+            "formula": "C10H16",
+            "cxsmiles": "C=C1CCC2CC1C2(C)C"
+          },
+          "heavy_atoms": 10,
+          "molecular_weight": 136.238,
+          "preparation": {
+            "engines": [
+              "RDKit ETKDGv3",
+              "Meeko"
+            ],
+            "seed": 20260717
+          },
+          "resolution": {
+            "cid": 14896,
+            "snapshot": "2026-07-18"
+          }
+        },
+        "receptor": {
+          "source": {
+            "database": "RCSB Protein Data Bank",
+            "pdb_id": "1L2J",
+            "title": "Human Estrogen Receptor beta Ligand-binding Domain in Complex with (R,R)-5,11-cis-diethyl-5,6,11,12-tetrahydrochrysene-2,8-diol",
+            "structure_url": "https://www.rcsb.org/structure/1L2J",
+            "coordinate_url": "https://files.rcsb.org/download/1L2J.pdb",
+            "retrieved_at": "2026-07-18T17:49:32.071280+00:00"
+          },
+          "preparation": {
+            "engine": "Meeko",
+            "engine_version": "0.7.1",
+            "rigid_receptor": true,
+            "chains": [
+              "A"
+            ],
+            "kept_heterogens": [],
+            "prepared_atoms": 1741,
+            "explicit_residue_templates": {},
+            "allow_bad_res": true,
+            "bad_residue_policy": "Meeko excluded observed residues that could not match a complete chemical template.",
+            "removed_reference_ligand": {
+              "residue_name": "ETC",
+              "chain": "A",
+              "residue_number": 600,
+              "padding": 5
+            },
+            "repair": {
+              "engine": "not applied",
+              "reason": "PDBFixer output for 1L2J creates a residue valence conflict in Meeko 0.7.1; use the observed chain-A coordinates and let Meeko exclude incomplete residues that cannot match a chemical template.",
+              "policy": "Observed protein coordinates were passed directly to Meeko; missing atoms and unresolved segments were not modeled."
+            },
+            "hydrogen_and_charge_method": "PDBFixer hydrogens at pH 7.4; Meeko atom typing and charges",
+            "relaxation": "Restrained local OpenMM minimization; parameters and energies are recorded in the repair audit."
+          }
+        },
+        "site": {
+          "center": {
+            "x": 32.398,
+            "y": 82.244,
+            "z": -11.053
+          },
+          "size": {
+            "x": 17.539,
+            "y": 18.25,
+            "z": 16
+          },
+          "derived_from": {
+            "residue_name": "ETC",
+            "chain": "A",
+            "residue_number": 600,
+            "heavy_atoms": 24,
+            "padding_angstrom": 5
+          }
+        },
+        "method": {
+          "engine": "AutoDock Vina",
+          "engine_version": "1.2.7",
+          "scoring_function": "vina",
+          "exhaustiveness": 4,
+          "requested_poses": 3,
+          "energy_range_kcal_mol": 4
+        },
+        "poses": [
+          {
+            "rank": 1,
+            "score_kcal_mol": -5.592,
+            "intermolecular_kcal_mol": -5.592,
+            "intramolecular_kcal_mol": 0,
+            "torsional_kcal_mol": 0,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5592
+          },
+          {
+            "rank": 2,
+            "score_kcal_mol": -5.542,
+            "intermolecular_kcal_mol": -5.542,
+            "intramolecular_kcal_mol": 0,
+            "torsional_kcal_mol": 0,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5542
+          },
+          {
+            "rank": 3,
+            "score_kcal_mol": -5.408,
+            "intermolecular_kcal_mol": -5.408,
+            "intramolecular_kcal_mol": 0,
+            "torsional_kcal_mol": 0,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5408
+          }
+        ],
+        "best_score_kcal_mol": -5.592,
+        "interpretation": {
+          "score_meaning": "Vina scores rank predicted poses under this exact preparation protocol.",
+          "not_an_affinity": "Scores are not experimental binding affinity and must not be converted to Ki, Kd, or IC50.",
+          "comparison_rule": "Compare ligands only when receptor, box, protonation, scoring, and search settings are identical.",
+          "validation": "Use known active/inactive controls, redocking RMSD, orthogonal scoring, and experimental binding assays."
+        },
+        "sources": [
+          {
+            "id": "DOCK1",
+            "title": "AutoDock Vina",
+            "url": "https://autodock-vina.readthedocs.io/"
+          },
+          {
+            "id": "DOCK2",
+            "title": "Meeko receptor and ligand preparation",
+            "url": "https://meeko.readthedocs.io/"
+          },
+          {
+            "id": "DOCK3",
+            "title": "RCSB Protein Data Bank",
+            "url": "https://www.rcsb.org/structure/1L2J"
+          }
+        ],
+        "artifacts": [],
+        "provenance": {
+          "operation": "dock",
+          "service_version": "1.1.0",
+          "rdkit_version": "2025.09.5",
+          "computed_at": "2026-07-18T17:50:10.300599+00:00",
+          "computation_ms": 998.45
+        }
+      },
+      {
+        "ligand": {
+          "label": "nerolidol",
+          "identifiers": {
+            "canonical_smiles": "C=CC(C)(O)CC/C=C(\\C)CCC=C(C)C",
+            "isomeric_smiles": "C=CC(C)(O)CC/C=C(\\C)CCC=C(C)C",
+            "inchi": "InChI=1S/C15H26O/c1-6-15(5,16)12-8-11-14(4)10-7-9-13(2)3/h6,9,11,16H,1,7-8,10,12H2,2-5H3/b14-11+",
+            "inchi_key": "FQTLCLSUCSAZDY-SDNWHVSQSA-N",
+            "formula": "C15H26O",
+            "cxsmiles": "C=CC(C)(O)CC/C=C(\\C)CCC=C(C)C"
+          },
+          "heavy_atoms": 16,
+          "molecular_weight": 222.372,
+          "preparation": {
+            "engines": [
+              "RDKit ETKDGv3",
+              "Meeko"
+            ],
+            "seed": 20260717
+          },
+          "resolution": {
+            "cid": 5284507,
+            "snapshot": "2026-07-18"
+          }
+        },
+        "receptor": {
+          "source": {
+            "database": "RCSB Protein Data Bank",
+            "pdb_id": "1L2J",
+            "title": "Human Estrogen Receptor beta Ligand-binding Domain in Complex with (R,R)-5,11-cis-diethyl-5,6,11,12-tetrahydrochrysene-2,8-diol",
+            "structure_url": "https://www.rcsb.org/structure/1L2J",
+            "coordinate_url": "https://files.rcsb.org/download/1L2J.pdb",
+            "retrieved_at": "2026-07-18T17:49:32.071280+00:00"
+          },
+          "preparation": {
+            "engine": "Meeko",
+            "engine_version": "0.7.1",
+            "rigid_receptor": true,
+            "chains": [
+              "A"
+            ],
+            "kept_heterogens": [],
+            "prepared_atoms": 1741,
+            "explicit_residue_templates": {},
+            "allow_bad_res": true,
+            "bad_residue_policy": "Meeko excluded observed residues that could not match a complete chemical template.",
+            "removed_reference_ligand": {
+              "residue_name": "ETC",
+              "chain": "A",
+              "residue_number": 600,
+              "padding": 5
+            },
+            "repair": {
+              "engine": "not applied",
+              "reason": "PDBFixer output for 1L2J creates a residue valence conflict in Meeko 0.7.1; use the observed chain-A coordinates and let Meeko exclude incomplete residues that cannot match a chemical template.",
+              "policy": "Observed protein coordinates were passed directly to Meeko; missing atoms and unresolved segments were not modeled."
+            },
+            "hydrogen_and_charge_method": "PDBFixer hydrogens at pH 7.4; Meeko atom typing and charges",
+            "relaxation": "Restrained local OpenMM minimization; parameters and energies are recorded in the repair audit."
+          }
+        },
+        "site": {
+          "center": {
+            "x": 32.398,
+            "y": 82.244,
+            "z": -11.053
+          },
+          "size": {
+            "x": 17.539,
+            "y": 18.25,
+            "z": 16
+          },
+          "derived_from": {
+            "residue_name": "ETC",
+            "chain": "A",
+            "residue_number": 600,
+            "heavy_atoms": 24,
+            "padding_angstrom": 5
+          }
+        },
+        "method": {
+          "engine": "AutoDock Vina",
+          "engine_version": "1.2.7",
+          "scoring_function": "vina",
+          "exhaustiveness": 4,
+          "requested_poses": 3,
+          "energy_range_kcal_mol": 4
+        },
+        "poses": [
+          {
+            "rank": 1,
+            "score_kcal_mol": -7.192,
+            "intermolecular_kcal_mol": -10.345,
+            "intramolecular_kcal_mol": -0.796,
+            "torsional_kcal_mol": 3.153,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.4495
+          },
+          {
+            "rank": 2,
+            "score_kcal_mol": -7.136,
+            "intermolecular_kcal_mol": -10.15,
+            "intramolecular_kcal_mol": -0.911,
+            "torsional_kcal_mol": 3.129,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.446
+          },
+          {
+            "rank": 3,
+            "score_kcal_mol": -6.682,
+            "intermolecular_kcal_mol": -8.926,
+            "intramolecular_kcal_mol": -1.482,
+            "torsional_kcal_mol": 2.93,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.4176
+          }
+        ],
+        "best_score_kcal_mol": -7.192,
+        "interpretation": {
+          "score_meaning": "Vina scores rank predicted poses under this exact preparation protocol.",
+          "not_an_affinity": "Scores are not experimental binding affinity and must not be converted to Ki, Kd, or IC50.",
+          "comparison_rule": "Compare ligands only when receptor, box, protonation, scoring, and search settings are identical.",
+          "validation": "Use known active/inactive controls, redocking RMSD, orthogonal scoring, and experimental binding assays."
+        },
+        "sources": [
+          {
+            "id": "DOCK1",
+            "title": "AutoDock Vina",
+            "url": "https://autodock-vina.readthedocs.io/"
+          },
+          {
+            "id": "DOCK2",
+            "title": "Meeko receptor and ligand preparation",
+            "url": "https://meeko.readthedocs.io/"
+          },
+          {
+            "id": "DOCK3",
+            "title": "RCSB Protein Data Bank",
+            "url": "https://www.rcsb.org/structure/1L2J"
+          }
+        ],
+        "artifacts": [],
+        "provenance": {
+          "operation": "dock",
+          "service_version": "1.1.0",
+          "rdkit_version": "2025.09.5",
+          "computed_at": "2026-07-18T17:50:16.311324+00:00",
+          "computation_ms": 6010.69
+        }
+      },
+      {
+        "ligand": {
+          "label": "alpha-bisabolol",
+          "identifiers": {
+            "canonical_smiles": "CC(C)=CCC[C@@](C)(O)[C@H]1CC=C(C)CC1",
+            "isomeric_smiles": "CC(C)=CCC[C@@](C)(O)[C@H]1CC=C(C)CC1",
+            "inchi": "InChI=1S/C15H26O/c1-12(2)6-5-11-15(4,16)14-9-7-13(3)8-10-14/h6-7,14,16H,5,8-11H2,1-4H3/t14-,15+/m0/s1",
+            "inchi_key": "RGZSQWQPBWRIAQ-LSDHHAIUSA-N",
+            "formula": "C15H26O",
+            "cxsmiles": "CC(C)=CCC[C@@](C)(O)[C@H]1CC=C(C)CC1"
+          },
+          "heavy_atoms": 16,
+          "molecular_weight": 222.372,
+          "preparation": {
+            "engines": [
+              "RDKit ETKDGv3",
+              "Meeko"
+            ],
+            "seed": 20260717
+          },
+          "resolution": {
+            "cid": 1549992,
+            "snapshot": "2026-07-18"
+          }
+        },
+        "receptor": {
+          "source": {
+            "database": "RCSB Protein Data Bank",
+            "pdb_id": "1L2J",
+            "title": "Human Estrogen Receptor beta Ligand-binding Domain in Complex with (R,R)-5,11-cis-diethyl-5,6,11,12-tetrahydrochrysene-2,8-diol",
+            "structure_url": "https://www.rcsb.org/structure/1L2J",
+            "coordinate_url": "https://files.rcsb.org/download/1L2J.pdb",
+            "retrieved_at": "2026-07-18T17:49:32.071280+00:00"
+          },
+          "preparation": {
+            "engine": "Meeko",
+            "engine_version": "0.7.1",
+            "rigid_receptor": true,
+            "chains": [
+              "A"
+            ],
+            "kept_heterogens": [],
+            "prepared_atoms": 1741,
+            "explicit_residue_templates": {},
+            "allow_bad_res": true,
+            "bad_residue_policy": "Meeko excluded observed residues that could not match a complete chemical template.",
+            "removed_reference_ligand": {
+              "residue_name": "ETC",
+              "chain": "A",
+              "residue_number": 600,
+              "padding": 5
+            },
+            "repair": {
+              "engine": "not applied",
+              "reason": "PDBFixer output for 1L2J creates a residue valence conflict in Meeko 0.7.1; use the observed chain-A coordinates and let Meeko exclude incomplete residues that cannot match a chemical template.",
+              "policy": "Observed protein coordinates were passed directly to Meeko; missing atoms and unresolved segments were not modeled."
+            },
+            "hydrogen_and_charge_method": "PDBFixer hydrogens at pH 7.4; Meeko atom typing and charges",
+            "relaxation": "Restrained local OpenMM minimization; parameters and energies are recorded in the repair audit."
+          }
+        },
+        "site": {
+          "center": {
+            "x": 32.398,
+            "y": 82.244,
+            "z": -11.053
+          },
+          "size": {
+            "x": 17.539,
+            "y": 18.25,
+            "z": 16
+          },
+          "derived_from": {
+            "residue_name": "ETC",
+            "chain": "A",
+            "residue_number": 600,
+            "heavy_atoms": 24,
+            "padding_angstrom": 5
+          }
+        },
+        "method": {
+          "engine": "AutoDock Vina",
+          "engine_version": "1.2.7",
+          "scoring_function": "vina",
+          "exhaustiveness": 4,
+          "requested_poses": 3,
+          "energy_range_kcal_mol": 4
+        },
+        "poses": [
+          {
+            "rank": 1,
+            "score_kcal_mol": -7.374,
+            "intermolecular_kcal_mol": -9.313,
+            "intramolecular_kcal_mol": -0.772,
+            "torsional_kcal_mol": 1.94,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.4609
+          },
+          {
+            "rank": 2,
+            "score_kcal_mol": -7.292,
+            "intermolecular_kcal_mol": -9.149,
+            "intramolecular_kcal_mol": -0.833,
+            "torsional_kcal_mol": 1.918,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.4557
+          },
+          {
+            "rank": 3,
+            "score_kcal_mol": -6.923,
+            "intermolecular_kcal_mol": -8.475,
+            "intramolecular_kcal_mol": -1.041,
+            "torsional_kcal_mol": 1.821,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.4327
+          }
+        ],
+        "best_score_kcal_mol": -7.374,
+        "interpretation": {
+          "score_meaning": "Vina scores rank predicted poses under this exact preparation protocol.",
+          "not_an_affinity": "Scores are not experimental binding affinity and must not be converted to Ki, Kd, or IC50.",
+          "comparison_rule": "Compare ligands only when receptor, box, protonation, scoring, and search settings are identical.",
+          "validation": "Use known active/inactive controls, redocking RMSD, orthogonal scoring, and experimental binding assays."
+        },
+        "sources": [
+          {
+            "id": "DOCK1",
+            "title": "AutoDock Vina",
+            "url": "https://autodock-vina.readthedocs.io/"
+          },
+          {
+            "id": "DOCK2",
+            "title": "Meeko receptor and ligand preparation",
+            "url": "https://meeko.readthedocs.io/"
+          },
+          {
+            "id": "DOCK3",
+            "title": "RCSB Protein Data Bank",
+            "url": "https://www.rcsb.org/structure/1L2J"
+          }
+        ],
+        "artifacts": [],
+        "provenance": {
+          "operation": "dock",
+          "service_version": "1.1.0",
+          "rdkit_version": "2025.09.5",
+          "computed_at": "2026-07-18T17:50:20.479751+00:00",
+          "computation_ms": 4168.39
+        }
+      },
+      {
+        "ligand": {
+          "label": "humulene",
+          "identifiers": {
+            "canonical_smiles": "C/C1=C\\CC/C(C)=C/CC(C)(C)/C=C/C1",
+            "isomeric_smiles": "C/C1=C\\CC/C(C)=C/CC(C)(C)/C=C/C1",
+            "inchi": "InChI=1S/C15H24/c1-13-7-5-8-14(2)10-12-15(3,4)11-6-9-13/h6-7,10-11H,5,8-9,12H2,1-4H3/b11-6+,13-7+,14-10+",
+            "inchi_key": "FAMPSKZZVDUYOS-HRGUGZIWSA-N",
+            "formula": "C15H24",
+            "cxsmiles": "C/C1=C\\CC/C(C)=C/CC(C)(C)/C=C/C1"
+          },
+          "heavy_atoms": 15,
+          "molecular_weight": 204.357,
+          "preparation": {
+            "engines": [
+              "RDKit ETKDGv3",
+              "Meeko"
+            ],
+            "seed": 20260717
+          },
+          "resolution": {
+            "cid": 5281520,
+            "snapshot": "2026-07-18"
+          }
+        },
+        "receptor": {
+          "source": {
+            "database": "RCSB Protein Data Bank",
+            "pdb_id": "1L2J",
+            "title": "Human Estrogen Receptor beta Ligand-binding Domain in Complex with (R,R)-5,11-cis-diethyl-5,6,11,12-tetrahydrochrysene-2,8-diol",
+            "structure_url": "https://www.rcsb.org/structure/1L2J",
+            "coordinate_url": "https://files.rcsb.org/download/1L2J.pdb",
+            "retrieved_at": "2026-07-18T17:49:32.071280+00:00"
+          },
+          "preparation": {
+            "engine": "Meeko",
+            "engine_version": "0.7.1",
+            "rigid_receptor": true,
+            "chains": [
+              "A"
+            ],
+            "kept_heterogens": [],
+            "prepared_atoms": 1741,
+            "explicit_residue_templates": {},
+            "allow_bad_res": true,
+            "bad_residue_policy": "Meeko excluded observed residues that could not match a complete chemical template.",
+            "removed_reference_ligand": {
+              "residue_name": "ETC",
+              "chain": "A",
+              "residue_number": 600,
+              "padding": 5
+            },
+            "repair": {
+              "engine": "not applied",
+              "reason": "PDBFixer output for 1L2J creates a residue valence conflict in Meeko 0.7.1; use the observed chain-A coordinates and let Meeko exclude incomplete residues that cannot match a chemical template.",
+              "policy": "Observed protein coordinates were passed directly to Meeko; missing atoms and unresolved segments were not modeled."
+            },
+            "hydrogen_and_charge_method": "PDBFixer hydrogens at pH 7.4; Meeko atom typing and charges",
+            "relaxation": "Restrained local OpenMM minimization; parameters and energies are recorded in the repair audit."
+          }
+        },
+        "site": {
+          "center": {
+            "x": 32.398,
+            "y": 82.244,
+            "z": -11.053
+          },
+          "size": {
+            "x": 17.539,
+            "y": 18.25,
+            "z": 16
+          },
+          "derived_from": {
+            "residue_name": "ETC",
+            "chain": "A",
+            "residue_number": 600,
+            "heavy_atoms": 24,
+            "padding_angstrom": 5
+          }
+        },
+        "method": {
+          "engine": "AutoDock Vina",
+          "engine_version": "1.2.7",
+          "scoring_function": "vina",
+          "exhaustiveness": 4,
+          "requested_poses": 3,
+          "energy_range_kcal_mol": 4
+        },
+        "poses": [
+          {
+            "rank": 1,
+            "score_kcal_mol": -6.041,
+            "intermolecular_kcal_mol": -8.513,
+            "intramolecular_kcal_mol": 0.778,
+            "torsional_kcal_mol": 2.472,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.4027
+          },
+          {
+            "rank": 2,
+            "score_kcal_mol": -5.419,
+            "intermolecular_kcal_mol": -7.492,
+            "intramolecular_kcal_mol": 0.633,
+            "torsional_kcal_mol": 2.218,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.3613
+          },
+          {
+            "rank": 3,
+            "score_kcal_mol": -5.231,
+            "intermolecular_kcal_mol": -8.068,
+            "intramolecular_kcal_mol": 1.476,
+            "torsional_kcal_mol": 2.14,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.3487
+          }
+        ],
+        "best_score_kcal_mol": -6.041,
+        "interpretation": {
+          "score_meaning": "Vina scores rank predicted poses under this exact preparation protocol.",
+          "not_an_affinity": "Scores are not experimental binding affinity and must not be converted to Ki, Kd, or IC50.",
+          "comparison_rule": "Compare ligands only when receptor, box, protonation, scoring, and search settings are identical.",
+          "validation": "Use known active/inactive controls, redocking RMSD, orthogonal scoring, and experimental binding assays."
+        },
+        "sources": [
+          {
+            "id": "DOCK1",
+            "title": "AutoDock Vina",
+            "url": "https://autodock-vina.readthedocs.io/"
+          },
+          {
+            "id": "DOCK2",
+            "title": "Meeko receptor and ligand preparation",
+            "url": "https://meeko.readthedocs.io/"
+          },
+          {
+            "id": "DOCK3",
+            "title": "RCSB Protein Data Bank",
+            "url": "https://www.rcsb.org/structure/1L2J"
+          }
+        ],
+        "artifacts": [],
+        "provenance": {
+          "operation": "dock",
+          "service_version": "1.1.0",
+          "rdkit_version": "2025.09.5",
+          "computed_at": "2026-07-18T17:50:27.974845+00:00",
+          "computation_ms": 7495.05
+        }
+      },
+      {
+        "ligand": {
+          "label": "caryophyllene oxide",
+          "identifiers": {
+            "canonical_smiles": "C=C1CC[C@H]2O[C@]2(C)CC[C@@H]2[C@@H]1CC2(C)C",
+            "isomeric_smiles": "C=C1CC[C@H]2O[C@]2(C)CC[C@@H]2[C@@H]1CC2(C)C",
+            "inchi": "InChI=1S/C15H24O/c1-10-5-6-13-15(4,16-13)8-7-12-11(10)9-14(12,2)3/h11-13H,1,5-9H2,2-4H3/t11-,12-,13-,15-/m1/s1",
+            "inchi_key": "NVEQFIOZRFFVFW-RGCMKSIDSA-N",
+            "formula": "C15H24O",
+            "cxsmiles": "C=C1CC[C@H]2O[C@]2(C)CC[C@@H]2[C@@H]1CC2(C)C"
+          },
+          "heavy_atoms": 16,
+          "molecular_weight": 220.356,
+          "preparation": {
+            "engines": [
+              "RDKit ETKDGv3",
+              "Meeko"
+            ],
+            "seed": 20260717
+          },
+          "resolution": {
+            "cid": 1742210,
+            "snapshot": "2026-07-18"
+          }
+        },
+        "receptor": {
+          "source": {
+            "database": "RCSB Protein Data Bank",
+            "pdb_id": "1L2J",
+            "title": "Human Estrogen Receptor beta Ligand-binding Domain in Complex with (R,R)-5,11-cis-diethyl-5,6,11,12-tetrahydrochrysene-2,8-diol",
+            "structure_url": "https://www.rcsb.org/structure/1L2J",
+            "coordinate_url": "https://files.rcsb.org/download/1L2J.pdb",
+            "retrieved_at": "2026-07-18T17:49:32.071280+00:00"
+          },
+          "preparation": {
+            "engine": "Meeko",
+            "engine_version": "0.7.1",
+            "rigid_receptor": true,
+            "chains": [
+              "A"
+            ],
+            "kept_heterogens": [],
+            "prepared_atoms": 1741,
+            "explicit_residue_templates": {},
+            "allow_bad_res": true,
+            "bad_residue_policy": "Meeko excluded observed residues that could not match a complete chemical template.",
+            "removed_reference_ligand": {
+              "residue_name": "ETC",
+              "chain": "A",
+              "residue_number": 600,
+              "padding": 5
+            },
+            "repair": {
+              "engine": "not applied",
+              "reason": "PDBFixer output for 1L2J creates a residue valence conflict in Meeko 0.7.1; use the observed chain-A coordinates and let Meeko exclude incomplete residues that cannot match a chemical template.",
+              "policy": "Observed protein coordinates were passed directly to Meeko; missing atoms and unresolved segments were not modeled."
+            },
+            "hydrogen_and_charge_method": "PDBFixer hydrogens at pH 7.4; Meeko atom typing and charges",
+            "relaxation": "Restrained local OpenMM minimization; parameters and energies are recorded in the repair audit."
+          }
+        },
+        "site": {
+          "center": {
+            "x": 32.398,
+            "y": 82.244,
+            "z": -11.053
+          },
+          "size": {
+            "x": 17.539,
+            "y": 18.25,
+            "z": 16
+          },
+          "derived_from": {
+            "residue_name": "ETC",
+            "chain": "A",
+            "residue_number": 600,
+            "heavy_atoms": 24,
+            "padding_angstrom": 5
+          }
+        },
+        "method": {
+          "engine": "AutoDock Vina",
+          "engine_version": "1.2.7",
+          "scoring_function": "vina",
+          "exhaustiveness": 4,
+          "requested_poses": 3,
+          "energy_range_kcal_mol": 4
+        },
+        "poses": [
+          {
+            "rank": 1,
+            "score_kcal_mol": -5.166,
+            "intermolecular_kcal_mol": -6.978,
+            "intramolecular_kcal_mol": 0.209,
+            "torsional_kcal_mol": 1.812,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.3229
+          },
+          {
+            "rank": 2,
+            "score_kcal_mol": -5.077,
+            "intermolecular_kcal_mol": -6.941,
+            "intramolecular_kcal_mol": 0.292,
+            "torsional_kcal_mol": 1.781,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.3173
+          },
+          {
+            "rank": 3,
+            "score_kcal_mol": -4.97,
+            "intermolecular_kcal_mol": -6.774,
+            "intramolecular_kcal_mol": 0.271,
+            "torsional_kcal_mol": 1.743,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.3106
+          }
+        ],
+        "best_score_kcal_mol": -5.166,
+        "interpretation": {
+          "score_meaning": "Vina scores rank predicted poses under this exact preparation protocol.",
+          "not_an_affinity": "Scores are not experimental binding affinity and must not be converted to Ki, Kd, or IC50.",
+          "comparison_rule": "Compare ligands only when receptor, box, protonation, scoring, and search settings are identical.",
+          "validation": "Use known active/inactive controls, redocking RMSD, orthogonal scoring, and experimental binding assays."
+        },
+        "sources": [
+          {
+            "id": "DOCK1",
+            "title": "AutoDock Vina",
+            "url": "https://autodock-vina.readthedocs.io/"
+          },
+          {
+            "id": "DOCK2",
+            "title": "Meeko receptor and ligand preparation",
+            "url": "https://meeko.readthedocs.io/"
+          },
+          {
+            "id": "DOCK3",
+            "title": "RCSB Protein Data Bank",
+            "url": "https://www.rcsb.org/structure/1L2J"
+          }
+        ],
+        "artifacts": [],
+        "provenance": {
+          "operation": "dock",
+          "service_version": "1.1.0",
+          "rdkit_version": "2025.09.5",
+          "computed_at": "2026-07-18T17:50:35.808261+00:00",
+          "computation_ms": 7833.38
+        }
+      },
+      {
+        "ligand": {
+          "label": "beta-caryophyllene",
+          "identifiers": {
+            "canonical_smiles": "C=C1CC/C=C(\\C)CC[C@@H]2[C@@H]1CC2(C)C",
+            "isomeric_smiles": "C=C1CC/C=C(\\C)CC[C@@H]2[C@@H]1CC2(C)C",
+            "inchi": "InChI=1S/C15H24/c1-11-6-5-7-12(2)13-10-15(3,4)14(13)9-8-11/h6,13-14H,2,5,7-10H2,1,3-4H3/b11-6+/t13-,14-/m1/s1",
+            "inchi_key": "NPNUFJAVOOONJE-GFUGXAQUSA-N",
+            "formula": "C15H24",
+            "cxsmiles": "C=C1CC/C=C(\\C)CC[C@@H]2[C@@H]1CC2(C)C"
+          },
+          "heavy_atoms": 15,
+          "molecular_weight": 204.357,
+          "preparation": {
+            "engines": [
+              "RDKit ETKDGv3",
+              "Meeko"
+            ],
+            "seed": 20260717
+          },
+          "resolution": {
+            "cid": 5281515,
+            "snapshot": "2026-07-18"
+          }
+        },
+        "receptor": {
+          "source": {
+            "database": "RCSB Protein Data Bank",
+            "pdb_id": "1L2J",
+            "title": "Human Estrogen Receptor beta Ligand-binding Domain in Complex with (R,R)-5,11-cis-diethyl-5,6,11,12-tetrahydrochrysene-2,8-diol",
+            "structure_url": "https://www.rcsb.org/structure/1L2J",
+            "coordinate_url": "https://files.rcsb.org/download/1L2J.pdb",
+            "retrieved_at": "2026-07-18T17:49:32.071280+00:00"
+          },
+          "preparation": {
+            "engine": "Meeko",
+            "engine_version": "0.7.1",
+            "rigid_receptor": true,
+            "chains": [
+              "A"
+            ],
+            "kept_heterogens": [],
+            "prepared_atoms": 1741,
+            "explicit_residue_templates": {},
+            "allow_bad_res": true,
+            "bad_residue_policy": "Meeko excluded observed residues that could not match a complete chemical template.",
+            "removed_reference_ligand": {
+              "residue_name": "ETC",
+              "chain": "A",
+              "residue_number": 600,
+              "padding": 5
+            },
+            "repair": {
+              "engine": "not applied",
+              "reason": "PDBFixer output for 1L2J creates a residue valence conflict in Meeko 0.7.1; use the observed chain-A coordinates and let Meeko exclude incomplete residues that cannot match a chemical template.",
+              "policy": "Observed protein coordinates were passed directly to Meeko; missing atoms and unresolved segments were not modeled."
+            },
+            "hydrogen_and_charge_method": "PDBFixer hydrogens at pH 7.4; Meeko atom typing and charges",
+            "relaxation": "Restrained local OpenMM minimization; parameters and energies are recorded in the repair audit."
+          }
+        },
+        "site": {
+          "center": {
+            "x": 32.398,
+            "y": 82.244,
+            "z": -11.053
+          },
+          "size": {
+            "x": 17.539,
+            "y": 18.25,
+            "z": 16
+          },
+          "derived_from": {
+            "residue_name": "ETC",
+            "chain": "A",
+            "residue_number": 600,
+            "heavy_atoms": 24,
+            "padding_angstrom": 5
+          }
+        },
+        "method": {
+          "engine": "AutoDock Vina",
+          "engine_version": "1.2.7",
+          "scoring_function": "vina",
+          "exhaustiveness": 4,
+          "requested_poses": 3,
+          "energy_range_kcal_mol": 4
+        },
+        "poses": [
+          {
+            "rank": 1,
+            "score_kcal_mol": -5.101,
+            "intermolecular_kcal_mol": -6.89,
+            "intramolecular_kcal_mol": 0.818,
+            "torsional_kcal_mol": 1.789,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.3401
+          },
+          {
+            "rank": 2,
+            "score_kcal_mol": -5.001,
+            "intermolecular_kcal_mol": -6.765,
+            "intramolecular_kcal_mol": 0.829,
+            "torsional_kcal_mol": 1.754,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.3334
+          },
+          {
+            "rank": 3,
+            "score_kcal_mol": -4.98,
+            "intermolecular_kcal_mol": -6.765,
+            "intramolecular_kcal_mol": 0.857,
+            "torsional_kcal_mol": 1.747,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.332
+          }
+        ],
+        "best_score_kcal_mol": -5.101,
+        "interpretation": {
+          "score_meaning": "Vina scores rank predicted poses under this exact preparation protocol.",
+          "not_an_affinity": "Scores are not experimental binding affinity and must not be converted to Ki, Kd, or IC50.",
+          "comparison_rule": "Compare ligands only when receptor, box, protonation, scoring, and search settings are identical.",
+          "validation": "Use known active/inactive controls, redocking RMSD, orthogonal scoring, and experimental binding assays."
+        },
+        "sources": [
+          {
+            "id": "DOCK1",
+            "title": "AutoDock Vina",
+            "url": "https://autodock-vina.readthedocs.io/"
+          },
+          {
+            "id": "DOCK2",
+            "title": "Meeko receptor and ligand preparation",
+            "url": "https://meeko.readthedocs.io/"
+          },
+          {
+            "id": "DOCK3",
+            "title": "RCSB Protein Data Bank",
+            "url": "https://www.rcsb.org/structure/1L2J"
+          }
+        ],
+        "artifacts": [],
+        "provenance": {
+          "operation": "dock",
+          "service_version": "1.1.0",
+          "rdkit_version": "2025.09.5",
+          "computed_at": "2026-07-18T17:50:43.396682+00:00",
+          "computation_ms": 7588.38
+        }
+      },
+      {
+        "ligand": {
+          "label": "R,R-THC",
+          "identifiers": {
+            "canonical_smiles": "CC[C@@H]1Cc2cc(O)ccc2C2=C1c1ccc(O)cc1C[C@H]2CC",
+            "isomeric_smiles": "CC[C@@H]1Cc2cc(O)ccc2C2=C1c1ccc(O)cc1C[C@H]2CC",
+            "inchi": "InChI=1S/C22H24O2/c1-3-13-9-15-11-17(23)6-8-20(15)22-14(4-2)10-16-12-18(24)5-7-19(16)21(13)22/h5-8,11-14,23-24H,3-4,9-10H2,1-2H3/t13-,14-/m1/s1",
+            "inchi_key": "MASYAWHPJCQLSW-ZIAGYGMSSA-N",
+            "formula": "C22H24O2",
+            "cxsmiles": "CC[C@@H]1Cc2cc(O)ccc2C2=C1c1ccc(O)cc1C[C@H]2CC"
+          },
+          "heavy_atoms": 24,
+          "molecular_weight": 320.432,
+          "preparation": {
+            "engines": [
+              "RDKit ETKDGv3",
+              "Meeko"
+            ],
+            "seed": 20260717
+          },
+          "resolution": {
+            "cid": 446849,
+            "snapshot": "2026-07-18"
+          }
+        },
+        "receptor": {
+          "source": {
+            "database": "RCSB Protein Data Bank",
+            "pdb_id": "1L2J",
+            "title": "Human Estrogen Receptor beta Ligand-binding Domain in Complex with (R,R)-5,11-cis-diethyl-5,6,11,12-tetrahydrochrysene-2,8-diol",
+            "structure_url": "https://www.rcsb.org/structure/1L2J",
+            "coordinate_url": "https://files.rcsb.org/download/1L2J.pdb",
+            "retrieved_at": "2026-07-18T17:49:32.071280+00:00"
+          },
+          "preparation": {
+            "engine": "Meeko",
+            "engine_version": "0.7.1",
+            "rigid_receptor": true,
+            "chains": [
+              "A"
+            ],
+            "kept_heterogens": [],
+            "prepared_atoms": 1741,
+            "explicit_residue_templates": {},
+            "allow_bad_res": true,
+            "bad_residue_policy": "Meeko excluded observed residues that could not match a complete chemical template.",
+            "removed_reference_ligand": {
+              "residue_name": "ETC",
+              "chain": "A",
+              "residue_number": 600,
+              "padding": 5
+            },
+            "repair": {
+              "engine": "not applied",
+              "reason": "PDBFixer output for 1L2J creates a residue valence conflict in Meeko 0.7.1; use the observed chain-A coordinates and let Meeko exclude incomplete residues that cannot match a chemical template.",
+              "policy": "Observed protein coordinates were passed directly to Meeko; missing atoms and unresolved segments were not modeled."
+            },
+            "hydrogen_and_charge_method": "PDBFixer hydrogens at pH 7.4; Meeko atom typing and charges",
+            "relaxation": "Restrained local OpenMM minimization; parameters and energies are recorded in the repair audit."
+          }
+        },
+        "site": {
+          "center": {
+            "x": 32.398,
+            "y": 82.244,
+            "z": -11.053
+          },
+          "size": {
+            "x": 17.539,
+            "y": 18.25,
+            "z": 16
+          },
+          "derived_from": {
+            "residue_name": "ETC",
+            "chain": "A",
+            "residue_number": 600,
+            "heavy_atoms": 24,
+            "padding_angstrom": 5
+          }
+        },
+        "method": {
+          "engine": "AutoDock Vina",
+          "engine_version": "1.2.7",
+          "scoring_function": "vina",
+          "exhaustiveness": 4,
+          "requested_poses": 3,
+          "energy_range_kcal_mol": 4
+        },
+        "poses": [
+          {
+            "rank": 1,
+            "score_kcal_mol": -11.055,
+            "intermolecular_kcal_mol": -12.993,
+            "intramolecular_kcal_mol": -0.525,
+            "torsional_kcal_mol": 1.939,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.4606
+          },
+          {
+            "rank": 2,
+            "score_kcal_mol": -10.531,
+            "intermolecular_kcal_mol": -12.422,
+            "intramolecular_kcal_mol": -0.481,
+            "torsional_kcal_mol": 1.847,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.4388
+          },
+          {
+            "rank": 3,
+            "score_kcal_mol": -9.429,
+            "intermolecular_kcal_mol": -11.094,
+            "intramolecular_kcal_mol": -0.513,
+            "torsional_kcal_mol": 1.654,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.3929
+          }
+        ],
+        "best_score_kcal_mol": -11.055,
+        "interpretation": {
+          "score_meaning": "Vina scores rank predicted poses under this exact preparation protocol.",
+          "not_an_affinity": "Scores are not experimental binding affinity and must not be converted to Ki, Kd, or IC50.",
+          "comparison_rule": "Compare ligands only when receptor, box, protonation, scoring, and search settings are identical.",
+          "validation": "Use known active/inactive controls, redocking RMSD, orthogonal scoring, and experimental binding assays."
+        },
+        "sources": [
+          {
+            "id": "DOCK1",
+            "title": "AutoDock Vina",
+            "url": "https://autodock-vina.readthedocs.io/"
+          },
+          {
+            "id": "DOCK2",
+            "title": "Meeko receptor and ligand preparation",
+            "url": "https://meeko.readthedocs.io/"
+          },
+          {
+            "id": "DOCK3",
+            "title": "RCSB Protein Data Bank",
+            "url": "https://www.rcsb.org/structure/1L2J"
+          }
+        ],
+        "artifacts": [],
+        "provenance": {
+          "operation": "dock",
+          "service_version": "1.1.0",
+          "rdkit_version": "2025.09.5",
+          "computed_at": "2026-07-18T17:50:48.958159+00:00",
+          "computation_ms": 5561.43
+        }
+      },
+      {
+        "ligand": {
+          "label": "4-hydroxytamoxifen",
+          "identifiers": {
+            "canonical_smiles": "CC/C(=C(\\c1ccc(O)cc1)c1ccc(OCCN(C)C)cc1)c1ccccc1",
+            "isomeric_smiles": "CC/C(=C(\\c1ccc(O)cc1)c1ccc(OCCN(C)C)cc1)c1ccccc1",
+            "inchi": "InChI=1S/C26H29NO2/c1-4-25(20-8-6-5-7-9-20)26(21-10-14-23(28)15-11-21)22-12-16-24(17-13-22)29-19-18-27(2)3/h5-17,28H,4,18-19H2,1-3H3/b26-25-",
+            "inchi_key": "TXUZVZSFRXZGTL-QPLCGJKRSA-N",
+            "formula": "C26H29NO2",
+            "cxsmiles": "CC/C(=C(\\c1ccc(O)cc1)c1ccc(OCCN(C)C)cc1)c1ccccc1"
+          },
+          "heavy_atoms": 29,
+          "molecular_weight": 387.523,
+          "preparation": {
+            "engines": [
+              "RDKit ETKDGv3",
+              "Meeko"
+            ],
+            "seed": 20260717
+          },
+          "resolution": {
+            "cid": 449459,
+            "snapshot": "2026-07-18"
+          }
+        },
+        "receptor": {
+          "source": {
+            "database": "RCSB Protein Data Bank",
+            "pdb_id": "1L2J",
+            "title": "Human Estrogen Receptor beta Ligand-binding Domain in Complex with (R,R)-5,11-cis-diethyl-5,6,11,12-tetrahydrochrysene-2,8-diol",
+            "structure_url": "https://www.rcsb.org/structure/1L2J",
+            "coordinate_url": "https://files.rcsb.org/download/1L2J.pdb",
+            "retrieved_at": "2026-07-18T17:49:32.071280+00:00"
+          },
+          "preparation": {
+            "engine": "Meeko",
+            "engine_version": "0.7.1",
+            "rigid_receptor": true,
+            "chains": [
+              "A"
+            ],
+            "kept_heterogens": [],
+            "prepared_atoms": 1741,
+            "explicit_residue_templates": {},
+            "allow_bad_res": true,
+            "bad_residue_policy": "Meeko excluded observed residues that could not match a complete chemical template.",
+            "removed_reference_ligand": {
+              "residue_name": "ETC",
+              "chain": "A",
+              "residue_number": 600,
+              "padding": 5
+            },
+            "repair": {
+              "engine": "not applied",
+              "reason": "PDBFixer output for 1L2J creates a residue valence conflict in Meeko 0.7.1; use the observed chain-A coordinates and let Meeko exclude incomplete residues that cannot match a chemical template.",
+              "policy": "Observed protein coordinates were passed directly to Meeko; missing atoms and unresolved segments were not modeled."
+            },
+            "hydrogen_and_charge_method": "PDBFixer hydrogens at pH 7.4; Meeko atom typing and charges",
+            "relaxation": "Restrained local OpenMM minimization; parameters and energies are recorded in the repair audit."
+          }
+        },
+        "site": {
+          "center": {
+            "x": 32.398,
+            "y": 82.244,
+            "z": -11.053
+          },
+          "size": {
+            "x": 17.539,
+            "y": 18.25,
+            "z": 16
+          },
+          "derived_from": {
+            "residue_name": "ETC",
+            "chain": "A",
+            "residue_number": 600,
+            "heavy_atoms": 24,
+            "padding_angstrom": 5
+          }
+        },
+        "method": {
+          "engine": "AutoDock Vina",
+          "engine_version": "1.2.7",
+          "scoring_function": "vina",
+          "exhaustiveness": 4,
+          "requested_poses": 3,
+          "energy_range_kcal_mol": 4
+        },
+        "poses": [
+          {
+            "rank": 1,
+            "score_kcal_mol": -8.944,
+            "intermolecular_kcal_mol": -13.388,
+            "intramolecular_kcal_mol": -0.318,
+            "torsional_kcal_mol": 4.444,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.3084
+          },
+          {
+            "rank": 2,
+            "score_kcal_mol": -7.498,
+            "intermolecular_kcal_mol": -10.368,
+            "intramolecular_kcal_mol": -1.174,
+            "torsional_kcal_mol": 3.726,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.2586
+          },
+          {
+            "rank": 3,
+            "score_kcal_mol": -7.475,
+            "intermolecular_kcal_mol": -9.622,
+            "intramolecular_kcal_mol": -1.885,
+            "torsional_kcal_mol": 3.714,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.2578
+          }
+        ],
+        "best_score_kcal_mol": -8.944,
+        "interpretation": {
+          "score_meaning": "Vina scores rank predicted poses under this exact preparation protocol.",
+          "not_an_affinity": "Scores are not experimental binding affinity and must not be converted to Ki, Kd, or IC50.",
+          "comparison_rule": "Compare ligands only when receptor, box, protonation, scoring, and search settings are identical.",
+          "validation": "Use known active/inactive controls, redocking RMSD, orthogonal scoring, and experimental binding assays."
+        },
+        "sources": [
+          {
+            "id": "DOCK1",
+            "title": "AutoDock Vina",
+            "url": "https://autodock-vina.readthedocs.io/"
+          },
+          {
+            "id": "DOCK2",
+            "title": "Meeko receptor and ligand preparation",
+            "url": "https://meeko.readthedocs.io/"
+          },
+          {
+            "id": "DOCK3",
+            "title": "RCSB Protein Data Bank",
+            "url": "https://www.rcsb.org/structure/1L2J"
+          }
+        ],
+        "artifacts": [],
+        "provenance": {
+          "operation": "dock",
+          "service_version": "1.1.0",
+          "rdkit_version": "2025.09.5",
+          "computed_at": "2026-07-18T17:51:04.102223+00:00",
+          "computation_ms": 15144.01
+        }
+      },
+      {
+        "ligand": {
+          "label": "ospemifene",
+          "identifiers": {
+            "canonical_smiles": "OCCOc1ccc(/C(=C(/CCCl)c2ccccc2)c2ccccc2)cc1",
+            "isomeric_smiles": "OCCOc1ccc(/C(=C(/CCCl)c2ccccc2)c2ccccc2)cc1",
+            "inchi": "InChI=1S/C24H23ClO2/c25-16-15-23(19-7-3-1-4-8-19)24(20-9-5-2-6-10-20)21-11-13-22(14-12-21)27-18-17-26/h1-14,26H,15-18H2/b24-23-",
+            "inchi_key": "LUMKNAVTFCDUIE-VHXPQNKSSA-N",
+            "formula": "C24H23ClO2",
+            "cxsmiles": "OCCOc1ccc(/C(=C(/CCCl)c2ccccc2)c2ccccc2)cc1"
+          },
+          "heavy_atoms": 27,
+          "molecular_weight": 378.899,
+          "preparation": {
+            "engines": [
+              "RDKit ETKDGv3",
+              "Meeko"
+            ],
+            "seed": 20260717
+          },
+          "resolution": {
+            "cid": 3036505,
+            "snapshot": "2026-07-18"
+          }
+        },
+        "receptor": {
+          "source": {
+            "database": "RCSB Protein Data Bank",
+            "pdb_id": "1L2J",
+            "title": "Human Estrogen Receptor beta Ligand-binding Domain in Complex with (R,R)-5,11-cis-diethyl-5,6,11,12-tetrahydrochrysene-2,8-diol",
+            "structure_url": "https://www.rcsb.org/structure/1L2J",
+            "coordinate_url": "https://files.rcsb.org/download/1L2J.pdb",
+            "retrieved_at": "2026-07-18T17:49:32.071280+00:00"
+          },
+          "preparation": {
+            "engine": "Meeko",
+            "engine_version": "0.7.1",
+            "rigid_receptor": true,
+            "chains": [
+              "A"
+            ],
+            "kept_heterogens": [],
+            "prepared_atoms": 1741,
+            "explicit_residue_templates": {},
+            "allow_bad_res": true,
+            "bad_residue_policy": "Meeko excluded observed residues that could not match a complete chemical template.",
+            "removed_reference_ligand": {
+              "residue_name": "ETC",
+              "chain": "A",
+              "residue_number": 600,
+              "padding": 5
+            },
+            "repair": {
+              "engine": "not applied",
+              "reason": "PDBFixer output for 1L2J creates a residue valence conflict in Meeko 0.7.1; use the observed chain-A coordinates and let Meeko exclude incomplete residues that cannot match a chemical template.",
+              "policy": "Observed protein coordinates were passed directly to Meeko; missing atoms and unresolved segments were not modeled."
+            },
+            "hydrogen_and_charge_method": "PDBFixer hydrogens at pH 7.4; Meeko atom typing and charges",
+            "relaxation": "Restrained local OpenMM minimization; parameters and energies are recorded in the repair audit."
+          }
+        },
+        "site": {
+          "center": {
+            "x": 32.398,
+            "y": 82.244,
+            "z": -11.053
+          },
+          "size": {
+            "x": 17.539,
+            "y": 18.25,
+            "z": 16
+          },
+          "derived_from": {
+            "residue_name": "ETC",
+            "chain": "A",
+            "residue_number": 600,
+            "heavy_atoms": 24,
+            "padding_angstrom": 5
+          }
+        },
+        "method": {
+          "engine": "AutoDock Vina",
+          "engine_version": "1.2.7",
+          "scoring_function": "vina",
+          "exhaustiveness": 4,
+          "requested_poses": 3,
+          "energy_range_kcal_mol": 4
+        },
+        "poses": [
+          {
+            "rank": 1,
+            "score_kcal_mol": -8.601,
+            "intermolecular_kcal_mol": -12.875,
+            "intramolecular_kcal_mol": -1.313,
+            "torsional_kcal_mol": 4.274,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.3186
+          },
+          {
+            "rank": 2,
+            "score_kcal_mol": -8.544,
+            "intermolecular_kcal_mol": -12.231,
+            "intramolecular_kcal_mol": -1.873,
+            "torsional_kcal_mol": 4.246,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.3164
+          },
+          {
+            "rank": 3,
+            "score_kcal_mol": -7.347,
+            "intermolecular_kcal_mol": -10.617,
+            "intramolecular_kcal_mol": -1.694,
+            "torsional_kcal_mol": 3.651,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.2721
+          }
+        ],
+        "best_score_kcal_mol": -8.601,
+        "interpretation": {
+          "score_meaning": "Vina scores rank predicted poses under this exact preparation protocol.",
+          "not_an_affinity": "Scores are not experimental binding affinity and must not be converted to Ki, Kd, or IC50.",
+          "comparison_rule": "Compare ligands only when receptor, box, protonation, scoring, and search settings are identical.",
+          "validation": "Use known active/inactive controls, redocking RMSD, orthogonal scoring, and experimental binding assays."
+        },
+        "sources": [
+          {
+            "id": "DOCK1",
+            "title": "AutoDock Vina",
+            "url": "https://autodock-vina.readthedocs.io/"
+          },
+          {
+            "id": "DOCK2",
+            "title": "Meeko receptor and ligand preparation",
+            "url": "https://meeko.readthedocs.io/"
+          },
+          {
+            "id": "DOCK3",
+            "title": "RCSB Protein Data Bank",
+            "url": "https://www.rcsb.org/structure/1L2J"
+          }
+        ],
+        "artifacts": [],
+        "provenance": {
+          "operation": "dock",
+          "service_version": "1.1.0",
+          "rdkit_version": "2025.09.5",
+          "computed_at": "2026-07-18T17:51:16.989058+00:00",
+          "computation_ms": 12886.78
+        }
+      }
+    ],
+    "count": 26,
+    "receptor": {
+      "source": {
+        "database": "RCSB Protein Data Bank",
+        "pdb_id": "1L2J",
+        "title": "Human Estrogen Receptor beta Ligand-binding Domain in Complex with (R,R)-5,11-cis-diethyl-5,6,11,12-tetrahydrochrysene-2,8-diol",
+        "structure_url": "https://www.rcsb.org/structure/1L2J",
+        "coordinate_url": "https://files.rcsb.org/download/1L2J.pdb",
+        "retrieved_at": "2026-07-18T17:49:32.071280+00:00"
+      },
+      "preparation": {
+        "engine": "Meeko",
+        "engine_version": "0.7.1",
+        "rigid_receptor": true,
+        "chains": [
+          "A"
+        ],
+        "kept_heterogens": [],
+        "prepared_atoms": 1741,
+        "explicit_residue_templates": {},
+        "allow_bad_res": true,
+        "bad_residue_policy": "Meeko excluded observed residues that could not match a complete chemical template.",
+        "removed_reference_ligand": {
+          "residue_name": "ETC",
+          "chain": "A",
+          "residue_number": 600,
+          "padding": 5
+        },
+        "repair": {
+          "engine": "not applied",
+          "reason": "PDBFixer output for 1L2J creates a residue valence conflict in Meeko 0.7.1; use the observed chain-A coordinates and let Meeko exclude incomplete residues that cannot match a chemical template.",
+          "policy": "Observed protein coordinates were passed directly to Meeko; missing atoms and unresolved segments were not modeled."
+        },
+        "hydrogen_and_charge_method": "PDBFixer hydrogens at pH 7.4; Meeko atom typing and charges",
+        "relaxation": "Restrained local OpenMM minimization; parameters and energies are recorded in the repair audit."
+      }
+    },
+    "site": {
+      "center": {
+        "x": 32.398,
+        "y": 82.244,
+        "z": -11.053
+      },
+      "size": {
+        "x": 17.539,
+        "y": 18.25,
+        "z": 16
+      },
+      "derived_from": {
+        "residue_name": "ETC",
+        "chain": "A",
+        "residue_number": 600,
+        "heavy_atoms": 24,
+        "padding_angstrom": 5
+      }
+    },
+    "method": {
+      "engine": "AutoDock Vina",
+      "engine_version": "1.2.7",
+      "scoring_function": "vina",
+      "exhaustiveness": 4,
+      "requested_poses": 3,
+      "seed": 20260717,
+      "execution": "serial ligand batch with one receptor preparation"
+    },
+    "provenance": {
+      "operation": "dock_batch",
+      "service_version": "1.1.0",
+      "rdkit_version": "2025.09.5",
+      "computed_at": "2026-07-18T17:51:16.989511+00:00",
+      "computation_ms": 105559.58
+    }
+  }
+}
