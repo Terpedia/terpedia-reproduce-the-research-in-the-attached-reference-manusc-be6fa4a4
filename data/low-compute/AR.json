@@ -1,0 +1,4475 @@
+{
+  "run_id": "paper-reproduction-low-20260718",
+  "target": {
+    "name": "Androgen receptor",
+    "short_name": "AR",
+    "pdb_id": "3V49",
+    "uniprot_id": "P10275"
+  },
+  "ligands": [
+    "linalool",
+    "bornyl acetate",
+    "terpineol",
+    "eucalyptol",
+    "perillyl alcohol",
+    "fenchol",
+    "gamma-terpinene",
+    "beta-myrcene",
+    "beta-ocimene",
+    "S-carvone",
+    "R-carvone",
+    "p-cymene",
+    "borneol",
+    "terpinolene",
+    "limonene",
+    "sabinene",
+    "alpha-pinene",
+    "beta-pinene",
+    "nerolidol",
+    "alpha-bisabolol",
+    "humulene",
+    "caryophyllene oxide",
+    "beta-caryophyllene",
+    "CHEMBL2177238",
+    "testosterone propionate",
+    "flutamide"
+  ],
+  "input_provenance": {
+    "source": "PubChem PUG REST property records",
+    "snapshot_date": "2026-07-18",
+    "paper": "Target Fishing and Molecular Docking of Terpenes: A Systematic Evaluation of Method Concordance and Ligand Efficiency"
+  },
+  "compute_profile": "low_compute",
+  "observations": [
+    {
+      "ligand": "linalool",
+      "target": "AR",
+      "score_kcal_mol": -5.097,
+      "heavy_atoms": 11,
+      "ligand_class": "monoterpene",
+      "experimental_support": false
+    },
+    {
+      "ligand": "bornyl acetate",
+      "target": "AR",
+      "score_kcal_mol": -6.015,
+      "heavy_atoms": 14,
+      "ligand_class": "monoterpene",
+      "experimental_support": false
+    },
+    {
+      "ligand": "terpineol",
+      "target": "AR",
+      "score_kcal_mol": -5.799,
+      "heavy_atoms": 11,
+      "ligand_class": "monoterpene",
+      "experimental_support": false
+    },
+    {
+      "ligand": "eucalyptol",
+      "target": "AR",
+      "score_kcal_mol": -5.553,
+      "heavy_atoms": 11,
+      "ligand_class": "monoterpene",
+      "experimental_support": false
+    },
+    {
+      "ligand": "perillyl alcohol",
+      "target": "AR",
+      "score_kcal_mol": -6.182,
+      "heavy_atoms": 11,
+      "ligand_class": "monoterpene",
+      "experimental_support": false
+    },
+    {
+      "ligand": "fenchol",
+      "target": "AR",
+      "score_kcal_mol": -5.413,
+      "heavy_atoms": 11,
+      "ligand_class": "monoterpene",
+      "experimental_support": false
+    },
+    {
+      "ligand": "gamma-terpinene",
+      "target": "AR",
+      "score_kcal_mol": -5.934,
+      "heavy_atoms": 10,
+      "ligand_class": "monoterpene",
+      "experimental_support": false
+    },
+    {
+      "ligand": "beta-myrcene",
+      "target": "AR",
+      "score_kcal_mol": -5.294,
+      "heavy_atoms": 10,
+      "ligand_class": "monoterpene",
+      "experimental_support": false
+    },
+    {
+      "ligand": "beta-ocimene",
+      "target": "AR",
+      "score_kcal_mol": -5.491,
+      "heavy_atoms": 10,
+      "ligand_class": "monoterpene",
+      "experimental_support": false
+    },
+    {
+      "ligand": "S-carvone",
+      "target": "AR",
+      "score_kcal_mol": -6.135,
+      "heavy_atoms": 11,
+      "ligand_class": "monoterpene",
+      "experimental_support": false
+    },
+    {
+      "ligand": "R-carvone",
+      "target": "AR",
+      "score_kcal_mol": -6.287,
+      "heavy_atoms": 11,
+      "ligand_class": "monoterpene",
+      "experimental_support": false
+    },
+    {
+      "ligand": "p-cymene",
+      "target": "AR",
+      "score_kcal_mol": -5.938,
+      "heavy_atoms": 10,
+      "ligand_class": "monoterpene",
+      "experimental_support": false
+    },
+    {
+      "ligand": "borneol",
+      "target": "AR",
+      "score_kcal_mol": -5.677,
+      "heavy_atoms": 11,
+      "ligand_class": "monoterpene",
+      "experimental_support": false
+    },
+    {
+      "ligand": "terpinolene",
+      "target": "AR",
+      "score_kcal_mol": -5.98,
+      "heavy_atoms": 10,
+      "ligand_class": "monoterpene",
+      "experimental_support": false
+    },
+    {
+      "ligand": "limonene",
+      "target": "AR",
+      "score_kcal_mol": -5.354,
+      "heavy_atoms": 10,
+      "ligand_class": "monoterpene",
+      "experimental_support": false
+    },
+    {
+      "ligand": "sabinene",
+      "target": "AR",
+      "score_kcal_mol": -5.478,
+      "heavy_atoms": 10,
+      "ligand_class": "monoterpene",
+      "experimental_support": false
+    },
+    {
+      "ligand": "alpha-pinene",
+      "target": "AR",
+      "score_kcal_mol": -5.559,
+      "heavy_atoms": 10,
+      "ligand_class": "monoterpene",
+      "experimental_support": false
+    },
+    {
+      "ligand": "beta-pinene",
+      "target": "AR",
+      "score_kcal_mol": -5.473,
+      "heavy_atoms": 10,
+      "ligand_class": "monoterpene",
+      "experimental_support": false
+    },
+    {
+      "ligand": "nerolidol",
+      "target": "AR",
+      "score_kcal_mol": -6.838,
+      "heavy_atoms": 16,
+      "ligand_class": "sesquiterpene",
+      "experimental_support": false
+    },
+    {
+      "ligand": "alpha-bisabolol",
+      "target": "AR",
+      "score_kcal_mol": -7.487,
+      "heavy_atoms": 16,
+      "ligand_class": "sesquiterpene",
+      "experimental_support": false
+    },
+    {
+      "ligand": "humulene",
+      "target": "AR",
+      "score_kcal_mol": -4.653,
+      "heavy_atoms": 15,
+      "ligand_class": "sesquiterpene",
+      "experimental_support": false
+    },
+    {
+      "ligand": "caryophyllene oxide",
+      "target": "AR",
+      "score_kcal_mol": -4.927,
+      "heavy_atoms": 16,
+      "ligand_class": "sesquiterpene",
+      "experimental_support": false
+    },
+    {
+      "ligand": "beta-caryophyllene",
+      "target": "AR",
+      "score_kcal_mol": -5.62,
+      "heavy_atoms": 15,
+      "ligand_class": "sesquiterpene",
+      "experimental_support": false
+    },
+    {
+      "ligand": "CHEMBL2177238",
+      "target": "AR",
+      "score_kcal_mol": -6.109,
+      "heavy_atoms": 28,
+      "ligand_class": "known_ligand",
+      "experimental_support": true
+    },
+    {
+      "ligand": "testosterone propionate",
+      "target": "AR",
+      "score_kcal_mol": -5.292,
+      "heavy_atoms": 25,
+      "ligand_class": "known_ligand",
+      "experimental_support": true
+    },
+    {
+      "ligand": "flutamide",
+      "target": "AR",
+      "score_kcal_mol": -8.003,
+      "heavy_atoms": 19,
+      "ligand_class": "known_ligand",
+      "experimental_support": true
+    }
+  ],
+  "result": {
+    "results": [
+      {
+        "ligand": {
+          "label": "linalool",
+          "identifiers": {
+            "canonical_smiles": "C=CC(C)(O)CCC=C(C)C",
+            "isomeric_smiles": "C=CC(C)(O)CCC=C(C)C",
+            "inchi": "InChI=1S/C10H18O/c1-5-10(4,11)8-6-7-9(2)3/h5,7,11H,1,6,8H2,2-4H3",
+            "inchi_key": "CDOSHBSSFJOMGT-UHFFFAOYSA-N",
+            "formula": "C10H18O",
+            "cxsmiles": "C=CC(C)(O)CCC=C(C)C"
+          },
+          "heavy_atoms": 11,
+          "molecular_weight": 154.253,
+          "preparation": {
+            "engines": [
+              "RDKit ETKDGv3",
+              "Meeko"
+            ],
+            "seed": 20260717
+          },
+          "resolution": {
+            "cid": 6549,
+            "snapshot": "2026-07-18"
+          }
+        },
+        "receptor": {
+          "source": {
+            "database": "RCSB Protein Data Bank",
+            "pdb_id": "3V49",
+            "title": "Structure of ar lbd with activator peptide and sarm inhibitor 1",
+            "structure_url": "https://www.rcsb.org/structure/3V49",
+            "coordinate_url": "https://files.rcsb.org/download/3V49.pdb",
+            "retrieved_at": "2026-07-18T17:26:37.179253+00:00"
+          },
+          "preparation": {
+            "engine": "Meeko",
+            "engine_version": "0.7.1",
+            "rigid_receptor": true,
+            "chains": [
+              "A"
+            ],
+            "kept_heterogens": [],
+            "prepared_atoms": 2054,
+            "explicit_residue_templates": {},
+            "removed_reference_ligand": {
+              "residue_name": "PK0",
+              "chain": "A",
+              "residue_number": 950,
+              "padding": 5
+            },
+            "repair": {
+              "engine": "PDBFixer",
+              "engine_version": "1.12.0",
+              "ph": 7.4,
+              "missing_residue_segments_not_built": [],
+              "replaced_nonstandard_residues": [],
+              "added_missing_heavy_atoms": [],
+              "added_terminal_atoms": [],
+              "preserved_heterogen_atoms": 0,
+              "heterogen_policy": "Heterogens were excluded from PDBFixer and restored unchanged after protein repair.",
+              "relaxation": {
+                "method": "restrained OpenMM minimization",
+                "restrained_observed_heavy_atoms": 1994,
+                "max_iterations": 20,
+                "initial_potential_kj_mol": 349566.781,
+                "final_potential_kj_mol": 349616.206
+              },
+              "policy": "Missing atoms and hydrogens were added; unresolved residue segments were recorded but not modeled."
+            },
+            "hydrogen_and_charge_method": "PDBFixer hydrogens at pH 7.4; Meeko atom typing and charges",
+            "relaxation": "Restrained local OpenMM minimization; parameters and energies are recorded in the repair audit."
+          }
+        },
+        "site": {
+          "center": {
+            "x": 27.017,
+            "y": 2.744,
+            "z": 5.935
+          },
+          "size": {
+            "x": 18.008,
+            "y": 19.993,
+            "z": 17.108
+          },
+          "derived_from": {
+            "residue_name": "PK0",
+            "chain": "A",
+            "residue_number": 950,
+            "heavy_atoms": 28,
+            "padding_angstrom": 5
+          }
+        },
+        "method": {
+          "engine": "AutoDock Vina",
+          "engine_version": "1.2.7",
+          "scoring_function": "vina",
+          "exhaustiveness": 4,
+          "requested_poses": 3,
+          "energy_range_kcal_mol": 4
+        },
+        "poses": [
+          {
+            "rank": 1,
+            "score_kcal_mol": -5.097,
+            "intermolecular_kcal_mol": -6.438,
+            "intramolecular_kcal_mol": -0.555,
+            "torsional_kcal_mol": 1.341,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.4634
+          },
+          {
+            "rank": 2,
+            "score_kcal_mol": -5.039,
+            "intermolecular_kcal_mol": -6.636,
+            "intramolecular_kcal_mol": -0.284,
+            "torsional_kcal_mol": 1.326,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.4581
+          },
+          {
+            "rank": 3,
+            "score_kcal_mol": -4.997,
+            "intermolecular_kcal_mol": -6.279,
+            "intramolecular_kcal_mol": -0.587,
+            "torsional_kcal_mol": 1.314,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.4543
+          }
+        ],
+        "best_score_kcal_mol": -5.097,
+        "interpretation": {
+          "score_meaning": "Vina scores rank predicted poses under this exact preparation protocol.",
+          "not_an_affinity": "Scores are not experimental binding affinity and must not be converted to Ki, Kd, or IC50.",
+          "comparison_rule": "Compare ligands only when receptor, box, protonation, scoring, and search settings are identical.",
+          "validation": "Use known active/inactive controls, redocking RMSD, orthogonal scoring, and experimental binding assays."
+        },
+        "sources": [
+          {
+            "id": "DOCK1",
+            "title": "AutoDock Vina",
+            "url": "https://autodock-vina.readthedocs.io/"
+          },
+          {
+            "id": "DOCK2",
+            "title": "Meeko receptor and ligand preparation",
+            "url": "https://meeko.readthedocs.io/"
+          },
+          {
+            "id": "DOCK3",
+            "title": "RCSB Protein Data Bank",
+            "url": "https://www.rcsb.org/structure/3V49"
+          }
+        ],
+        "artifacts": [],
+        "provenance": {
+          "operation": "dock",
+          "service_version": "1.1.0",
+          "rdkit_version": "2025.09.5",
+          "computed_at": "2026-07-18T17:26:55.131054+00:00",
+          "computation_ms": 2599.95
+        }
+      },
+      {
+        "ligand": {
+          "label": "bornyl acetate",
+          "identifiers": {
+            "canonical_smiles": "CC(=O)O[C@@H]1C[C@@H]2CC[C@@]1(C)C2(C)C",
+            "isomeric_smiles": "CC(=O)O[C@@H]1C[C@@H]2CC[C@@]1(C)C2(C)C",
+            "inchi": "InChI=1S/C12H20O2/c1-8(13)14-10-7-9-5-6-12(10,4)11(9,2)3/h9-10H,5-7H2,1-4H3/t9-,10+,12+/m0/s1",
+            "inchi_key": "KGEKLUUHTZCSIP-HOSYDEDBSA-N",
+            "formula": "C12H20O2",
+            "cxsmiles": "CC(=O)O[C@@H]1C[C@@H]2CC[C@@]1(C)C2(C)C"
+          },
+          "heavy_atoms": 14,
+          "molecular_weight": 196.29,
+          "preparation": {
+            "engines": [
+              "RDKit ETKDGv3",
+              "Meeko"
+            ],
+            "seed": 20260717
+          },
+          "resolution": {
+            "cid": 93009,
+            "snapshot": "2026-07-18"
+          }
+        },
+        "receptor": {
+          "source": {
+            "database": "RCSB Protein Data Bank",
+            "pdb_id": "3V49",
+            "title": "Structure of ar lbd with activator peptide and sarm inhibitor 1",
+            "structure_url": "https://www.rcsb.org/structure/3V49",
+            "coordinate_url": "https://files.rcsb.org/download/3V49.pdb",
+            "retrieved_at": "2026-07-18T17:26:37.179253+00:00"
+          },
+          "preparation": {
+            "engine": "Meeko",
+            "engine_version": "0.7.1",
+            "rigid_receptor": true,
+            "chains": [
+              "A"
+            ],
+            "kept_heterogens": [],
+            "prepared_atoms": 2054,
+            "explicit_residue_templates": {},
+            "removed_reference_ligand": {
+              "residue_name": "PK0",
+              "chain": "A",
+              "residue_number": 950,
+              "padding": 5
+            },
+            "repair": {
+              "engine": "PDBFixer",
+              "engine_version": "1.12.0",
+              "ph": 7.4,
+              "missing_residue_segments_not_built": [],
+              "replaced_nonstandard_residues": [],
+              "added_missing_heavy_atoms": [],
+              "added_terminal_atoms": [],
+              "preserved_heterogen_atoms": 0,
+              "heterogen_policy": "Heterogens were excluded from PDBFixer and restored unchanged after protein repair.",
+              "relaxation": {
+                "method": "restrained OpenMM minimization",
+                "restrained_observed_heavy_atoms": 1994,
+                "max_iterations": 20,
+                "initial_potential_kj_mol": 349566.781,
+                "final_potential_kj_mol": 349616.206
+              },
+              "policy": "Missing atoms and hydrogens were added; unresolved residue segments were recorded but not modeled."
+            },
+            "hydrogen_and_charge_method": "PDBFixer hydrogens at pH 7.4; Meeko atom typing and charges",
+            "relaxation": "Restrained local OpenMM minimization; parameters and energies are recorded in the repair audit."
+          }
+        },
+        "site": {
+          "center": {
+            "x": 27.017,
+            "y": 2.744,
+            "z": 5.935
+          },
+          "size": {
+            "x": 18.008,
+            "y": 19.993,
+            "z": 17.108
+          },
+          "derived_from": {
+            "residue_name": "PK0",
+            "chain": "A",
+            "residue_number": 950,
+            "heavy_atoms": 28,
+            "padding_angstrom": 5
+          }
+        },
+        "method": {
+          "engine": "AutoDock Vina",
+          "engine_version": "1.2.7",
+          "scoring_function": "vina",
+          "exhaustiveness": 4,
+          "requested_poses": 3,
+          "energy_range_kcal_mol": 4
+        },
+        "poses": [
+          {
+            "rank": 1,
+            "score_kcal_mol": -6.015,
+            "intermolecular_kcal_mol": -6.718,
+            "intramolecular_kcal_mol": -0.308,
+            "torsional_kcal_mol": 0.703,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.4296
+          },
+          {
+            "rank": 2,
+            "score_kcal_mol": -5.987,
+            "intermolecular_kcal_mol": -6.644,
+            "intramolecular_kcal_mol": -0.352,
+            "torsional_kcal_mol": 0.7,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.4276
+          },
+          {
+            "rank": 3,
+            "score_kcal_mol": -5.294,
+            "intermolecular_kcal_mol": -6.03,
+            "intramolecular_kcal_mol": -0.191,
+            "torsional_kcal_mol": 0.619,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.3781
+          }
+        ],
+        "best_score_kcal_mol": -6.015,
+        "interpretation": {
+          "score_meaning": "Vina scores rank predicted poses under this exact preparation protocol.",
+          "not_an_affinity": "Scores are not experimental binding affinity and must not be converted to Ki, Kd, or IC50.",
+          "comparison_rule": "Compare ligands only when receptor, box, protonation, scoring, and search settings are identical.",
+          "validation": "Use known active/inactive controls, redocking RMSD, orthogonal scoring, and experimental binding assays."
+        },
+        "sources": [
+          {
+            "id": "DOCK1",
+            "title": "AutoDock Vina",
+            "url": "https://autodock-vina.readthedocs.io/"
+          },
+          {
+            "id": "DOCK2",
+            "title": "Meeko receptor and ligand preparation",
+            "url": "https://meeko.readthedocs.io/"
+          },
+          {
+            "id": "DOCK3",
+            "title": "RCSB Protein Data Bank",
+            "url": "https://www.rcsb.org/structure/3V49"
+          }
+        ],
+        "artifacts": [],
+        "provenance": {
+          "operation": "dock",
+          "service_version": "1.1.0",
+          "rdkit_version": "2025.09.5",
+          "computed_at": "2026-07-18T17:26:57.191197+00:00",
+          "computation_ms": 2053.72
+        }
+      },
+      {
+        "ligand": {
+          "label": "terpineol",
+          "identifiers": {
+            "canonical_smiles": "CC1=CCC(C(C)(C)O)CC1",
+            "isomeric_smiles": "CC1=CCC(C(C)(C)O)CC1",
+            "inchi": "InChI=1S/C10H18O/c1-8-4-6-9(7-5-8)10(2,3)11/h4,9,11H,5-7H2,1-3H3",
+            "inchi_key": "WUOACPNHFRMFPN-UHFFFAOYSA-N",
+            "formula": "C10H18O",
+            "cxsmiles": "CC1=CCC(C(C)(C)O)CC1"
+          },
+          "heavy_atoms": 11,
+          "molecular_weight": 154.253,
+          "preparation": {
+            "engines": [
+              "RDKit ETKDGv3",
+              "Meeko"
+            ],
+            "seed": 20260717
+          },
+          "resolution": {
+            "cid": 17100,
+            "snapshot": "2026-07-18"
+          }
+        },
+        "receptor": {
+          "source": {
+            "database": "RCSB Protein Data Bank",
+            "pdb_id": "3V49",
+            "title": "Structure of ar lbd with activator peptide and sarm inhibitor 1",
+            "structure_url": "https://www.rcsb.org/structure/3V49",
+            "coordinate_url": "https://files.rcsb.org/download/3V49.pdb",
+            "retrieved_at": "2026-07-18T17:26:37.179253+00:00"
+          },
+          "preparation": {
+            "engine": "Meeko",
+            "engine_version": "0.7.1",
+            "rigid_receptor": true,
+            "chains": [
+              "A"
+            ],
+            "kept_heterogens": [],
+            "prepared_atoms": 2054,
+            "explicit_residue_templates": {},
+            "removed_reference_ligand": {
+              "residue_name": "PK0",
+              "chain": "A",
+              "residue_number": 950,
+              "padding": 5
+            },
+            "repair": {
+              "engine": "PDBFixer",
+              "engine_version": "1.12.0",
+              "ph": 7.4,
+              "missing_residue_segments_not_built": [],
+              "replaced_nonstandard_residues": [],
+              "added_missing_heavy_atoms": [],
+              "added_terminal_atoms": [],
+              "preserved_heterogen_atoms": 0,
+              "heterogen_policy": "Heterogens were excluded from PDBFixer and restored unchanged after protein repair.",
+              "relaxation": {
+                "method": "restrained OpenMM minimization",
+                "restrained_observed_heavy_atoms": 1994,
+                "max_iterations": 20,
+                "initial_potential_kj_mol": 349566.781,
+                "final_potential_kj_mol": 349616.206
+              },
+              "policy": "Missing atoms and hydrogens were added; unresolved residue segments were recorded but not modeled."
+            },
+            "hydrogen_and_charge_method": "PDBFixer hydrogens at pH 7.4; Meeko atom typing and charges",
+            "relaxation": "Restrained local OpenMM minimization; parameters and energies are recorded in the repair audit."
+          }
+        },
+        "site": {
+          "center": {
+            "x": 27.017,
+            "y": 2.744,
+            "z": 5.935
+          },
+          "size": {
+            "x": 18.008,
+            "y": 19.993,
+            "z": 17.108
+          },
+          "derived_from": {
+            "residue_name": "PK0",
+            "chain": "A",
+            "residue_number": 950,
+            "heavy_atoms": 28,
+            "padding_angstrom": 5
+          }
+        },
+        "method": {
+          "engine": "AutoDock Vina",
+          "engine_version": "1.2.7",
+          "scoring_function": "vina",
+          "exhaustiveness": 4,
+          "requested_poses": 3,
+          "energy_range_kcal_mol": 4
+        },
+        "poses": [
+          {
+            "rank": 1,
+            "score_kcal_mol": -5.799,
+            "intermolecular_kcal_mol": -6.307,
+            "intramolecular_kcal_mol": -0.157,
+            "torsional_kcal_mol": 0.508,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5272
+          },
+          {
+            "rank": 2,
+            "score_kcal_mol": -5.705,
+            "intermolecular_kcal_mol": -6.18,
+            "intramolecular_kcal_mol": -0.182,
+            "torsional_kcal_mol": 0.5,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5186
+          },
+          {
+            "rank": 3,
+            "score_kcal_mol": -5.582,
+            "intermolecular_kcal_mol": -6.102,
+            "intramolecular_kcal_mol": -0.126,
+            "torsional_kcal_mol": 0.489,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5075
+          }
+        ],
+        "best_score_kcal_mol": -5.799,
+        "interpretation": {
+          "score_meaning": "Vina scores rank predicted poses under this exact preparation protocol.",
+          "not_an_affinity": "Scores are not experimental binding affinity and must not be converted to Ki, Kd, or IC50.",
+          "comparison_rule": "Compare ligands only when receptor, box, protonation, scoring, and search settings are identical.",
+          "validation": "Use known active/inactive controls, redocking RMSD, orthogonal scoring, and experimental binding assays."
+        },
+        "sources": [
+          {
+            "id": "DOCK1",
+            "title": "AutoDock Vina",
+            "url": "https://autodock-vina.readthedocs.io/"
+          },
+          {
+            "id": "DOCK2",
+            "title": "Meeko receptor and ligand preparation",
+            "url": "https://meeko.readthedocs.io/"
+          },
+          {
+            "id": "DOCK3",
+            "title": "RCSB Protein Data Bank",
+            "url": "https://www.rcsb.org/structure/3V49"
+          }
+        ],
+        "artifacts": [],
+        "provenance": {
+          "operation": "dock",
+          "service_version": "1.1.0",
+          "rdkit_version": "2025.09.5",
+          "computed_at": "2026-07-18T17:26:59.075242+00:00",
+          "computation_ms": 1884
+        }
+      },
+      {
+        "ligand": {
+          "label": "eucalyptol",
+          "identifiers": {
+            "canonical_smiles": "CC12CCC(CC1)C(C)(C)O2",
+            "isomeric_smiles": "CC12CCC(CC1)C(C)(C)O2",
+            "inchi": "InChI=1S/C10H18O/c1-9(2)8-4-6-10(3,11-9)7-5-8/h8H,4-7H2,1-3H3",
+            "inchi_key": "WEEGYLXZBRQIMU-UHFFFAOYSA-N",
+            "formula": "C10H18O",
+            "cxsmiles": "CC12CCC(CC1)C(C)(C)O2"
+          },
+          "heavy_atoms": 11,
+          "molecular_weight": 154.253,
+          "preparation": {
+            "engines": [
+              "RDKit ETKDGv3",
+              "Meeko"
+            ],
+            "seed": 20260717
+          },
+          "resolution": {
+            "cid": 2758,
+            "snapshot": "2026-07-18"
+          }
+        },
+        "receptor": {
+          "source": {
+            "database": "RCSB Protein Data Bank",
+            "pdb_id": "3V49",
+            "title": "Structure of ar lbd with activator peptide and sarm inhibitor 1",
+            "structure_url": "https://www.rcsb.org/structure/3V49",
+            "coordinate_url": "https://files.rcsb.org/download/3V49.pdb",
+            "retrieved_at": "2026-07-18T17:26:37.179253+00:00"
+          },
+          "preparation": {
+            "engine": "Meeko",
+            "engine_version": "0.7.1",
+            "rigid_receptor": true,
+            "chains": [
+              "A"
+            ],
+            "kept_heterogens": [],
+            "prepared_atoms": 2054,
+            "explicit_residue_templates": {},
+            "removed_reference_ligand": {
+              "residue_name": "PK0",
+              "chain": "A",
+              "residue_number": 950,
+              "padding": 5
+            },
+            "repair": {
+              "engine": "PDBFixer",
+              "engine_version": "1.12.0",
+              "ph": 7.4,
+              "missing_residue_segments_not_built": [],
+              "replaced_nonstandard_residues": [],
+              "added_missing_heavy_atoms": [],
+              "added_terminal_atoms": [],
+              "preserved_heterogen_atoms": 0,
+              "heterogen_policy": "Heterogens were excluded from PDBFixer and restored unchanged after protein repair.",
+              "relaxation": {
+                "method": "restrained OpenMM minimization",
+                "restrained_observed_heavy_atoms": 1994,
+                "max_iterations": 20,
+                "initial_potential_kj_mol": 349566.781,
+                "final_potential_kj_mol": 349616.206
+              },
+              "policy": "Missing atoms and hydrogens were added; unresolved residue segments were recorded but not modeled."
+            },
+            "hydrogen_and_charge_method": "PDBFixer hydrogens at pH 7.4; Meeko atom typing and charges",
+            "relaxation": "Restrained local OpenMM minimization; parameters and energies are recorded in the repair audit."
+          }
+        },
+        "site": {
+          "center": {
+            "x": 27.017,
+            "y": 2.744,
+            "z": 5.935
+          },
+          "size": {
+            "x": 18.008,
+            "y": 19.993,
+            "z": 17.108
+          },
+          "derived_from": {
+            "residue_name": "PK0",
+            "chain": "A",
+            "residue_number": 950,
+            "heavy_atoms": 28,
+            "padding_angstrom": 5
+          }
+        },
+        "method": {
+          "engine": "AutoDock Vina",
+          "engine_version": "1.2.7",
+          "scoring_function": "vina",
+          "exhaustiveness": 4,
+          "requested_poses": 3,
+          "energy_range_kcal_mol": 4
+        },
+        "poses": [
+          {
+            "rank": 1,
+            "score_kcal_mol": -5.553,
+            "intermolecular_kcal_mol": -5.553,
+            "intramolecular_kcal_mol": 0,
+            "torsional_kcal_mol": 0,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5048
+          },
+          {
+            "rank": 2,
+            "score_kcal_mol": -5.503,
+            "intermolecular_kcal_mol": -5.503,
+            "intramolecular_kcal_mol": 0,
+            "torsional_kcal_mol": 0,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5003
+          },
+          {
+            "rank": 3,
+            "score_kcal_mol": -5.118,
+            "intermolecular_kcal_mol": -5.118,
+            "intramolecular_kcal_mol": 0,
+            "torsional_kcal_mol": 0,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.4653
+          }
+        ],
+        "best_score_kcal_mol": -5.553,
+        "interpretation": {
+          "score_meaning": "Vina scores rank predicted poses under this exact preparation protocol.",
+          "not_an_affinity": "Scores are not experimental binding affinity and must not be converted to Ki, Kd, or IC50.",
+          "comparison_rule": "Compare ligands only when receptor, box, protonation, scoring, and search settings are identical.",
+          "validation": "Use known active/inactive controls, redocking RMSD, orthogonal scoring, and experimental binding assays."
+        },
+        "sources": [
+          {
+            "id": "DOCK1",
+            "title": "AutoDock Vina",
+            "url": "https://autodock-vina.readthedocs.io/"
+          },
+          {
+            "id": "DOCK2",
+            "title": "Meeko receptor and ligand preparation",
+            "url": "https://meeko.readthedocs.io/"
+          },
+          {
+            "id": "DOCK3",
+            "title": "RCSB Protein Data Bank",
+            "url": "https://www.rcsb.org/structure/3V49"
+          }
+        ],
+        "artifacts": [],
+        "provenance": {
+          "operation": "dock",
+          "service_version": "1.1.0",
+          "rdkit_version": "2025.09.5",
+          "computed_at": "2026-07-18T17:27:00.287796+00:00",
+          "computation_ms": 1206.8
+        }
+      },
+      {
+        "ligand": {
+          "label": "perillyl alcohol",
+          "identifiers": {
+            "canonical_smiles": "C=C(C)C1CC=C(CO)CC1",
+            "isomeric_smiles": "C=C(C)C1CC=C(CO)CC1",
+            "inchi": "InChI=1S/C10H16O/c1-8(2)10-5-3-9(7-11)4-6-10/h3,10-11H,1,4-7H2,2H3",
+            "inchi_key": "NDTYTMIUWGWIMO-UHFFFAOYSA-N",
+            "formula": "C10H16O",
+            "cxsmiles": "C=C(C)C1CC=C(CO)CC1"
+          },
+          "heavy_atoms": 11,
+          "molecular_weight": 152.237,
+          "preparation": {
+            "engines": [
+              "RDKit ETKDGv3",
+              "Meeko"
+            ],
+            "seed": 20260717
+          },
+          "resolution": {
+            "cid": 10819,
+            "snapshot": "2026-07-18"
+          }
+        },
+        "receptor": {
+          "source": {
+            "database": "RCSB Protein Data Bank",
+            "pdb_id": "3V49",
+            "title": "Structure of ar lbd with activator peptide and sarm inhibitor 1",
+            "structure_url": "https://www.rcsb.org/structure/3V49",
+            "coordinate_url": "https://files.rcsb.org/download/3V49.pdb",
+            "retrieved_at": "2026-07-18T17:26:37.179253+00:00"
+          },
+          "preparation": {
+            "engine": "Meeko",
+            "engine_version": "0.7.1",
+            "rigid_receptor": true,
+            "chains": [
+              "A"
+            ],
+            "kept_heterogens": [],
+            "prepared_atoms": 2054,
+            "explicit_residue_templates": {},
+            "removed_reference_ligand": {
+              "residue_name": "PK0",
+              "chain": "A",
+              "residue_number": 950,
+              "padding": 5
+            },
+            "repair": {
+              "engine": "PDBFixer",
+              "engine_version": "1.12.0",
+              "ph": 7.4,
+              "missing_residue_segments_not_built": [],
+              "replaced_nonstandard_residues": [],
+              "added_missing_heavy_atoms": [],
+              "added_terminal_atoms": [],
+              "preserved_heterogen_atoms": 0,
+              "heterogen_policy": "Heterogens were excluded from PDBFixer and restored unchanged after protein repair.",
+              "relaxation": {
+                "method": "restrained OpenMM minimization",
+                "restrained_observed_heavy_atoms": 1994,
+                "max_iterations": 20,
+                "initial_potential_kj_mol": 349566.781,
+                "final_potential_kj_mol": 349616.206
+              },
+              "policy": "Missing atoms and hydrogens were added; unresolved residue segments were recorded but not modeled."
+            },
+            "hydrogen_and_charge_method": "PDBFixer hydrogens at pH 7.4; Meeko atom typing and charges",
+            "relaxation": "Restrained local OpenMM minimization; parameters and energies are recorded in the repair audit."
+          }
+        },
+        "site": {
+          "center": {
+            "x": 27.017,
+            "y": 2.744,
+            "z": 5.935
+          },
+          "size": {
+            "x": 18.008,
+            "y": 19.993,
+            "z": 17.108
+          },
+          "derived_from": {
+            "residue_name": "PK0",
+            "chain": "A",
+            "residue_number": 950,
+            "heavy_atoms": 28,
+            "padding_angstrom": 5
+          }
+        },
+        "method": {
+          "engine": "AutoDock Vina",
+          "engine_version": "1.2.7",
+          "scoring_function": "vina",
+          "exhaustiveness": 4,
+          "requested_poses": 3,
+          "energy_range_kcal_mol": 4
+        },
+        "poses": [
+          {
+            "rank": 1,
+            "score_kcal_mol": -6.182,
+            "intermolecular_kcal_mol": -7.086,
+            "intramolecular_kcal_mol": -0.153,
+            "torsional_kcal_mol": 0.904,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.562
+          },
+          {
+            "rank": 2,
+            "score_kcal_mol": -6.077,
+            "intermolecular_kcal_mol": -6.962,
+            "intramolecular_kcal_mol": -0.157,
+            "torsional_kcal_mol": 0.888,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5525
+          },
+          {
+            "rank": 3,
+            "score_kcal_mol": -5.671,
+            "intermolecular_kcal_mol": -6.498,
+            "intramolecular_kcal_mol": -0.156,
+            "torsional_kcal_mol": 0.829,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5155
+          }
+        ],
+        "best_score_kcal_mol": -6.182,
+        "interpretation": {
+          "score_meaning": "Vina scores rank predicted poses under this exact preparation protocol.",
+          "not_an_affinity": "Scores are not experimental binding affinity and must not be converted to Ki, Kd, or IC50.",
+          "comparison_rule": "Compare ligands only when receptor, box, protonation, scoring, and search settings are identical.",
+          "validation": "Use known active/inactive controls, redocking RMSD, orthogonal scoring, and experimental binding assays."
+        },
+        "sources": [
+          {
+            "id": "DOCK1",
+            "title": "AutoDock Vina",
+            "url": "https://autodock-vina.readthedocs.io/"
+          },
+          {
+            "id": "DOCK2",
+            "title": "Meeko receptor and ligand preparation",
+            "url": "https://meeko.readthedocs.io/"
+          },
+          {
+            "id": "DOCK3",
+            "title": "RCSB Protein Data Bank",
+            "url": "https://www.rcsb.org/structure/3V49"
+          }
+        ],
+        "artifacts": [],
+        "provenance": {
+          "operation": "dock",
+          "service_version": "1.1.0",
+          "rdkit_version": "2025.09.5",
+          "computed_at": "2026-07-18T17:27:02.113852+00:00",
+          "computation_ms": 1826.01
+        }
+      },
+      {
+        "ligand": {
+          "label": "fenchol",
+          "identifiers": {
+            "canonical_smiles": "CC12CCC(C1)C(C)(C)C2O",
+            "isomeric_smiles": "CC12CCC(C1)C(C)(C)C2O",
+            "inchi": "InChI=1S/C10H18O/c1-9(2)7-4-5-10(3,6-7)8(9)11/h7-8,11H,4-6H2,1-3H3",
+            "inchi_key": "IAIHUHQCLTYTSF-UHFFFAOYSA-N",
+            "formula": "C10H18O",
+            "cxsmiles": "CC12CCC(C1)C(C)(C)C2O"
+          },
+          "heavy_atoms": 11,
+          "molecular_weight": 154.253,
+          "preparation": {
+            "engines": [
+              "RDKit ETKDGv3",
+              "Meeko"
+            ],
+            "seed": 20260717
+          },
+          "resolution": {
+            "cid": 15406,
+            "snapshot": "2026-07-18"
+          }
+        },
+        "receptor": {
+          "source": {
+            "database": "RCSB Protein Data Bank",
+            "pdb_id": "3V49",
+            "title": "Structure of ar lbd with activator peptide and sarm inhibitor 1",
+            "structure_url": "https://www.rcsb.org/structure/3V49",
+            "coordinate_url": "https://files.rcsb.org/download/3V49.pdb",
+            "retrieved_at": "2026-07-18T17:26:37.179253+00:00"
+          },
+          "preparation": {
+            "engine": "Meeko",
+            "engine_version": "0.7.1",
+            "rigid_receptor": true,
+            "chains": [
+              "A"
+            ],
+            "kept_heterogens": [],
+            "prepared_atoms": 2054,
+            "explicit_residue_templates": {},
+            "removed_reference_ligand": {
+              "residue_name": "PK0",
+              "chain": "A",
+              "residue_number": 950,
+              "padding": 5
+            },
+            "repair": {
+              "engine": "PDBFixer",
+              "engine_version": "1.12.0",
+              "ph": 7.4,
+              "missing_residue_segments_not_built": [],
+              "replaced_nonstandard_residues": [],
+              "added_missing_heavy_atoms": [],
+              "added_terminal_atoms": [],
+              "preserved_heterogen_atoms": 0,
+              "heterogen_policy": "Heterogens were excluded from PDBFixer and restored unchanged after protein repair.",
+              "relaxation": {
+                "method": "restrained OpenMM minimization",
+                "restrained_observed_heavy_atoms": 1994,
+                "max_iterations": 20,
+                "initial_potential_kj_mol": 349566.781,
+                "final_potential_kj_mol": 349616.206
+              },
+              "policy": "Missing atoms and hydrogens were added; unresolved residue segments were recorded but not modeled."
+            },
+            "hydrogen_and_charge_method": "PDBFixer hydrogens at pH 7.4; Meeko atom typing and charges",
+            "relaxation": "Restrained local OpenMM minimization; parameters and energies are recorded in the repair audit."
+          }
+        },
+        "site": {
+          "center": {
+            "x": 27.017,
+            "y": 2.744,
+            "z": 5.935
+          },
+          "size": {
+            "x": 18.008,
+            "y": 19.993,
+            "z": 17.108
+          },
+          "derived_from": {
+            "residue_name": "PK0",
+            "chain": "A",
+            "residue_number": 950,
+            "heavy_atoms": 28,
+            "padding_angstrom": 5
+          }
+        },
+        "method": {
+          "engine": "AutoDock Vina",
+          "engine_version": "1.2.7",
+          "scoring_function": "vina",
+          "exhaustiveness": 4,
+          "requested_poses": 3,
+          "energy_range_kcal_mol": 4
+        },
+        "poses": [
+          {
+            "rank": 1,
+            "score_kcal_mol": -5.413,
+            "intermolecular_kcal_mol": -5.571,
+            "intramolecular_kcal_mol": 0,
+            "torsional_kcal_mol": 0.158,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.4921
+          },
+          {
+            "rank": 2,
+            "score_kcal_mol": -5.369,
+            "intermolecular_kcal_mol": -5.526,
+            "intramolecular_kcal_mol": 0,
+            "torsional_kcal_mol": 0.157,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.4881
+          },
+          {
+            "rank": 3,
+            "score_kcal_mol": -5.361,
+            "intermolecular_kcal_mol": -5.517,
+            "intramolecular_kcal_mol": 0,
+            "torsional_kcal_mol": 0.157,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.4874
+          }
+        ],
+        "best_score_kcal_mol": -5.413,
+        "interpretation": {
+          "score_meaning": "Vina scores rank predicted poses under this exact preparation protocol.",
+          "not_an_affinity": "Scores are not experimental binding affinity and must not be converted to Ki, Kd, or IC50.",
+          "comparison_rule": "Compare ligands only when receptor, box, protonation, scoring, and search settings are identical.",
+          "validation": "Use known active/inactive controls, redocking RMSD, orthogonal scoring, and experimental binding assays."
+        },
+        "sources": [
+          {
+            "id": "DOCK1",
+            "title": "AutoDock Vina",
+            "url": "https://autodock-vina.readthedocs.io/"
+          },
+          {
+            "id": "DOCK2",
+            "title": "Meeko receptor and ligand preparation",
+            "url": "https://meeko.readthedocs.io/"
+          },
+          {
+            "id": "DOCK3",
+            "title": "RCSB Protein Data Bank",
+            "url": "https://www.rcsb.org/structure/3V49"
+          }
+        ],
+        "artifacts": [],
+        "provenance": {
+          "operation": "dock",
+          "service_version": "1.1.0",
+          "rdkit_version": "2025.09.5",
+          "computed_at": "2026-07-18T17:27:03.580788+00:00",
+          "computation_ms": 1460.67
+        }
+      },
+      {
+        "ligand": {
+          "label": "gamma-terpinene",
+          "identifiers": {
+            "canonical_smiles": "CC1=CCC(C(C)C)=CC1",
+            "isomeric_smiles": "CC1=CCC(C(C)C)=CC1",
+            "inchi": "InChI=1S/C10H16/c1-8(2)10-6-4-9(3)5-7-10/h4,7-8H,5-6H2,1-3H3",
+            "inchi_key": "YKFLAYDHMOASIY-UHFFFAOYSA-N",
+            "formula": "C10H16",
+            "cxsmiles": "CC1=CCC(C(C)C)=CC1"
+          },
+          "heavy_atoms": 10,
+          "molecular_weight": 136.238,
+          "preparation": {
+            "engines": [
+              "RDKit ETKDGv3",
+              "Meeko"
+            ],
+            "seed": 20260717
+          },
+          "resolution": {
+            "cid": 7461,
+            "snapshot": "2026-07-18"
+          }
+        },
+        "receptor": {
+          "source": {
+            "database": "RCSB Protein Data Bank",
+            "pdb_id": "3V49",
+            "title": "Structure of ar lbd with activator peptide and sarm inhibitor 1",
+            "structure_url": "https://www.rcsb.org/structure/3V49",
+            "coordinate_url": "https://files.rcsb.org/download/3V49.pdb",
+            "retrieved_at": "2026-07-18T17:26:37.179253+00:00"
+          },
+          "preparation": {
+            "engine": "Meeko",
+            "engine_version": "0.7.1",
+            "rigid_receptor": true,
+            "chains": [
+              "A"
+            ],
+            "kept_heterogens": [],
+            "prepared_atoms": 2054,
+            "explicit_residue_templates": {},
+            "removed_reference_ligand": {
+              "residue_name": "PK0",
+              "chain": "A",
+              "residue_number": 950,
+              "padding": 5
+            },
+            "repair": {
+              "engine": "PDBFixer",
+              "engine_version": "1.12.0",
+              "ph": 7.4,
+              "missing_residue_segments_not_built": [],
+              "replaced_nonstandard_residues": [],
+              "added_missing_heavy_atoms": [],
+              "added_terminal_atoms": [],
+              "preserved_heterogen_atoms": 0,
+              "heterogen_policy": "Heterogens were excluded from PDBFixer and restored unchanged after protein repair.",
+              "relaxation": {
+                "method": "restrained OpenMM minimization",
+                "restrained_observed_heavy_atoms": 1994,
+                "max_iterations": 20,
+                "initial_potential_kj_mol": 349566.781,
+                "final_potential_kj_mol": 349616.206
+              },
+              "policy": "Missing atoms and hydrogens were added; unresolved residue segments were recorded but not modeled."
+            },
+            "hydrogen_and_charge_method": "PDBFixer hydrogens at pH 7.4; Meeko atom typing and charges",
+            "relaxation": "Restrained local OpenMM minimization; parameters and energies are recorded in the repair audit."
+          }
+        },
+        "site": {
+          "center": {
+            "x": 27.017,
+            "y": 2.744,
+            "z": 5.935
+          },
+          "size": {
+            "x": 18.008,
+            "y": 19.993,
+            "z": 17.108
+          },
+          "derived_from": {
+            "residue_name": "PK0",
+            "chain": "A",
+            "residue_number": 950,
+            "heavy_atoms": 28,
+            "padding_angstrom": 5
+          }
+        },
+        "method": {
+          "engine": "AutoDock Vina",
+          "engine_version": "1.2.7",
+          "scoring_function": "vina",
+          "exhaustiveness": 4,
+          "requested_poses": 3,
+          "energy_range_kcal_mol": 4
+        },
+        "poses": [
+          {
+            "rank": 1,
+            "score_kcal_mol": -5.934,
+            "intermolecular_kcal_mol": -6.281,
+            "intramolecular_kcal_mol": -0.138,
+            "torsional_kcal_mol": 0.347,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5934
+          },
+          {
+            "rank": 2,
+            "score_kcal_mol": -5.917,
+            "intermolecular_kcal_mol": -6.264,
+            "intramolecular_kcal_mol": -0.137,
+            "torsional_kcal_mol": 0.346,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5917
+          },
+          {
+            "rank": 3,
+            "score_kcal_mol": -5.915,
+            "intermolecular_kcal_mol": -6.261,
+            "intramolecular_kcal_mol": -0.138,
+            "torsional_kcal_mol": 0.346,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5915
+          }
+        ],
+        "best_score_kcal_mol": -5.934,
+        "interpretation": {
+          "score_meaning": "Vina scores rank predicted poses under this exact preparation protocol.",
+          "not_an_affinity": "Scores are not experimental binding affinity and must not be converted to Ki, Kd, or IC50.",
+          "comparison_rule": "Compare ligands only when receptor, box, protonation, scoring, and search settings are identical.",
+          "validation": "Use known active/inactive controls, redocking RMSD, orthogonal scoring, and experimental binding assays."
+        },
+        "sources": [
+          {
+            "id": "DOCK1",
+            "title": "AutoDock Vina",
+            "url": "https://autodock-vina.readthedocs.io/"
+          },
+          {
+            "id": "DOCK2",
+            "title": "Meeko receptor and ligand preparation",
+            "url": "https://meeko.readthedocs.io/"
+          },
+          {
+            "id": "DOCK3",
+            "title": "RCSB Protein Data Bank",
+            "url": "https://www.rcsb.org/structure/3V49"
+          }
+        ],
+        "artifacts": [],
+        "provenance": {
+          "operation": "dock",
+          "service_version": "1.1.0",
+          "rdkit_version": "2025.09.5",
+          "computed_at": "2026-07-18T17:27:04.855187+00:00",
+          "computation_ms": 1274.35
+        }
+      },
+      {
+        "ligand": {
+          "label": "beta-myrcene",
+          "identifiers": {
+            "canonical_smiles": "C=CC(=C)CCC=C(C)C",
+            "isomeric_smiles": "C=CC(=C)CCC=C(C)C",
+            "inchi": "InChI=1S/C10H16/c1-5-10(4)8-6-7-9(2)3/h5,7H,1,4,6,8H2,2-3H3",
+            "inchi_key": "UAHWPYUMFXYFJY-UHFFFAOYSA-N",
+            "formula": "C10H16",
+            "cxsmiles": "C=CC(=C)CCC=C(C)C"
+          },
+          "heavy_atoms": 10,
+          "molecular_weight": 136.238,
+          "preparation": {
+            "engines": [
+              "RDKit ETKDGv3",
+              "Meeko"
+            ],
+            "seed": 20260717
+          },
+          "resolution": {
+            "cid": 31253,
+            "snapshot": "2026-07-18"
+          }
+        },
+        "receptor": {
+          "source": {
+            "database": "RCSB Protein Data Bank",
+            "pdb_id": "3V49",
+            "title": "Structure of ar lbd with activator peptide and sarm inhibitor 1",
+            "structure_url": "https://www.rcsb.org/structure/3V49",
+            "coordinate_url": "https://files.rcsb.org/download/3V49.pdb",
+            "retrieved_at": "2026-07-18T17:26:37.179253+00:00"
+          },
+          "preparation": {
+            "engine": "Meeko",
+            "engine_version": "0.7.1",
+            "rigid_receptor": true,
+            "chains": [
+              "A"
+            ],
+            "kept_heterogens": [],
+            "prepared_atoms": 2054,
+            "explicit_residue_templates": {},
+            "removed_reference_ligand": {
+              "residue_name": "PK0",
+              "chain": "A",
+              "residue_number": 950,
+              "padding": 5
+            },
+            "repair": {
+              "engine": "PDBFixer",
+              "engine_version": "1.12.0",
+              "ph": 7.4,
+              "missing_residue_segments_not_built": [],
+              "replaced_nonstandard_residues": [],
+              "added_missing_heavy_atoms": [],
+              "added_terminal_atoms": [],
+              "preserved_heterogen_atoms": 0,
+              "heterogen_policy": "Heterogens were excluded from PDBFixer and restored unchanged after protein repair.",
+              "relaxation": {
+                "method": "restrained OpenMM minimization",
+                "restrained_observed_heavy_atoms": 1994,
+                "max_iterations": 20,
+                "initial_potential_kj_mol": 349566.781,
+                "final_potential_kj_mol": 349616.206
+              },
+              "policy": "Missing atoms and hydrogens were added; unresolved residue segments were recorded but not modeled."
+            },
+            "hydrogen_and_charge_method": "PDBFixer hydrogens at pH 7.4; Meeko atom typing and charges",
+            "relaxation": "Restrained local OpenMM minimization; parameters and energies are recorded in the repair audit."
+          }
+        },
+        "site": {
+          "center": {
+            "x": 27.017,
+            "y": 2.744,
+            "z": 5.935
+          },
+          "size": {
+            "x": 18.008,
+            "y": 19.993,
+            "z": 17.108
+          },
+          "derived_from": {
+            "residue_name": "PK0",
+            "chain": "A",
+            "residue_number": 950,
+            "heavy_atoms": 28,
+            "padding_angstrom": 5
+          }
+        },
+        "method": {
+          "engine": "AutoDock Vina",
+          "engine_version": "1.2.7",
+          "scoring_function": "vina",
+          "exhaustiveness": 4,
+          "requested_poses": 3,
+          "energy_range_kcal_mol": 4
+        },
+        "poses": [
+          {
+            "rank": 1,
+            "score_kcal_mol": -5.294,
+            "intermolecular_kcal_mol": -6.532,
+            "intramolecular_kcal_mol": -0.543,
+            "torsional_kcal_mol": 1.238,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5294
+          },
+          {
+            "rank": 2,
+            "score_kcal_mol": -5.132,
+            "intermolecular_kcal_mol": -6.455,
+            "intramolecular_kcal_mol": -0.42,
+            "torsional_kcal_mol": 1.2,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5132
+          },
+          {
+            "rank": 3,
+            "score_kcal_mol": -5.068,
+            "intermolecular_kcal_mol": -6.396,
+            "intramolecular_kcal_mol": -0.401,
+            "torsional_kcal_mol": 1.185,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5068
+          }
+        ],
+        "best_score_kcal_mol": -5.294,
+        "interpretation": {
+          "score_meaning": "Vina scores rank predicted poses under this exact preparation protocol.",
+          "not_an_affinity": "Scores are not experimental binding affinity and must not be converted to Ki, Kd, or IC50.",
+          "comparison_rule": "Compare ligands only when receptor, box, protonation, scoring, and search settings are identical.",
+          "validation": "Use known active/inactive controls, redocking RMSD, orthogonal scoring, and experimental binding assays."
+        },
+        "sources": [
+          {
+            "id": "DOCK1",
+            "title": "AutoDock Vina",
+            "url": "https://autodock-vina.readthedocs.io/"
+          },
+          {
+            "id": "DOCK2",
+            "title": "Meeko receptor and ligand preparation",
+            "url": "https://meeko.readthedocs.io/"
+          },
+          {
+            "id": "DOCK3",
+            "title": "RCSB Protein Data Bank",
+            "url": "https://www.rcsb.org/structure/3V49"
+          }
+        ],
+        "artifacts": [],
+        "provenance": {
+          "operation": "dock",
+          "service_version": "1.1.0",
+          "rdkit_version": "2025.09.5",
+          "computed_at": "2026-07-18T17:27:06.785679+00:00",
+          "computation_ms": 1924.26
+        }
+      },
+      {
+        "ligand": {
+          "label": "beta-ocimene",
+          "identifiers": {
+            "canonical_smiles": "C=CC(C)=CCC=C(C)C",
+            "isomeric_smiles": "C=CC(C)=CCC=C(C)C",
+            "inchi": "InChI=1S/C10H16/c1-5-10(4)8-6-7-9(2)3/h5,7-8H,1,6H2,2-4H3",
+            "inchi_key": "IHPKGUQCSIINRJ-UHFFFAOYSA-N",
+            "formula": "C10H16",
+            "cxsmiles": "C=CC(C)=CCC=C(C)C"
+          },
+          "heavy_atoms": 10,
+          "molecular_weight": 136.238,
+          "preparation": {
+            "engines": [
+              "RDKit ETKDGv3",
+              "Meeko"
+            ],
+            "seed": 20260717
+          },
+          "resolution": {
+            "cid": 18756,
+            "snapshot": "2026-07-18"
+          }
+        },
+        "receptor": {
+          "source": {
+            "database": "RCSB Protein Data Bank",
+            "pdb_id": "3V49",
+            "title": "Structure of ar lbd with activator peptide and sarm inhibitor 1",
+            "structure_url": "https://www.rcsb.org/structure/3V49",
+            "coordinate_url": "https://files.rcsb.org/download/3V49.pdb",
+            "retrieved_at": "2026-07-18T17:26:37.179253+00:00"
+          },
+          "preparation": {
+            "engine": "Meeko",
+            "engine_version": "0.7.1",
+            "rigid_receptor": true,
+            "chains": [
+              "A"
+            ],
+            "kept_heterogens": [],
+            "prepared_atoms": 2054,
+            "explicit_residue_templates": {},
+            "removed_reference_ligand": {
+              "residue_name": "PK0",
+              "chain": "A",
+              "residue_number": 950,
+              "padding": 5
+            },
+            "repair": {
+              "engine": "PDBFixer",
+              "engine_version": "1.12.0",
+              "ph": 7.4,
+              "missing_residue_segments_not_built": [],
+              "replaced_nonstandard_residues": [],
+              "added_missing_heavy_atoms": [],
+              "added_terminal_atoms": [],
+              "preserved_heterogen_atoms": 0,
+              "heterogen_policy": "Heterogens were excluded from PDBFixer and restored unchanged after protein repair.",
+              "relaxation": {
+                "method": "restrained OpenMM minimization",
+                "restrained_observed_heavy_atoms": 1994,
+                "max_iterations": 20,
+                "initial_potential_kj_mol": 349566.781,
+                "final_potential_kj_mol": 349616.206
+              },
+              "policy": "Missing atoms and hydrogens were added; unresolved residue segments were recorded but not modeled."
+            },
+            "hydrogen_and_charge_method": "PDBFixer hydrogens at pH 7.4; Meeko atom typing and charges",
+            "relaxation": "Restrained local OpenMM minimization; parameters and energies are recorded in the repair audit."
+          }
+        },
+        "site": {
+          "center": {
+            "x": 27.017,
+            "y": 2.744,
+            "z": 5.935
+          },
+          "size": {
+            "x": 18.008,
+            "y": 19.993,
+            "z": 17.108
+          },
+          "derived_from": {
+            "residue_name": "PK0",
+            "chain": "A",
+            "residue_number": 950,
+            "heavy_atoms": 28,
+            "padding_angstrom": 5
+          }
+        },
+        "method": {
+          "engine": "AutoDock Vina",
+          "engine_version": "1.2.7",
+          "scoring_function": "vina",
+          "exhaustiveness": 4,
+          "requested_poses": 3,
+          "energy_range_kcal_mol": 4
+        },
+        "poses": [
+          {
+            "rank": 1,
+            "score_kcal_mol": -5.491,
+            "intermolecular_kcal_mol": -6.454,
+            "intramolecular_kcal_mol": -0.246,
+            "torsional_kcal_mol": 0.963,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5491
+          },
+          {
+            "rank": 2,
+            "score_kcal_mol": -5.44,
+            "intermolecular_kcal_mol": -6.429,
+            "intramolecular_kcal_mol": -0.211,
+            "torsional_kcal_mol": 0.954,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.544
+          },
+          {
+            "rank": 3,
+            "score_kcal_mol": -5.397,
+            "intermolecular_kcal_mol": -6.292,
+            "intramolecular_kcal_mol": -0.298,
+            "torsional_kcal_mol": 0.947,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5397
+          }
+        ],
+        "best_score_kcal_mol": -5.491,
+        "interpretation": {
+          "score_meaning": "Vina scores rank predicted poses under this exact preparation protocol.",
+          "not_an_affinity": "Scores are not experimental binding affinity and must not be converted to Ki, Kd, or IC50.",
+          "comparison_rule": "Compare ligands only when receptor, box, protonation, scoring, and search settings are identical.",
+          "validation": "Use known active/inactive controls, redocking RMSD, orthogonal scoring, and experimental binding assays."
+        },
+        "sources": [
+          {
+            "id": "DOCK1",
+            "title": "AutoDock Vina",
+            "url": "https://autodock-vina.readthedocs.io/"
+          },
+          {
+            "id": "DOCK2",
+            "title": "Meeko receptor and ligand preparation",
+            "url": "https://meeko.readthedocs.io/"
+          },
+          {
+            "id": "DOCK3",
+            "title": "RCSB Protein Data Bank",
+            "url": "https://www.rcsb.org/structure/3V49"
+          }
+        ],
+        "artifacts": [],
+        "provenance": {
+          "operation": "dock",
+          "service_version": "1.1.0",
+          "rdkit_version": "2025.09.5",
+          "computed_at": "2026-07-18T17:27:08.496951+00:00",
+          "computation_ms": 1705.12
+        }
+      },
+      {
+        "ligand": {
+          "label": "S-carvone",
+          "identifiers": {
+            "canonical_smiles": "C=C(C)[C@H]1CC=C(C)C(=O)C1",
+            "isomeric_smiles": "C=C(C)[C@H]1CC=C(C)C(=O)C1",
+            "inchi": "InChI=1S/C10H14O/c1-7(2)9-5-4-8(3)10(11)6-9/h4,9H,1,5-6H2,2-3H3/t9-/m0/s1",
+            "inchi_key": "ULDHMXUKGWMISQ-VIFPVBQESA-N",
+            "formula": "C10H14O",
+            "cxsmiles": "C=C(C)[C@H]1CC=C(C)C(=O)C1"
+          },
+          "heavy_atoms": 11,
+          "molecular_weight": 150.221,
+          "preparation": {
+            "engines": [
+              "RDKit ETKDGv3",
+              "Meeko"
+            ],
+            "seed": 20260717
+          },
+          "resolution": {
+            "cid": 16724,
+            "snapshot": "2026-07-18"
+          }
+        },
+        "receptor": {
+          "source": {
+            "database": "RCSB Protein Data Bank",
+            "pdb_id": "3V49",
+            "title": "Structure of ar lbd with activator peptide and sarm inhibitor 1",
+            "structure_url": "https://www.rcsb.org/structure/3V49",
+            "coordinate_url": "https://files.rcsb.org/download/3V49.pdb",
+            "retrieved_at": "2026-07-18T17:26:37.179253+00:00"
+          },
+          "preparation": {
+            "engine": "Meeko",
+            "engine_version": "0.7.1",
+            "rigid_receptor": true,
+            "chains": [
+              "A"
+            ],
+            "kept_heterogens": [],
+            "prepared_atoms": 2054,
+            "explicit_residue_templates": {},
+            "removed_reference_ligand": {
+              "residue_name": "PK0",
+              "chain": "A",
+              "residue_number": 950,
+              "padding": 5
+            },
+            "repair": {
+              "engine": "PDBFixer",
+              "engine_version": "1.12.0",
+              "ph": 7.4,
+              "missing_residue_segments_not_built": [],
+              "replaced_nonstandard_residues": [],
+              "added_missing_heavy_atoms": [],
+              "added_terminal_atoms": [],
+              "preserved_heterogen_atoms": 0,
+              "heterogen_policy": "Heterogens were excluded from PDBFixer and restored unchanged after protein repair.",
+              "relaxation": {
+                "method": "restrained OpenMM minimization",
+                "restrained_observed_heavy_atoms": 1994,
+                "max_iterations": 20,
+                "initial_potential_kj_mol": 349566.781,
+                "final_potential_kj_mol": 349616.206
+              },
+              "policy": "Missing atoms and hydrogens were added; unresolved residue segments were recorded but not modeled."
+            },
+            "hydrogen_and_charge_method": "PDBFixer hydrogens at pH 7.4; Meeko atom typing and charges",
+            "relaxation": "Restrained local OpenMM minimization; parameters and energies are recorded in the repair audit."
+          }
+        },
+        "site": {
+          "center": {
+            "x": 27.017,
+            "y": 2.744,
+            "z": 5.935
+          },
+          "size": {
+            "x": 18.008,
+            "y": 19.993,
+            "z": 17.108
+          },
+          "derived_from": {
+            "residue_name": "PK0",
+            "chain": "A",
+            "residue_number": 950,
+            "heavy_atoms": 28,
+            "padding_angstrom": 5
+          }
+        },
+        "method": {
+          "engine": "AutoDock Vina",
+          "engine_version": "1.2.7",
+          "scoring_function": "vina",
+          "exhaustiveness": 4,
+          "requested_poses": 3,
+          "energy_range_kcal_mol": 4
+        },
+        "poses": [
+          {
+            "rank": 1,
+            "score_kcal_mol": -6.135,
+            "intermolecular_kcal_mol": -6.494,
+            "intramolecular_kcal_mol": -0.089,
+            "torsional_kcal_mol": 0.359,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5577
+          },
+          {
+            "rank": 2,
+            "score_kcal_mol": -6.038,
+            "intermolecular_kcal_mol": -6.385,
+            "intramolecular_kcal_mol": -0.095,
+            "torsional_kcal_mol": 0.353,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5489
+          },
+          {
+            "rank": 3,
+            "score_kcal_mol": -5.817,
+            "intermolecular_kcal_mol": -6.151,
+            "intramolecular_kcal_mol": -0.096,
+            "torsional_kcal_mol": 0.34,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5288
+          }
+        ],
+        "best_score_kcal_mol": -6.135,
+        "interpretation": {
+          "score_meaning": "Vina scores rank predicted poses under this exact preparation protocol.",
+          "not_an_affinity": "Scores are not experimental binding affinity and must not be converted to Ki, Kd, or IC50.",
+          "comparison_rule": "Compare ligands only when receptor, box, protonation, scoring, and search settings are identical.",
+          "validation": "Use known active/inactive controls, redocking RMSD, orthogonal scoring, and experimental binding assays."
+        },
+        "sources": [
+          {
+            "id": "DOCK1",
+            "title": "AutoDock Vina",
+            "url": "https://autodock-vina.readthedocs.io/"
+          },
+          {
+            "id": "DOCK2",
+            "title": "Meeko receptor and ligand preparation",
+            "url": "https://meeko.readthedocs.io/"
+          },
+          {
+            "id": "DOCK3",
+            "title": "RCSB Protein Data Bank",
+            "url": "https://www.rcsb.org/structure/3V49"
+          }
+        ],
+        "artifacts": [],
+        "provenance": {
+          "operation": "dock",
+          "service_version": "1.1.0",
+          "rdkit_version": "2025.09.5",
+          "computed_at": "2026-07-18T17:27:09.962735+00:00",
+          "computation_ms": 1459.54
+        }
+      },
+      {
+        "ligand": {
+          "label": "R-carvone",
+          "identifiers": {
+            "canonical_smiles": "C=C(C)[C@@H]1CC=C(C)C(=O)C1",
+            "isomeric_smiles": "C=C(C)[C@@H]1CC=C(C)C(=O)C1",
+            "inchi": "InChI=1S/C10H14O/c1-7(2)9-5-4-8(3)10(11)6-9/h4,9H,1,5-6H2,2-3H3/t9-/m1/s1",
+            "inchi_key": "ULDHMXUKGWMISQ-SECBINFHSA-N",
+            "formula": "C10H14O",
+            "cxsmiles": "C=C(C)[C@@H]1CC=C(C)C(=O)C1"
+          },
+          "heavy_atoms": 11,
+          "molecular_weight": 150.221,
+          "preparation": {
+            "engines": [
+              "RDKit ETKDGv3",
+              "Meeko"
+            ],
+            "seed": 20260717
+          },
+          "resolution": {
+            "cid": 439570,
+            "snapshot": "2026-07-18"
+          }
+        },
+        "receptor": {
+          "source": {
+            "database": "RCSB Protein Data Bank",
+            "pdb_id": "3V49",
+            "title": "Structure of ar lbd with activator peptide and sarm inhibitor 1",
+            "structure_url": "https://www.rcsb.org/structure/3V49",
+            "coordinate_url": "https://files.rcsb.org/download/3V49.pdb",
+            "retrieved_at": "2026-07-18T17:26:37.179253+00:00"
+          },
+          "preparation": {
+            "engine": "Meeko",
+            "engine_version": "0.7.1",
+            "rigid_receptor": true,
+            "chains": [
+              "A"
+            ],
+            "kept_heterogens": [],
+            "prepared_atoms": 2054,
+            "explicit_residue_templates": {},
+            "removed_reference_ligand": {
+              "residue_name": "PK0",
+              "chain": "A",
+              "residue_number": 950,
+              "padding": 5
+            },
+            "repair": {
+              "engine": "PDBFixer",
+              "engine_version": "1.12.0",
+              "ph": 7.4,
+              "missing_residue_segments_not_built": [],
+              "replaced_nonstandard_residues": [],
+              "added_missing_heavy_atoms": [],
+              "added_terminal_atoms": [],
+              "preserved_heterogen_atoms": 0,
+              "heterogen_policy": "Heterogens were excluded from PDBFixer and restored unchanged after protein repair.",
+              "relaxation": {
+                "method": "restrained OpenMM minimization",
+                "restrained_observed_heavy_atoms": 1994,
+                "max_iterations": 20,
+                "initial_potential_kj_mol": 349566.781,
+                "final_potential_kj_mol": 349616.206
+              },
+              "policy": "Missing atoms and hydrogens were added; unresolved residue segments were recorded but not modeled."
+            },
+            "hydrogen_and_charge_method": "PDBFixer hydrogens at pH 7.4; Meeko atom typing and charges",
+            "relaxation": "Restrained local OpenMM minimization; parameters and energies are recorded in the repair audit."
+          }
+        },
+        "site": {
+          "center": {
+            "x": 27.017,
+            "y": 2.744,
+            "z": 5.935
+          },
+          "size": {
+            "x": 18.008,
+            "y": 19.993,
+            "z": 17.108
+          },
+          "derived_from": {
+            "residue_name": "PK0",
+            "chain": "A",
+            "residue_number": 950,
+            "heavy_atoms": 28,
+            "padding_angstrom": 5
+          }
+        },
+        "method": {
+          "engine": "AutoDock Vina",
+          "engine_version": "1.2.7",
+          "scoring_function": "vina",
+          "exhaustiveness": 4,
+          "requested_poses": 3,
+          "energy_range_kcal_mol": 4
+        },
+        "poses": [
+          {
+            "rank": 1,
+            "score_kcal_mol": -6.287,
+            "intermolecular_kcal_mol": -6.655,
+            "intramolecular_kcal_mol": -0.099,
+            "torsional_kcal_mol": 0.368,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5715
+          },
+          {
+            "rank": 2,
+            "score_kcal_mol": -6.114,
+            "intermolecular_kcal_mol": -6.471,
+            "intramolecular_kcal_mol": -0.099,
+            "torsional_kcal_mol": 0.357,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5558
+          },
+          {
+            "rank": 3,
+            "score_kcal_mol": -6.04,
+            "intermolecular_kcal_mol": -6.397,
+            "intramolecular_kcal_mol": -0.095,
+            "torsional_kcal_mol": 0.353,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5491
+          }
+        ],
+        "best_score_kcal_mol": -6.287,
+        "interpretation": {
+          "score_meaning": "Vina scores rank predicted poses under this exact preparation protocol.",
+          "not_an_affinity": "Scores are not experimental binding affinity and must not be converted to Ki, Kd, or IC50.",
+          "comparison_rule": "Compare ligands only when receptor, box, protonation, scoring, and search settings are identical.",
+          "validation": "Use known active/inactive controls, redocking RMSD, orthogonal scoring, and experimental binding assays."
+        },
+        "sources": [
+          {
+            "id": "DOCK1",
+            "title": "AutoDock Vina",
+            "url": "https://autodock-vina.readthedocs.io/"
+          },
+          {
+            "id": "DOCK2",
+            "title": "Meeko receptor and ligand preparation",
+            "url": "https://meeko.readthedocs.io/"
+          },
+          {
+            "id": "DOCK3",
+            "title": "RCSB Protein Data Bank",
+            "url": "https://www.rcsb.org/structure/3V49"
+          }
+        ],
+        "artifacts": [],
+        "provenance": {
+          "operation": "dock",
+          "service_version": "1.1.0",
+          "rdkit_version": "2025.09.5",
+          "computed_at": "2026-07-18T17:27:11.363900+00:00",
+          "computation_ms": 1401.12
+        }
+      },
+      {
+        "ligand": {
+          "label": "p-cymene",
+          "identifiers": {
+            "canonical_smiles": "Cc1ccc(C(C)C)cc1",
+            "isomeric_smiles": "Cc1ccc(C(C)C)cc1",
+            "inchi": "InChI=1S/C10H14/c1-8(2)10-6-4-9(3)5-7-10/h4-8H,1-3H3",
+            "inchi_key": "HFPZCAJZSCWRBC-UHFFFAOYSA-N",
+            "formula": "C10H14",
+            "cxsmiles": "Cc1ccc(C(C)C)cc1"
+          },
+          "heavy_atoms": 10,
+          "molecular_weight": 134.222,
+          "preparation": {
+            "engines": [
+              "RDKit ETKDGv3",
+              "Meeko"
+            ],
+            "seed": 20260717
+          },
+          "resolution": {
+            "cid": 7463,
+            "snapshot": "2026-07-18"
+          }
+        },
+        "receptor": {
+          "source": {
+            "database": "RCSB Protein Data Bank",
+            "pdb_id": "3V49",
+            "title": "Structure of ar lbd with activator peptide and sarm inhibitor 1",
+            "structure_url": "https://www.rcsb.org/structure/3V49",
+            "coordinate_url": "https://files.rcsb.org/download/3V49.pdb",
+            "retrieved_at": "2026-07-18T17:26:37.179253+00:00"
+          },
+          "preparation": {
+            "engine": "Meeko",
+            "engine_version": "0.7.1",
+            "rigid_receptor": true,
+            "chains": [
+              "A"
+            ],
+            "kept_heterogens": [],
+            "prepared_atoms": 2054,
+            "explicit_residue_templates": {},
+            "removed_reference_ligand": {
+              "residue_name": "PK0",
+              "chain": "A",
+              "residue_number": 950,
+              "padding": 5
+            },
+            "repair": {
+              "engine": "PDBFixer",
+              "engine_version": "1.12.0",
+              "ph": 7.4,
+              "missing_residue_segments_not_built": [],
+              "replaced_nonstandard_residues": [],
+              "added_missing_heavy_atoms": [],
+              "added_terminal_atoms": [],
+              "preserved_heterogen_atoms": 0,
+              "heterogen_policy": "Heterogens were excluded from PDBFixer and restored unchanged after protein repair.",
+              "relaxation": {
+                "method": "restrained OpenMM minimization",
+                "restrained_observed_heavy_atoms": 1994,
+                "max_iterations": 20,
+                "initial_potential_kj_mol": 349566.781,
+                "final_potential_kj_mol": 349616.206
+              },
+              "policy": "Missing atoms and hydrogens were added; unresolved residue segments were recorded but not modeled."
+            },
+            "hydrogen_and_charge_method": "PDBFixer hydrogens at pH 7.4; Meeko atom typing and charges",
+            "relaxation": "Restrained local OpenMM minimization; parameters and energies are recorded in the repair audit."
+          }
+        },
+        "site": {
+          "center": {
+            "x": 27.017,
+            "y": 2.744,
+            "z": 5.935
+          },
+          "size": {
+            "x": 18.008,
+            "y": 19.993,
+            "z": 17.108
+          },
+          "derived_from": {
+            "residue_name": "PK0",
+            "chain": "A",
+            "residue_number": 950,
+            "heavy_atoms": 28,
+            "padding_angstrom": 5
+          }
+        },
+        "method": {
+          "engine": "AutoDock Vina",
+          "engine_version": "1.2.7",
+          "scoring_function": "vina",
+          "exhaustiveness": 4,
+          "requested_poses": 3,
+          "energy_range_kcal_mol": 4
+        },
+        "poses": [
+          {
+            "rank": 1,
+            "score_kcal_mol": -5.938,
+            "intermolecular_kcal_mol": -6.285,
+            "intramolecular_kcal_mol": -0.164,
+            "torsional_kcal_mol": 0.347,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5938
+          },
+          {
+            "rank": 2,
+            "score_kcal_mol": -5.929,
+            "intermolecular_kcal_mol": -6.275,
+            "intramolecular_kcal_mol": -0.164,
+            "torsional_kcal_mol": 0.347,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5929
+          },
+          {
+            "rank": 3,
+            "score_kcal_mol": -5.929,
+            "intermolecular_kcal_mol": -6.274,
+            "intramolecular_kcal_mol": -0.165,
+            "torsional_kcal_mol": 0.347,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5929
+          }
+        ],
+        "best_score_kcal_mol": -5.938,
+        "interpretation": {
+          "score_meaning": "Vina scores rank predicted poses under this exact preparation protocol.",
+          "not_an_affinity": "Scores are not experimental binding affinity and must not be converted to Ki, Kd, or IC50.",
+          "comparison_rule": "Compare ligands only when receptor, box, protonation, scoring, and search settings are identical.",
+          "validation": "Use known active/inactive controls, redocking RMSD, orthogonal scoring, and experimental binding assays."
+        },
+        "sources": [
+          {
+            "id": "DOCK1",
+            "title": "AutoDock Vina",
+            "url": "https://autodock-vina.readthedocs.io/"
+          },
+          {
+            "id": "DOCK2",
+            "title": "Meeko receptor and ligand preparation",
+            "url": "https://meeko.readthedocs.io/"
+          },
+          {
+            "id": "DOCK3",
+            "title": "RCSB Protein Data Bank",
+            "url": "https://www.rcsb.org/structure/3V49"
+          }
+        ],
+        "artifacts": [],
+        "provenance": {
+          "operation": "dock",
+          "service_version": "1.1.0",
+          "rdkit_version": "2025.09.5",
+          "computed_at": "2026-07-18T17:27:12.659017+00:00",
+          "computation_ms": 1295.07
+        }
+      },
+      {
+        "ligand": {
+          "label": "borneol",
+          "identifiers": {
+            "canonical_smiles": "CC1(C)C2CCC1(C)C(O)C2",
+            "isomeric_smiles": "CC1(C)C2CCC1(C)C(O)C2",
+            "inchi": "InChI=1S/C10H18O/c1-9(2)7-4-5-10(9,3)8(11)6-7/h7-8,11H,4-6H2,1-3H3",
+            "inchi_key": "DTGKSKDOIYIVQL-UHFFFAOYSA-N",
+            "formula": "C10H18O",
+            "cxsmiles": "CC1(C)C2CCC1(C)C(O)C2"
+          },
+          "heavy_atoms": 11,
+          "molecular_weight": 154.253,
+          "preparation": {
+            "engines": [
+              "RDKit ETKDGv3",
+              "Meeko"
+            ],
+            "seed": 20260717
+          },
+          "resolution": {
+            "cid": 64685,
+            "snapshot": "2026-07-18"
+          }
+        },
+        "receptor": {
+          "source": {
+            "database": "RCSB Protein Data Bank",
+            "pdb_id": "3V49",
+            "title": "Structure of ar lbd with activator peptide and sarm inhibitor 1",
+            "structure_url": "https://www.rcsb.org/structure/3V49",
+            "coordinate_url": "https://files.rcsb.org/download/3V49.pdb",
+            "retrieved_at": "2026-07-18T17:26:37.179253+00:00"
+          },
+          "preparation": {
+            "engine": "Meeko",
+            "engine_version": "0.7.1",
+            "rigid_receptor": true,
+            "chains": [
+              "A"
+            ],
+            "kept_heterogens": [],
+            "prepared_atoms": 2054,
+            "explicit_residue_templates": {},
+            "removed_reference_ligand": {
+              "residue_name": "PK0",
+              "chain": "A",
+              "residue_number": 950,
+              "padding": 5
+            },
+            "repair": {
+              "engine": "PDBFixer",
+              "engine_version": "1.12.0",
+              "ph": 7.4,
+              "missing_residue_segments_not_built": [],
+              "replaced_nonstandard_residues": [],
+              "added_missing_heavy_atoms": [],
+              "added_terminal_atoms": [],
+              "preserved_heterogen_atoms": 0,
+              "heterogen_policy": "Heterogens were excluded from PDBFixer and restored unchanged after protein repair.",
+              "relaxation": {
+                "method": "restrained OpenMM minimization",
+                "restrained_observed_heavy_atoms": 1994,
+                "max_iterations": 20,
+                "initial_potential_kj_mol": 349566.781,
+                "final_potential_kj_mol": 349616.206
+              },
+              "policy": "Missing atoms and hydrogens were added; unresolved residue segments were recorded but not modeled."
+            },
+            "hydrogen_and_charge_method": "PDBFixer hydrogens at pH 7.4; Meeko atom typing and charges",
+            "relaxation": "Restrained local OpenMM minimization; parameters and energies are recorded in the repair audit."
+          }
+        },
+        "site": {
+          "center": {
+            "x": 27.017,
+            "y": 2.744,
+            "z": 5.935
+          },
+          "size": {
+            "x": 18.008,
+            "y": 19.993,
+            "z": 17.108
+          },
+          "derived_from": {
+            "residue_name": "PK0",
+            "chain": "A",
+            "residue_number": 950,
+            "heavy_atoms": 28,
+            "padding_angstrom": 5
+          }
+        },
+        "method": {
+          "engine": "AutoDock Vina",
+          "engine_version": "1.2.7",
+          "scoring_function": "vina",
+          "exhaustiveness": 4,
+          "requested_poses": 3,
+          "energy_range_kcal_mol": 4
+        },
+        "poses": [
+          {
+            "rank": 1,
+            "score_kcal_mol": -5.677,
+            "intermolecular_kcal_mol": -5.843,
+            "intramolecular_kcal_mol": 0,
+            "torsional_kcal_mol": 0.166,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5161
+          },
+          {
+            "rank": 2,
+            "score_kcal_mol": -5.425,
+            "intermolecular_kcal_mol": -5.583,
+            "intramolecular_kcal_mol": 0,
+            "torsional_kcal_mol": 0.159,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.4932
+          },
+          {
+            "rank": 3,
+            "score_kcal_mol": -5.304,
+            "intermolecular_kcal_mol": -5.459,
+            "intramolecular_kcal_mol": 0,
+            "torsional_kcal_mol": 0.155,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.4822
+          }
+        ],
+        "best_score_kcal_mol": -5.677,
+        "interpretation": {
+          "score_meaning": "Vina scores rank predicted poses under this exact preparation protocol.",
+          "not_an_affinity": "Scores are not experimental binding affinity and must not be converted to Ki, Kd, or IC50.",
+          "comparison_rule": "Compare ligands only when receptor, box, protonation, scoring, and search settings are identical.",
+          "validation": "Use known active/inactive controls, redocking RMSD, orthogonal scoring, and experimental binding assays."
+        },
+        "sources": [
+          {
+            "id": "DOCK1",
+            "title": "AutoDock Vina",
+            "url": "https://autodock-vina.readthedocs.io/"
+          },
+          {
+            "id": "DOCK2",
+            "title": "Meeko receptor and ligand preparation",
+            "url": "https://meeko.readthedocs.io/"
+          },
+          {
+            "id": "DOCK3",
+            "title": "RCSB Protein Data Bank",
+            "url": "https://www.rcsb.org/structure/3V49"
+          }
+        ],
+        "artifacts": [],
+        "provenance": {
+          "operation": "dock",
+          "service_version": "1.1.0",
+          "rdkit_version": "2025.09.5",
+          "computed_at": "2026-07-18T17:27:14.086809+00:00",
+          "computation_ms": 1421.6
+        }
+      },
+      {
+        "ligand": {
+          "label": "terpinolene",
+          "identifiers": {
+            "canonical_smiles": "CC1=CCC(=C(C)C)CC1",
+            "isomeric_smiles": "CC1=CCC(=C(C)C)CC1",
+            "inchi": "InChI=1S/C10H16/c1-8(2)10-6-4-9(3)5-7-10/h4H,5-7H2,1-3H3",
+            "inchi_key": "MOYAFQVGZZPNRA-UHFFFAOYSA-N",
+            "formula": "C10H16",
+            "cxsmiles": "CC1=CCC(=C(C)C)CC1"
+          },
+          "heavy_atoms": 10,
+          "molecular_weight": 136.238,
+          "preparation": {
+            "engines": [
+              "RDKit ETKDGv3",
+              "Meeko"
+            ],
+            "seed": 20260717
+          },
+          "resolution": {
+            "cid": 11463,
+            "snapshot": "2026-07-18"
+          }
+        },
+        "receptor": {
+          "source": {
+            "database": "RCSB Protein Data Bank",
+            "pdb_id": "3V49",
+            "title": "Structure of ar lbd with activator peptide and sarm inhibitor 1",
+            "structure_url": "https://www.rcsb.org/structure/3V49",
+            "coordinate_url": "https://files.rcsb.org/download/3V49.pdb",
+            "retrieved_at": "2026-07-18T17:26:37.179253+00:00"
+          },
+          "preparation": {
+            "engine": "Meeko",
+            "engine_version": "0.7.1",
+            "rigid_receptor": true,
+            "chains": [
+              "A"
+            ],
+            "kept_heterogens": [],
+            "prepared_atoms": 2054,
+            "explicit_residue_templates": {},
+            "removed_reference_ligand": {
+              "residue_name": "PK0",
+              "chain": "A",
+              "residue_number": 950,
+              "padding": 5
+            },
+            "repair": {
+              "engine": "PDBFixer",
+              "engine_version": "1.12.0",
+              "ph": 7.4,
+              "missing_residue_segments_not_built": [],
+              "replaced_nonstandard_residues": [],
+              "added_missing_heavy_atoms": [],
+              "added_terminal_atoms": [],
+              "preserved_heterogen_atoms": 0,
+              "heterogen_policy": "Heterogens were excluded from PDBFixer and restored unchanged after protein repair.",
+              "relaxation": {
+                "method": "restrained OpenMM minimization",
+                "restrained_observed_heavy_atoms": 1994,
+                "max_iterations": 20,
+                "initial_potential_kj_mol": 349566.781,
+                "final_potential_kj_mol": 349616.206
+              },
+              "policy": "Missing atoms and hydrogens were added; unresolved residue segments were recorded but not modeled."
+            },
+            "hydrogen_and_charge_method": "PDBFixer hydrogens at pH 7.4; Meeko atom typing and charges",
+            "relaxation": "Restrained local OpenMM minimization; parameters and energies are recorded in the repair audit."
+          }
+        },
+        "site": {
+          "center": {
+            "x": 27.017,
+            "y": 2.744,
+            "z": 5.935
+          },
+          "size": {
+            "x": 18.008,
+            "y": 19.993,
+            "z": 17.108
+          },
+          "derived_from": {
+            "residue_name": "PK0",
+            "chain": "A",
+            "residue_number": 950,
+            "heavy_atoms": 28,
+            "padding_angstrom": 5
+          }
+        },
+        "method": {
+          "engine": "AutoDock Vina",
+          "engine_version": "1.2.7",
+          "scoring_function": "vina",
+          "exhaustiveness": 4,
+          "requested_poses": 3,
+          "energy_range_kcal_mol": 4
+        },
+        "poses": [
+          {
+            "rank": 1,
+            "score_kcal_mol": -5.98,
+            "intermolecular_kcal_mol": -5.98,
+            "intramolecular_kcal_mol": 0,
+            "torsional_kcal_mol": 0,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.598
+          },
+          {
+            "rank": 2,
+            "score_kcal_mol": -5.967,
+            "intermolecular_kcal_mol": -5.967,
+            "intramolecular_kcal_mol": 0,
+            "torsional_kcal_mol": 0,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5967
+          },
+          {
+            "rank": 3,
+            "score_kcal_mol": -5.922,
+            "intermolecular_kcal_mol": -5.922,
+            "intramolecular_kcal_mol": 0,
+            "torsional_kcal_mol": 0,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5922
+          }
+        ],
+        "best_score_kcal_mol": -5.98,
+        "interpretation": {
+          "score_meaning": "Vina scores rank predicted poses under this exact preparation protocol.",
+          "not_an_affinity": "Scores are not experimental binding affinity and must not be converted to Ki, Kd, or IC50.",
+          "comparison_rule": "Compare ligands only when receptor, box, protonation, scoring, and search settings are identical.",
+          "validation": "Use known active/inactive controls, redocking RMSD, orthogonal scoring, and experimental binding assays."
+        },
+        "sources": [
+          {
+            "id": "DOCK1",
+            "title": "AutoDock Vina",
+            "url": "https://autodock-vina.readthedocs.io/"
+          },
+          {
+            "id": "DOCK2",
+            "title": "Meeko receptor and ligand preparation",
+            "url": "https://meeko.readthedocs.io/"
+          },
+          {
+            "id": "DOCK3",
+            "title": "RCSB Protein Data Bank",
+            "url": "https://www.rcsb.org/structure/3V49"
+          }
+        ],
+        "artifacts": [],
+        "provenance": {
+          "operation": "dock",
+          "service_version": "1.1.0",
+          "rdkit_version": "2025.09.5",
+          "computed_at": "2026-07-18T17:27:15.096386+00:00",
+          "computation_ms": 1009.53
+        }
+      },
+      {
+        "ligand": {
+          "label": "limonene",
+          "identifiers": {
+            "canonical_smiles": "C=C(C)C1CC=C(C)CC1",
+            "isomeric_smiles": "C=C(C)C1CC=C(C)CC1",
+            "inchi": "InChI=1S/C10H16/c1-8(2)10-6-4-9(3)5-7-10/h4,10H,1,5-7H2,2-3H3",
+            "inchi_key": "XMGQYMWWDOXHJM-UHFFFAOYSA-N",
+            "formula": "C10H16",
+            "cxsmiles": "C=C(C)C1CC=C(C)CC1"
+          },
+          "heavy_atoms": 10,
+          "molecular_weight": 136.238,
+          "preparation": {
+            "engines": [
+              "RDKit ETKDGv3",
+              "Meeko"
+            ],
+            "seed": 20260717
+          },
+          "resolution": {
+            "cid": 22311,
+            "snapshot": "2026-07-18"
+          }
+        },
+        "receptor": {
+          "source": {
+            "database": "RCSB Protein Data Bank",
+            "pdb_id": "3V49",
+            "title": "Structure of ar lbd with activator peptide and sarm inhibitor 1",
+            "structure_url": "https://www.rcsb.org/structure/3V49",
+            "coordinate_url": "https://files.rcsb.org/download/3V49.pdb",
+            "retrieved_at": "2026-07-18T17:26:37.179253+00:00"
+          },
+          "preparation": {
+            "engine": "Meeko",
+            "engine_version": "0.7.1",
+            "rigid_receptor": true,
+            "chains": [
+              "A"
+            ],
+            "kept_heterogens": [],
+            "prepared_atoms": 2054,
+            "explicit_residue_templates": {},
+            "removed_reference_ligand": {
+              "residue_name": "PK0",
+              "chain": "A",
+              "residue_number": 950,
+              "padding": 5
+            },
+            "repair": {
+              "engine": "PDBFixer",
+              "engine_version": "1.12.0",
+              "ph": 7.4,
+              "missing_residue_segments_not_built": [],
+              "replaced_nonstandard_residues": [],
+              "added_missing_heavy_atoms": [],
+              "added_terminal_atoms": [],
+              "preserved_heterogen_atoms": 0,
+              "heterogen_policy": "Heterogens were excluded from PDBFixer and restored unchanged after protein repair.",
+              "relaxation": {
+                "method": "restrained OpenMM minimization",
+                "restrained_observed_heavy_atoms": 1994,
+                "max_iterations": 20,
+                "initial_potential_kj_mol": 349566.781,
+                "final_potential_kj_mol": 349616.206
+              },
+              "policy": "Missing atoms and hydrogens were added; unresolved residue segments were recorded but not modeled."
+            },
+            "hydrogen_and_charge_method": "PDBFixer hydrogens at pH 7.4; Meeko atom typing and charges",
+            "relaxation": "Restrained local OpenMM minimization; parameters and energies are recorded in the repair audit."
+          }
+        },
+        "site": {
+          "center": {
+            "x": 27.017,
+            "y": 2.744,
+            "z": 5.935
+          },
+          "size": {
+            "x": 18.008,
+            "y": 19.993,
+            "z": 17.108
+          },
+          "derived_from": {
+            "residue_name": "PK0",
+            "chain": "A",
+            "residue_number": 950,
+            "heavy_atoms": 28,
+            "padding_angstrom": 5
+          }
+        },
+        "method": {
+          "engine": "AutoDock Vina",
+          "engine_version": "1.2.7",
+          "scoring_function": "vina",
+          "exhaustiveness": 4,
+          "requested_poses": 3,
+          "energy_range_kcal_mol": 4
+        },
+        "poses": [
+          {
+            "rank": 1,
+            "score_kcal_mol": -5.354,
+            "intermolecular_kcal_mol": -5.667,
+            "intramolecular_kcal_mol": -0.287,
+            "torsional_kcal_mol": 0.313,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5354
+          },
+          {
+            "rank": 2,
+            "score_kcal_mol": -5.262,
+            "intermolecular_kcal_mol": -5.653,
+            "intramolecular_kcal_mol": -0.203,
+            "torsional_kcal_mol": 0.308,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5262
+          },
+          {
+            "rank": 3,
+            "score_kcal_mol": -5.197,
+            "intermolecular_kcal_mol": -5.512,
+            "intramolecular_kcal_mol": -0.275,
+            "torsional_kcal_mol": 0.304,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5197
+          }
+        ],
+        "best_score_kcal_mol": -5.354,
+        "interpretation": {
+          "score_meaning": "Vina scores rank predicted poses under this exact preparation protocol.",
+          "not_an_affinity": "Scores are not experimental binding affinity and must not be converted to Ki, Kd, or IC50.",
+          "comparison_rule": "Compare ligands only when receptor, box, protonation, scoring, and search settings are identical.",
+          "validation": "Use known active/inactive controls, redocking RMSD, orthogonal scoring, and experimental binding assays."
+        },
+        "sources": [
+          {
+            "id": "DOCK1",
+            "title": "AutoDock Vina",
+            "url": "https://autodock-vina.readthedocs.io/"
+          },
+          {
+            "id": "DOCK2",
+            "title": "Meeko receptor and ligand preparation",
+            "url": "https://meeko.readthedocs.io/"
+          },
+          {
+            "id": "DOCK3",
+            "title": "RCSB Protein Data Bank",
+            "url": "https://www.rcsb.org/structure/3V49"
+          }
+        ],
+        "artifacts": [],
+        "provenance": {
+          "operation": "dock",
+          "service_version": "1.1.0",
+          "rdkit_version": "2025.09.5",
+          "computed_at": "2026-07-18T17:27:16.378942+00:00",
+          "computation_ms": 1282.51
+        }
+      },
+      {
+        "ligand": {
+          "label": "sabinene",
+          "identifiers": {
+            "canonical_smiles": "C=C1CCC2(C(C)C)CC12",
+            "isomeric_smiles": "C=C1CCC2(C(C)C)CC12",
+            "inchi": "InChI=1S/C10H16/c1-7(2)10-5-4-8(3)9(10)6-10/h7,9H,3-6H2,1-2H3",
+            "inchi_key": "NDVASEGYNIMXJL-UHFFFAOYSA-N",
+            "formula": "C10H16",
+            "cxsmiles": "C=C1CCC2(C(C)C)CC12"
+          },
+          "heavy_atoms": 10,
+          "molecular_weight": 136.238,
+          "preparation": {
+            "engines": [
+              "RDKit ETKDGv3",
+              "Meeko"
+            ],
+            "seed": 20260717
+          },
+          "resolution": {
+            "cid": 18818,
+            "snapshot": "2026-07-18"
+          }
+        },
+        "receptor": {
+          "source": {
+            "database": "RCSB Protein Data Bank",
+            "pdb_id": "3V49",
+            "title": "Structure of ar lbd with activator peptide and sarm inhibitor 1",
+            "structure_url": "https://www.rcsb.org/structure/3V49",
+            "coordinate_url": "https://files.rcsb.org/download/3V49.pdb",
+            "retrieved_at": "2026-07-18T17:26:37.179253+00:00"
+          },
+          "preparation": {
+            "engine": "Meeko",
+            "engine_version": "0.7.1",
+            "rigid_receptor": true,
+            "chains": [
+              "A"
+            ],
+            "kept_heterogens": [],
+            "prepared_atoms": 2054,
+            "explicit_residue_templates": {},
+            "removed_reference_ligand": {
+              "residue_name": "PK0",
+              "chain": "A",
+              "residue_number": 950,
+              "padding": 5
+            },
+            "repair": {
+              "engine": "PDBFixer",
+              "engine_version": "1.12.0",
+              "ph": 7.4,
+              "missing_residue_segments_not_built": [],
+              "replaced_nonstandard_residues": [],
+              "added_missing_heavy_atoms": [],
+              "added_terminal_atoms": [],
+              "preserved_heterogen_atoms": 0,
+              "heterogen_policy": "Heterogens were excluded from PDBFixer and restored unchanged after protein repair.",
+              "relaxation": {
+                "method": "restrained OpenMM minimization",
+                "restrained_observed_heavy_atoms": 1994,
+                "max_iterations": 20,
+                "initial_potential_kj_mol": 349566.781,
+                "final_potential_kj_mol": 349616.206
+              },
+              "policy": "Missing atoms and hydrogens were added; unresolved residue segments were recorded but not modeled."
+            },
+            "hydrogen_and_charge_method": "PDBFixer hydrogens at pH 7.4; Meeko atom typing and charges",
+            "relaxation": "Restrained local OpenMM minimization; parameters and energies are recorded in the repair audit."
+          }
+        },
+        "site": {
+          "center": {
+            "x": 27.017,
+            "y": 2.744,
+            "z": 5.935
+          },
+          "size": {
+            "x": 18.008,
+            "y": 19.993,
+            "z": 17.108
+          },
+          "derived_from": {
+            "residue_name": "PK0",
+            "chain": "A",
+            "residue_number": 950,
+            "heavy_atoms": 28,
+            "padding_angstrom": 5
+          }
+        },
+        "method": {
+          "engine": "AutoDock Vina",
+          "engine_version": "1.2.7",
+          "scoring_function": "vina",
+          "exhaustiveness": 4,
+          "requested_poses": 3,
+          "energy_range_kcal_mol": 4
+        },
+        "poses": [
+          {
+            "rank": 1,
+            "score_kcal_mol": -5.478,
+            "intermolecular_kcal_mol": -5.798,
+            "intramolecular_kcal_mol": 0.004,
+            "torsional_kcal_mol": 0.32,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5478
+          },
+          {
+            "rank": 2,
+            "score_kcal_mol": -5.455,
+            "intermolecular_kcal_mol": -5.473,
+            "intramolecular_kcal_mol": -0.298,
+            "torsional_kcal_mol": 0.319,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5455
+          },
+          {
+            "rank": 3,
+            "score_kcal_mol": -5.412,
+            "intermolecular_kcal_mol": -5.423,
+            "intramolecular_kcal_mol": -0.302,
+            "torsional_kcal_mol": 0.316,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5412
+          }
+        ],
+        "best_score_kcal_mol": -5.478,
+        "interpretation": {
+          "score_meaning": "Vina scores rank predicted poses under this exact preparation protocol.",
+          "not_an_affinity": "Scores are not experimental binding affinity and must not be converted to Ki, Kd, or IC50.",
+          "comparison_rule": "Compare ligands only when receptor, box, protonation, scoring, and search settings are identical.",
+          "validation": "Use known active/inactive controls, redocking RMSD, orthogonal scoring, and experimental binding assays."
+        },
+        "sources": [
+          {
+            "id": "DOCK1",
+            "title": "AutoDock Vina",
+            "url": "https://autodock-vina.readthedocs.io/"
+          },
+          {
+            "id": "DOCK2",
+            "title": "Meeko receptor and ligand preparation",
+            "url": "https://meeko.readthedocs.io/"
+          },
+          {
+            "id": "DOCK3",
+            "title": "RCSB Protein Data Bank",
+            "url": "https://www.rcsb.org/structure/3V49"
+          }
+        ],
+        "artifacts": [],
+        "provenance": {
+          "operation": "dock",
+          "service_version": "1.1.0",
+          "rdkit_version": "2025.09.5",
+          "computed_at": "2026-07-18T17:27:18.062686+00:00",
+          "computation_ms": 1677.56
+        }
+      },
+      {
+        "ligand": {
+          "label": "alpha-pinene",
+          "identifiers": {
+            "canonical_smiles": "CC1=CCC2CC1C2(C)C",
+            "isomeric_smiles": "CC1=CCC2CC1C2(C)C",
+            "inchi": "InChI=1S/C10H16/c1-7-4-5-8-6-9(7)10(8,2)3/h4,8-9H,5-6H2,1-3H3",
+            "inchi_key": "GRWFGVWFFZKLTI-UHFFFAOYSA-N",
+            "formula": "C10H16",
+            "cxsmiles": "CC1=CCC2CC1C2(C)C"
+          },
+          "heavy_atoms": 10,
+          "molecular_weight": 136.238,
+          "preparation": {
+            "engines": [
+              "RDKit ETKDGv3",
+              "Meeko"
+            ],
+            "seed": 20260717
+          },
+          "resolution": {
+            "cid": 6654,
+            "snapshot": "2026-07-18"
+          }
+        },
+        "receptor": {
+          "source": {
+            "database": "RCSB Protein Data Bank",
+            "pdb_id": "3V49",
+            "title": "Structure of ar lbd with activator peptide and sarm inhibitor 1",
+            "structure_url": "https://www.rcsb.org/structure/3V49",
+            "coordinate_url": "https://files.rcsb.org/download/3V49.pdb",
+            "retrieved_at": "2026-07-18T17:26:37.179253+00:00"
+          },
+          "preparation": {
+            "engine": "Meeko",
+            "engine_version": "0.7.1",
+            "rigid_receptor": true,
+            "chains": [
+              "A"
+            ],
+            "kept_heterogens": [],
+            "prepared_atoms": 2054,
+            "explicit_residue_templates": {},
+            "removed_reference_ligand": {
+              "residue_name": "PK0",
+              "chain": "A",
+              "residue_number": 950,
+              "padding": 5
+            },
+            "repair": {
+              "engine": "PDBFixer",
+              "engine_version": "1.12.0",
+              "ph": 7.4,
+              "missing_residue_segments_not_built": [],
+              "replaced_nonstandard_residues": [],
+              "added_missing_heavy_atoms": [],
+              "added_terminal_atoms": [],
+              "preserved_heterogen_atoms": 0,
+              "heterogen_policy": "Heterogens were excluded from PDBFixer and restored unchanged after protein repair.",
+              "relaxation": {
+                "method": "restrained OpenMM minimization",
+                "restrained_observed_heavy_atoms": 1994,
+                "max_iterations": 20,
+                "initial_potential_kj_mol": 349566.781,
+                "final_potential_kj_mol": 349616.206
+              },
+              "policy": "Missing atoms and hydrogens were added; unresolved residue segments were recorded but not modeled."
+            },
+            "hydrogen_and_charge_method": "PDBFixer hydrogens at pH 7.4; Meeko atom typing and charges",
+            "relaxation": "Restrained local OpenMM minimization; parameters and energies are recorded in the repair audit."
+          }
+        },
+        "site": {
+          "center": {
+            "x": 27.017,
+            "y": 2.744,
+            "z": 5.935
+          },
+          "size": {
+            "x": 18.008,
+            "y": 19.993,
+            "z": 17.108
+          },
+          "derived_from": {
+            "residue_name": "PK0",
+            "chain": "A",
+            "residue_number": 950,
+            "heavy_atoms": 28,
+            "padding_angstrom": 5
+          }
+        },
+        "method": {
+          "engine": "AutoDock Vina",
+          "engine_version": "1.2.7",
+          "scoring_function": "vina",
+          "exhaustiveness": 4,
+          "requested_poses": 3,
+          "energy_range_kcal_mol": 4
+        },
+        "poses": [
+          {
+            "rank": 1,
+            "score_kcal_mol": -5.559,
+            "intermolecular_kcal_mol": -5.559,
+            "intramolecular_kcal_mol": 0,
+            "torsional_kcal_mol": 0,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5559
+          },
+          {
+            "rank": 2,
+            "score_kcal_mol": -5.34,
+            "intermolecular_kcal_mol": -5.34,
+            "intramolecular_kcal_mol": 0,
+            "torsional_kcal_mol": 0,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.534
+          },
+          {
+            "rank": 3,
+            "score_kcal_mol": -5.231,
+            "intermolecular_kcal_mol": -5.231,
+            "intramolecular_kcal_mol": 0,
+            "torsional_kcal_mol": 0,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5231
+          }
+        ],
+        "best_score_kcal_mol": -5.559,
+        "interpretation": {
+          "score_meaning": "Vina scores rank predicted poses under this exact preparation protocol.",
+          "not_an_affinity": "Scores are not experimental binding affinity and must not be converted to Ki, Kd, or IC50.",
+          "comparison_rule": "Compare ligands only when receptor, box, protonation, scoring, and search settings are identical.",
+          "validation": "Use known active/inactive controls, redocking RMSD, orthogonal scoring, and experimental binding assays."
+        },
+        "sources": [
+          {
+            "id": "DOCK1",
+            "title": "AutoDock Vina",
+            "url": "https://autodock-vina.readthedocs.io/"
+          },
+          {
+            "id": "DOCK2",
+            "title": "Meeko receptor and ligand preparation",
+            "url": "https://meeko.readthedocs.io/"
+          },
+          {
+            "id": "DOCK3",
+            "title": "RCSB Protein Data Bank",
+            "url": "https://www.rcsb.org/structure/3V49"
+          }
+        ],
+        "artifacts": [],
+        "provenance": {
+          "operation": "dock",
+          "service_version": "1.1.0",
+          "rdkit_version": "2025.09.5",
+          "computed_at": "2026-07-18T17:27:19.248429+00:00",
+          "computation_ms": 1185.7
+        }
+      },
+      {
+        "ligand": {
+          "label": "beta-pinene",
+          "identifiers": {
+            "canonical_smiles": "C=C1CCC2CC1C2(C)C",
+            "isomeric_smiles": "C=C1CCC2CC1C2(C)C",
+            "inchi": "InChI=1S/C10H16/c1-7-4-5-8-6-9(7)10(8,2)3/h8-9H,1,4-6H2,2-3H3",
+            "inchi_key": "WTARULDDTDQWMU-UHFFFAOYSA-N",
+            "formula": "C10H16",
+            "cxsmiles": "C=C1CCC2CC1C2(C)C"
+          },
+          "heavy_atoms": 10,
+          "molecular_weight": 136.238,
+          "preparation": {
+            "engines": [
+              "RDKit ETKDGv3",
+              "Meeko"
+            ],
+            "seed": 20260717
+          },
+          "resolution": {
+            "cid": 14896,
+            "snapshot": "2026-07-18"
+          }
+        },
+        "receptor": {
+          "source": {
+            "database": "RCSB Protein Data Bank",
+            "pdb_id": "3V49",
+            "title": "Structure of ar lbd with activator peptide and sarm inhibitor 1",
+            "structure_url": "https://www.rcsb.org/structure/3V49",
+            "coordinate_url": "https://files.rcsb.org/download/3V49.pdb",
+            "retrieved_at": "2026-07-18T17:26:37.179253+00:00"
+          },
+          "preparation": {
+            "engine": "Meeko",
+            "engine_version": "0.7.1",
+            "rigid_receptor": true,
+            "chains": [
+              "A"
+            ],
+            "kept_heterogens": [],
+            "prepared_atoms": 2054,
+            "explicit_residue_templates": {},
+            "removed_reference_ligand": {
+              "residue_name": "PK0",
+              "chain": "A",
+              "residue_number": 950,
+              "padding": 5
+            },
+            "repair": {
+              "engine": "PDBFixer",
+              "engine_version": "1.12.0",
+              "ph": 7.4,
+              "missing_residue_segments_not_built": [],
+              "replaced_nonstandard_residues": [],
+              "added_missing_heavy_atoms": [],
+              "added_terminal_atoms": [],
+              "preserved_heterogen_atoms": 0,
+              "heterogen_policy": "Heterogens were excluded from PDBFixer and restored unchanged after protein repair.",
+              "relaxation": {
+                "method": "restrained OpenMM minimization",
+                "restrained_observed_heavy_atoms": 1994,
+                "max_iterations": 20,
+                "initial_potential_kj_mol": 349566.781,
+                "final_potential_kj_mol": 349616.206
+              },
+              "policy": "Missing atoms and hydrogens were added; unresolved residue segments were recorded but not modeled."
+            },
+            "hydrogen_and_charge_method": "PDBFixer hydrogens at pH 7.4; Meeko atom typing and charges",
+            "relaxation": "Restrained local OpenMM minimization; parameters and energies are recorded in the repair audit."
+          }
+        },
+        "site": {
+          "center": {
+            "x": 27.017,
+            "y": 2.744,
+            "z": 5.935
+          },
+          "size": {
+            "x": 18.008,
+            "y": 19.993,
+            "z": 17.108
+          },
+          "derived_from": {
+            "residue_name": "PK0",
+            "chain": "A",
+            "residue_number": 950,
+            "heavy_atoms": 28,
+            "padding_angstrom": 5
+          }
+        },
+        "method": {
+          "engine": "AutoDock Vina",
+          "engine_version": "1.2.7",
+          "scoring_function": "vina",
+          "exhaustiveness": 4,
+          "requested_poses": 3,
+          "energy_range_kcal_mol": 4
+        },
+        "poses": [
+          {
+            "rank": 1,
+            "score_kcal_mol": -5.473,
+            "intermolecular_kcal_mol": -5.473,
+            "intramolecular_kcal_mol": 0,
+            "torsional_kcal_mol": 0,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5473
+          },
+          {
+            "rank": 2,
+            "score_kcal_mol": -5.456,
+            "intermolecular_kcal_mol": -5.456,
+            "intramolecular_kcal_mol": 0,
+            "torsional_kcal_mol": 0,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5456
+          },
+          {
+            "rank": 3,
+            "score_kcal_mol": -5.301,
+            "intermolecular_kcal_mol": -5.301,
+            "intramolecular_kcal_mol": 0,
+            "torsional_kcal_mol": 0,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.5301
+          }
+        ],
+        "best_score_kcal_mol": -5.473,
+        "interpretation": {
+          "score_meaning": "Vina scores rank predicted poses under this exact preparation protocol.",
+          "not_an_affinity": "Scores are not experimental binding affinity and must not be converted to Ki, Kd, or IC50.",
+          "comparison_rule": "Compare ligands only when receptor, box, protonation, scoring, and search settings are identical.",
+          "validation": "Use known active/inactive controls, redocking RMSD, orthogonal scoring, and experimental binding assays."
+        },
+        "sources": [
+          {
+            "id": "DOCK1",
+            "title": "AutoDock Vina",
+            "url": "https://autodock-vina.readthedocs.io/"
+          },
+          {
+            "id": "DOCK2",
+            "title": "Meeko receptor and ligand preparation",
+            "url": "https://meeko.readthedocs.io/"
+          },
+          {
+            "id": "DOCK3",
+            "title": "RCSB Protein Data Bank",
+            "url": "https://www.rcsb.org/structure/3V49"
+          }
+        ],
+        "artifacts": [],
+        "provenance": {
+          "operation": "dock",
+          "service_version": "1.1.0",
+          "rdkit_version": "2025.09.5",
+          "computed_at": "2026-07-18T17:27:20.286227+00:00",
+          "computation_ms": 1037.69
+        }
+      },
+      {
+        "ligand": {
+          "label": "nerolidol",
+          "identifiers": {
+            "canonical_smiles": "C=CC(C)(O)CC/C=C(\\C)CCC=C(C)C",
+            "isomeric_smiles": "C=CC(C)(O)CC/C=C(\\C)CCC=C(C)C",
+            "inchi": "InChI=1S/C15H26O/c1-6-15(5,16)12-8-11-14(4)10-7-9-13(2)3/h6,9,11,16H,1,7-8,10,12H2,2-5H3/b14-11+",
+            "inchi_key": "FQTLCLSUCSAZDY-SDNWHVSQSA-N",
+            "formula": "C15H26O",
+            "cxsmiles": "C=CC(C)(O)CC/C=C(\\C)CCC=C(C)C"
+          },
+          "heavy_atoms": 16,
+          "molecular_weight": 222.372,
+          "preparation": {
+            "engines": [
+              "RDKit ETKDGv3",
+              "Meeko"
+            ],
+            "seed": 20260717
+          },
+          "resolution": {
+            "cid": 5284507,
+            "snapshot": "2026-07-18"
+          }
+        },
+        "receptor": {
+          "source": {
+            "database": "RCSB Protein Data Bank",
+            "pdb_id": "3V49",
+            "title": "Structure of ar lbd with activator peptide and sarm inhibitor 1",
+            "structure_url": "https://www.rcsb.org/structure/3V49",
+            "coordinate_url": "https://files.rcsb.org/download/3V49.pdb",
+            "retrieved_at": "2026-07-18T17:26:37.179253+00:00"
+          },
+          "preparation": {
+            "engine": "Meeko",
+            "engine_version": "0.7.1",
+            "rigid_receptor": true,
+            "chains": [
+              "A"
+            ],
+            "kept_heterogens": [],
+            "prepared_atoms": 2054,
+            "explicit_residue_templates": {},
+            "removed_reference_ligand": {
+              "residue_name": "PK0",
+              "chain": "A",
+              "residue_number": 950,
+              "padding": 5
+            },
+            "repair": {
+              "engine": "PDBFixer",
+              "engine_version": "1.12.0",
+              "ph": 7.4,
+              "missing_residue_segments_not_built": [],
+              "replaced_nonstandard_residues": [],
+              "added_missing_heavy_atoms": [],
+              "added_terminal_atoms": [],
+              "preserved_heterogen_atoms": 0,
+              "heterogen_policy": "Heterogens were excluded from PDBFixer and restored unchanged after protein repair.",
+              "relaxation": {
+                "method": "restrained OpenMM minimization",
+                "restrained_observed_heavy_atoms": 1994,
+                "max_iterations": 20,
+                "initial_potential_kj_mol": 349566.781,
+                "final_potential_kj_mol": 349616.206
+              },
+              "policy": "Missing atoms and hydrogens were added; unresolved residue segments were recorded but not modeled."
+            },
+            "hydrogen_and_charge_method": "PDBFixer hydrogens at pH 7.4; Meeko atom typing and charges",
+            "relaxation": "Restrained local OpenMM minimization; parameters and energies are recorded in the repair audit."
+          }
+        },
+        "site": {
+          "center": {
+            "x": 27.017,
+            "y": 2.744,
+            "z": 5.935
+          },
+          "size": {
+            "x": 18.008,
+            "y": 19.993,
+            "z": 17.108
+          },
+          "derived_from": {
+            "residue_name": "PK0",
+            "chain": "A",
+            "residue_number": 950,
+            "heavy_atoms": 28,
+            "padding_angstrom": 5
+          }
+        },
+        "method": {
+          "engine": "AutoDock Vina",
+          "engine_version": "1.2.7",
+          "scoring_function": "vina",
+          "exhaustiveness": 4,
+          "requested_poses": 3,
+          "energy_range_kcal_mol": 4
+        },
+        "poses": [
+          {
+            "rank": 1,
+            "score_kcal_mol": -6.838,
+            "intermolecular_kcal_mol": -9.836,
+            "intramolecular_kcal_mol": -0.807,
+            "torsional_kcal_mol": 2.998,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.4274
+          },
+          {
+            "rank": 2,
+            "score_kcal_mol": -6.72,
+            "intermolecular_kcal_mol": -9.351,
+            "intramolecular_kcal_mol": -1.122,
+            "torsional_kcal_mol": 2.946,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.42
+          },
+          {
+            "rank": 3,
+            "score_kcal_mol": -6.686,
+            "intermolecular_kcal_mol": -9.582,
+            "intramolecular_kcal_mol": -0.843,
+            "torsional_kcal_mol": 2.931,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.4179
+          }
+        ],
+        "best_score_kcal_mol": -6.838,
+        "interpretation": {
+          "score_meaning": "Vina scores rank predicted poses under this exact preparation protocol.",
+          "not_an_affinity": "Scores are not experimental binding affinity and must not be converted to Ki, Kd, or IC50.",
+          "comparison_rule": "Compare ligands only when receptor, box, protonation, scoring, and search settings are identical.",
+          "validation": "Use known active/inactive controls, redocking RMSD, orthogonal scoring, and experimental binding assays."
+        },
+        "sources": [
+          {
+            "id": "DOCK1",
+            "title": "AutoDock Vina",
+            "url": "https://autodock-vina.readthedocs.io/"
+          },
+          {
+            "id": "DOCK2",
+            "title": "Meeko receptor and ligand preparation",
+            "url": "https://meeko.readthedocs.io/"
+          },
+          {
+            "id": "DOCK3",
+            "title": "RCSB Protein Data Bank",
+            "url": "https://www.rcsb.org/structure/3V49"
+          }
+        ],
+        "artifacts": [],
+        "provenance": {
+          "operation": "dock",
+          "service_version": "1.1.0",
+          "rdkit_version": "2025.09.5",
+          "computed_at": "2026-07-18T17:27:25.440402+00:00",
+          "computation_ms": 5148.09
+        }
+      },
+      {
+        "ligand": {
+          "label": "alpha-bisabolol",
+          "identifiers": {
+            "canonical_smiles": "CC(C)=CCC[C@@](C)(O)[C@H]1CC=C(C)CC1",
+            "isomeric_smiles": "CC(C)=CCC[C@@](C)(O)[C@H]1CC=C(C)CC1",
+            "inchi": "InChI=1S/C15H26O/c1-12(2)6-5-11-15(4,16)14-9-7-13(3)8-10-14/h6-7,14,16H,5,8-11H2,1-4H3/t14-,15+/m0/s1",
+            "inchi_key": "RGZSQWQPBWRIAQ-LSDHHAIUSA-N",
+            "formula": "C15H26O",
+            "cxsmiles": "CC(C)=CCC[C@@](C)(O)[C@H]1CC=C(C)CC1"
+          },
+          "heavy_atoms": 16,
+          "molecular_weight": 222.372,
+          "preparation": {
+            "engines": [
+              "RDKit ETKDGv3",
+              "Meeko"
+            ],
+            "seed": 20260717
+          },
+          "resolution": {
+            "cid": 1549992,
+            "snapshot": "2026-07-18"
+          }
+        },
+        "receptor": {
+          "source": {
+            "database": "RCSB Protein Data Bank",
+            "pdb_id": "3V49",
+            "title": "Structure of ar lbd with activator peptide and sarm inhibitor 1",
+            "structure_url": "https://www.rcsb.org/structure/3V49",
+            "coordinate_url": "https://files.rcsb.org/download/3V49.pdb",
+            "retrieved_at": "2026-07-18T17:26:37.179253+00:00"
+          },
+          "preparation": {
+            "engine": "Meeko",
+            "engine_version": "0.7.1",
+            "rigid_receptor": true,
+            "chains": [
+              "A"
+            ],
+            "kept_heterogens": [],
+            "prepared_atoms": 2054,
+            "explicit_residue_templates": {},
+            "removed_reference_ligand": {
+              "residue_name": "PK0",
+              "chain": "A",
+              "residue_number": 950,
+              "padding": 5
+            },
+            "repair": {
+              "engine": "PDBFixer",
+              "engine_version": "1.12.0",
+              "ph": 7.4,
+              "missing_residue_segments_not_built": [],
+              "replaced_nonstandard_residues": [],
+              "added_missing_heavy_atoms": [],
+              "added_terminal_atoms": [],
+              "preserved_heterogen_atoms": 0,
+              "heterogen_policy": "Heterogens were excluded from PDBFixer and restored unchanged after protein repair.",
+              "relaxation": {
+                "method": "restrained OpenMM minimization",
+                "restrained_observed_heavy_atoms": 1994,
+                "max_iterations": 20,
+                "initial_potential_kj_mol": 349566.781,
+                "final_potential_kj_mol": 349616.206
+              },
+              "policy": "Missing atoms and hydrogens were added; unresolved residue segments were recorded but not modeled."
+            },
+            "hydrogen_and_charge_method": "PDBFixer hydrogens at pH 7.4; Meeko atom typing and charges",
+            "relaxation": "Restrained local OpenMM minimization; parameters and energies are recorded in the repair audit."
+          }
+        },
+        "site": {
+          "center": {
+            "x": 27.017,
+            "y": 2.744,
+            "z": 5.935
+          },
+          "size": {
+            "x": 18.008,
+            "y": 19.993,
+            "z": 17.108
+          },
+          "derived_from": {
+            "residue_name": "PK0",
+            "chain": "A",
+            "residue_number": 950,
+            "heavy_atoms": 28,
+            "padding_angstrom": 5
+          }
+        },
+        "method": {
+          "engine": "AutoDock Vina",
+          "engine_version": "1.2.7",
+          "scoring_function": "vina",
+          "exhaustiveness": 4,
+          "requested_poses": 3,
+          "energy_range_kcal_mol": 4
+        },
+        "poses": [
+          {
+            "rank": 1,
+            "score_kcal_mol": -7.487,
+            "intermolecular_kcal_mol": -9.456,
+            "intramolecular_kcal_mol": -0.585,
+            "torsional_kcal_mol": 1.97,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.4679
+          },
+          {
+            "rank": 2,
+            "score_kcal_mol": -7.378,
+            "intermolecular_kcal_mol": -9.368,
+            "intramolecular_kcal_mol": -0.536,
+            "torsional_kcal_mol": 1.941,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.4611
+          },
+          {
+            "rank": 3,
+            "score_kcal_mol": -7.095,
+            "intermolecular_kcal_mol": -8.994,
+            "intramolecular_kcal_mol": -0.553,
+            "torsional_kcal_mol": 1.866,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.4434
+          }
+        ],
+        "best_score_kcal_mol": -7.487,
+        "interpretation": {
+          "score_meaning": "Vina scores rank predicted poses under this exact preparation protocol.",
+          "not_an_affinity": "Scores are not experimental binding affinity and must not be converted to Ki, Kd, or IC50.",
+          "comparison_rule": "Compare ligands only when receptor, box, protonation, scoring, and search settings are identical.",
+          "validation": "Use known active/inactive controls, redocking RMSD, orthogonal scoring, and experimental binding assays."
+        },
+        "sources": [
+          {
+            "id": "DOCK1",
+            "title": "AutoDock Vina",
+            "url": "https://autodock-vina.readthedocs.io/"
+          },
+          {
+            "id": "DOCK2",
+            "title": "Meeko receptor and ligand preparation",
+            "url": "https://meeko.readthedocs.io/"
+          },
+          {
+            "id": "DOCK3",
+            "title": "RCSB Protein Data Bank",
+            "url": "https://www.rcsb.org/structure/3V49"
+          }
+        ],
+        "artifacts": [],
+        "provenance": {
+          "operation": "dock",
+          "service_version": "1.1.0",
+          "rdkit_version": "2025.09.5",
+          "computed_at": "2026-07-18T17:27:29.105787+00:00",
+          "computation_ms": 3665.33
+        }
+      },
+      {
+        "ligand": {
+          "label": "humulene",
+          "identifiers": {
+            "canonical_smiles": "C/C1=C\\CC/C(C)=C/CC(C)(C)/C=C/C1",
+            "isomeric_smiles": "C/C1=C\\CC/C(C)=C/CC(C)(C)/C=C/C1",
+            "inchi": "InChI=1S/C15H24/c1-13-7-5-8-14(2)10-12-15(3,4)11-6-9-13/h6-7,10-11H,5,8-9,12H2,1-4H3/b11-6+,13-7+,14-10+",
+            "inchi_key": "FAMPSKZZVDUYOS-HRGUGZIWSA-N",
+            "formula": "C15H24",
+            "cxsmiles": "C/C1=C\\CC/C(C)=C/CC(C)(C)/C=C/C1"
+          },
+          "heavy_atoms": 15,
+          "molecular_weight": 204.357,
+          "preparation": {
+            "engines": [
+              "RDKit ETKDGv3",
+              "Meeko"
+            ],
+            "seed": 20260717
+          },
+          "resolution": {
+            "cid": 5281520,
+            "snapshot": "2026-07-18"
+          }
+        },
+        "receptor": {
+          "source": {
+            "database": "RCSB Protein Data Bank",
+            "pdb_id": "3V49",
+            "title": "Structure of ar lbd with activator peptide and sarm inhibitor 1",
+            "structure_url": "https://www.rcsb.org/structure/3V49",
+            "coordinate_url": "https://files.rcsb.org/download/3V49.pdb",
+            "retrieved_at": "2026-07-18T17:26:37.179253+00:00"
+          },
+          "preparation": {
+            "engine": "Meeko",
+            "engine_version": "0.7.1",
+            "rigid_receptor": true,
+            "chains": [
+              "A"
+            ],
+            "kept_heterogens": [],
+            "prepared_atoms": 2054,
+            "explicit_residue_templates": {},
+            "removed_reference_ligand": {
+              "residue_name": "PK0",
+              "chain": "A",
+              "residue_number": 950,
+              "padding": 5
+            },
+            "repair": {
+              "engine": "PDBFixer",
+              "engine_version": "1.12.0",
+              "ph": 7.4,
+              "missing_residue_segments_not_built": [],
+              "replaced_nonstandard_residues": [],
+              "added_missing_heavy_atoms": [],
+              "added_terminal_atoms": [],
+              "preserved_heterogen_atoms": 0,
+              "heterogen_policy": "Heterogens were excluded from PDBFixer and restored unchanged after protein repair.",
+              "relaxation": {
+                "method": "restrained OpenMM minimization",
+                "restrained_observed_heavy_atoms": 1994,
+                "max_iterations": 20,
+                "initial_potential_kj_mol": 349566.781,
+                "final_potential_kj_mol": 349616.206
+              },
+              "policy": "Missing atoms and hydrogens were added; unresolved residue segments were recorded but not modeled."
+            },
+            "hydrogen_and_charge_method": "PDBFixer hydrogens at pH 7.4; Meeko atom typing and charges",
+            "relaxation": "Restrained local OpenMM minimization; parameters and energies are recorded in the repair audit."
+          }
+        },
+        "site": {
+          "center": {
+            "x": 27.017,
+            "y": 2.744,
+            "z": 5.935
+          },
+          "size": {
+            "x": 18.008,
+            "y": 19.993,
+            "z": 17.108
+          },
+          "derived_from": {
+            "residue_name": "PK0",
+            "chain": "A",
+            "residue_number": 950,
+            "heavy_atoms": 28,
+            "padding_angstrom": 5
+          }
+        },
+        "method": {
+          "engine": "AutoDock Vina",
+          "engine_version": "1.2.7",
+          "scoring_function": "vina",
+          "exhaustiveness": 4,
+          "requested_poses": 3,
+          "energy_range_kcal_mol": 4
+        },
+        "poses": [
+          {
+            "rank": 1,
+            "score_kcal_mol": -4.653,
+            "intermolecular_kcal_mol": -6.557,
+            "intramolecular_kcal_mol": 1.099,
+            "torsional_kcal_mol": 1.904,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.3102
+          },
+          {
+            "rank": 2,
+            "score_kcal_mol": -4.648,
+            "intermolecular_kcal_mol": -6.501,
+            "intramolecular_kcal_mol": 1.049,
+            "torsional_kcal_mol": 1.902,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.3099
+          },
+          {
+            "rank": 3,
+            "score_kcal_mol": -3.937,
+            "intermolecular_kcal_mol": -6.313,
+            "intramolecular_kcal_mol": 1.864,
+            "torsional_kcal_mol": 1.611,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.2625
+          }
+        ],
+        "best_score_kcal_mol": -4.653,
+        "interpretation": {
+          "score_meaning": "Vina scores rank predicted poses under this exact preparation protocol.",
+          "not_an_affinity": "Scores are not experimental binding affinity and must not be converted to Ki, Kd, or IC50.",
+          "comparison_rule": "Compare ligands only when receptor, box, protonation, scoring, and search settings are identical.",
+          "validation": "Use known active/inactive controls, redocking RMSD, orthogonal scoring, and experimental binding assays."
+        },
+        "sources": [
+          {
+            "id": "DOCK1",
+            "title": "AutoDock Vina",
+            "url": "https://autodock-vina.readthedocs.io/"
+          },
+          {
+            "id": "DOCK2",
+            "title": "Meeko receptor and ligand preparation",
+            "url": "https://meeko.readthedocs.io/"
+          },
+          {
+            "id": "DOCK3",
+            "title": "RCSB Protein Data Bank",
+            "url": "https://www.rcsb.org/structure/3V49"
+          }
+        ],
+        "artifacts": [],
+        "provenance": {
+          "operation": "dock",
+          "service_version": "1.1.0",
+          "rdkit_version": "2025.09.5",
+          "computed_at": "2026-07-18T17:27:35.680391+00:00",
+          "computation_ms": 6574.55
+        }
+      },
+      {
+        "ligand": {
+          "label": "caryophyllene oxide",
+          "identifiers": {
+            "canonical_smiles": "C=C1CC[C@H]2O[C@]2(C)CC[C@@H]2[C@@H]1CC2(C)C",
+            "isomeric_smiles": "C=C1CC[C@H]2O[C@]2(C)CC[C@@H]2[C@@H]1CC2(C)C",
+            "inchi": "InChI=1S/C15H24O/c1-10-5-6-13-15(4,16-13)8-7-12-11(10)9-14(12,2)3/h11-13H,1,5-9H2,2-4H3/t11-,12-,13-,15-/m1/s1",
+            "inchi_key": "NVEQFIOZRFFVFW-RGCMKSIDSA-N",
+            "formula": "C15H24O",
+            "cxsmiles": "C=C1CC[C@H]2O[C@]2(C)CC[C@@H]2[C@@H]1CC2(C)C"
+          },
+          "heavy_atoms": 16,
+          "molecular_weight": 220.356,
+          "preparation": {
+            "engines": [
+              "RDKit ETKDGv3",
+              "Meeko"
+            ],
+            "seed": 20260717
+          },
+          "resolution": {
+            "cid": 1742210,
+            "snapshot": "2026-07-18"
+          }
+        },
+        "receptor": {
+          "source": {
+            "database": "RCSB Protein Data Bank",
+            "pdb_id": "3V49",
+            "title": "Structure of ar lbd with activator peptide and sarm inhibitor 1",
+            "structure_url": "https://www.rcsb.org/structure/3V49",
+            "coordinate_url": "https://files.rcsb.org/download/3V49.pdb",
+            "retrieved_at": "2026-07-18T17:26:37.179253+00:00"
+          },
+          "preparation": {
+            "engine": "Meeko",
+            "engine_version": "0.7.1",
+            "rigid_receptor": true,
+            "chains": [
+              "A"
+            ],
+            "kept_heterogens": [],
+            "prepared_atoms": 2054,
+            "explicit_residue_templates": {},
+            "removed_reference_ligand": {
+              "residue_name": "PK0",
+              "chain": "A",
+              "residue_number": 950,
+              "padding": 5
+            },
+            "repair": {
+              "engine": "PDBFixer",
+              "engine_version": "1.12.0",
+              "ph": 7.4,
+              "missing_residue_segments_not_built": [],
+              "replaced_nonstandard_residues": [],
+              "added_missing_heavy_atoms": [],
+              "added_terminal_atoms": [],
+              "preserved_heterogen_atoms": 0,
+              "heterogen_policy": "Heterogens were excluded from PDBFixer and restored unchanged after protein repair.",
+              "relaxation": {
+                "method": "restrained OpenMM minimization",
+                "restrained_observed_heavy_atoms": 1994,
+                "max_iterations": 20,
+                "initial_potential_kj_mol": 349566.781,
+                "final_potential_kj_mol": 349616.206
+              },
+              "policy": "Missing atoms and hydrogens were added; unresolved residue segments were recorded but not modeled."
+            },
+            "hydrogen_and_charge_method": "PDBFixer hydrogens at pH 7.4; Meeko atom typing and charges",
+            "relaxation": "Restrained local OpenMM minimization; parameters and energies are recorded in the repair audit."
+          }
+        },
+        "site": {
+          "center": {
+            "x": 27.017,
+            "y": 2.744,
+            "z": 5.935
+          },
+          "size": {
+            "x": 18.008,
+            "y": 19.993,
+            "z": 17.108
+          },
+          "derived_from": {
+            "residue_name": "PK0",
+            "chain": "A",
+            "residue_number": 950,
+            "heavy_atoms": 28,
+            "padding_angstrom": 5
+          }
+        },
+        "method": {
+          "engine": "AutoDock Vina",
+          "engine_version": "1.2.7",
+          "scoring_function": "vina",
+          "exhaustiveness": 4,
+          "requested_poses": 3,
+          "energy_range_kcal_mol": 4
+        },
+        "poses": [
+          {
+            "rank": 1,
+            "score_kcal_mol": -4.927,
+            "intermolecular_kcal_mol": -6.655,
+            "intramolecular_kcal_mol": 0.396,
+            "torsional_kcal_mol": 1.728,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.3079
+          },
+          {
+            "rank": 2,
+            "score_kcal_mol": -4.637,
+            "intermolecular_kcal_mol": -6.283,
+            "intramolecular_kcal_mol": 0.417,
+            "torsional_kcal_mol": 1.626,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.2898
+          },
+          {
+            "rank": 3,
+            "score_kcal_mol": -4.537,
+            "intermolecular_kcal_mol": -6.189,
+            "intramolecular_kcal_mol": 0.457,
+            "torsional_kcal_mol": 1.591,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.2836
+          }
+        ],
+        "best_score_kcal_mol": -4.927,
+        "interpretation": {
+          "score_meaning": "Vina scores rank predicted poses under this exact preparation protocol.",
+          "not_an_affinity": "Scores are not experimental binding affinity and must not be converted to Ki, Kd, or IC50.",
+          "comparison_rule": "Compare ligands only when receptor, box, protonation, scoring, and search settings are identical.",
+          "validation": "Use known active/inactive controls, redocking RMSD, orthogonal scoring, and experimental binding assays."
+        },
+        "sources": [
+          {
+            "id": "DOCK1",
+            "title": "AutoDock Vina",
+            "url": "https://autodock-vina.readthedocs.io/"
+          },
+          {
+            "id": "DOCK2",
+            "title": "Meeko receptor and ligand preparation",
+            "url": "https://meeko.readthedocs.io/"
+          },
+          {
+            "id": "DOCK3",
+            "title": "RCSB Protein Data Bank",
+            "url": "https://www.rcsb.org/structure/3V49"
+          }
+        ],
+        "artifacts": [],
+        "provenance": {
+          "operation": "dock",
+          "service_version": "1.1.0",
+          "rdkit_version": "2025.09.5",
+          "computed_at": "2026-07-18T17:27:42.570915+00:00",
+          "computation_ms": 6890.47
+        }
+      },
+      {
+        "ligand": {
+          "label": "beta-caryophyllene",
+          "identifiers": {
+            "canonical_smiles": "C=C1CC/C=C(\\C)CC[C@@H]2[C@@H]1CC2(C)C",
+            "isomeric_smiles": "C=C1CC/C=C(\\C)CC[C@@H]2[C@@H]1CC2(C)C",
+            "inchi": "InChI=1S/C15H24/c1-11-6-5-7-12(2)13-10-15(3,4)14(13)9-8-11/h6,13-14H,2,5,7-10H2,1,3-4H3/b11-6+/t13-,14-/m1/s1",
+            "inchi_key": "NPNUFJAVOOONJE-GFUGXAQUSA-N",
+            "formula": "C15H24",
+            "cxsmiles": "C=C1CC/C=C(\\C)CC[C@@H]2[C@@H]1CC2(C)C"
+          },
+          "heavy_atoms": 15,
+          "molecular_weight": 204.357,
+          "preparation": {
+            "engines": [
+              "RDKit ETKDGv3",
+              "Meeko"
+            ],
+            "seed": 20260717
+          },
+          "resolution": {
+            "cid": 5281515,
+            "snapshot": "2026-07-18"
+          }
+        },
+        "receptor": {
+          "source": {
+            "database": "RCSB Protein Data Bank",
+            "pdb_id": "3V49",
+            "title": "Structure of ar lbd with activator peptide and sarm inhibitor 1",
+            "structure_url": "https://www.rcsb.org/structure/3V49",
+            "coordinate_url": "https://files.rcsb.org/download/3V49.pdb",
+            "retrieved_at": "2026-07-18T17:26:37.179253+00:00"
+          },
+          "preparation": {
+            "engine": "Meeko",
+            "engine_version": "0.7.1",
+            "rigid_receptor": true,
+            "chains": [
+              "A"
+            ],
+            "kept_heterogens": [],
+            "prepared_atoms": 2054,
+            "explicit_residue_templates": {},
+            "removed_reference_ligand": {
+              "residue_name": "PK0",
+              "chain": "A",
+              "residue_number": 950,
+              "padding": 5
+            },
+            "repair": {
+              "engine": "PDBFixer",
+              "engine_version": "1.12.0",
+              "ph": 7.4,
+              "missing_residue_segments_not_built": [],
+              "replaced_nonstandard_residues": [],
+              "added_missing_heavy_atoms": [],
+              "added_terminal_atoms": [],
+              "preserved_heterogen_atoms": 0,
+              "heterogen_policy": "Heterogens were excluded from PDBFixer and restored unchanged after protein repair.",
+              "relaxation": {
+                "method": "restrained OpenMM minimization",
+                "restrained_observed_heavy_atoms": 1994,
+                "max_iterations": 20,
+                "initial_potential_kj_mol": 349566.781,
+                "final_potential_kj_mol": 349616.206
+              },
+              "policy": "Missing atoms and hydrogens were added; unresolved residue segments were recorded but not modeled."
+            },
+            "hydrogen_and_charge_method": "PDBFixer hydrogens at pH 7.4; Meeko atom typing and charges",
+            "relaxation": "Restrained local OpenMM minimization; parameters and energies are recorded in the repair audit."
+          }
+        },
+        "site": {
+          "center": {
+            "x": 27.017,
+            "y": 2.744,
+            "z": 5.935
+          },
+          "size": {
+            "x": 18.008,
+            "y": 19.993,
+            "z": 17.108
+          },
+          "derived_from": {
+            "residue_name": "PK0",
+            "chain": "A",
+            "residue_number": 950,
+            "heavy_atoms": 28,
+            "padding_angstrom": 5
+          }
+        },
+        "method": {
+          "engine": "AutoDock Vina",
+          "engine_version": "1.2.7",
+          "scoring_function": "vina",
+          "exhaustiveness": 4,
+          "requested_poses": 3,
+          "energy_range_kcal_mol": 4
+        },
+        "poses": [
+          {
+            "rank": 1,
+            "score_kcal_mol": -5.62,
+            "intermolecular_kcal_mol": -7.591,
+            "intramolecular_kcal_mol": 0.906,
+            "torsional_kcal_mol": 1.971,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.3747
+          },
+          {
+            "rank": 2,
+            "score_kcal_mol": -4.674,
+            "intermolecular_kcal_mol": -6.258,
+            "intramolecular_kcal_mol": 0.85,
+            "torsional_kcal_mol": 1.639,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.3116
+          },
+          {
+            "rank": 3,
+            "score_kcal_mol": -3.955,
+            "intermolecular_kcal_mol": -6.859,
+            "intramolecular_kcal_mol": 2.423,
+            "torsional_kcal_mol": 1.387,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.2637
+          }
+        ],
+        "best_score_kcal_mol": -5.62,
+        "interpretation": {
+          "score_meaning": "Vina scores rank predicted poses under this exact preparation protocol.",
+          "not_an_affinity": "Scores are not experimental binding affinity and must not be converted to Ki, Kd, or IC50.",
+          "comparison_rule": "Compare ligands only when receptor, box, protonation, scoring, and search settings are identical.",
+          "validation": "Use known active/inactive controls, redocking RMSD, orthogonal scoring, and experimental binding assays."
+        },
+        "sources": [
+          {
+            "id": "DOCK1",
+            "title": "AutoDock Vina",
+            "url": "https://autodock-vina.readthedocs.io/"
+          },
+          {
+            "id": "DOCK2",
+            "title": "Meeko receptor and ligand preparation",
+            "url": "https://meeko.readthedocs.io/"
+          },
+          {
+            "id": "DOCK3",
+            "title": "RCSB Protein Data Bank",
+            "url": "https://www.rcsb.org/structure/3V49"
+          }
+        ],
+        "artifacts": [],
+        "provenance": {
+          "operation": "dock",
+          "service_version": "1.1.0",
+          "rdkit_version": "2025.09.5",
+          "computed_at": "2026-07-18T17:27:49.436966+00:00",
+          "computation_ms": 6865.99
+        }
+      },
+      {
+        "ligand": {
+          "label": "CHEMBL2177238",
+          "identifiers": {
+            "canonical_smiles": "CN1C(=O)N(c2ccc(C#N)c(C(F)(F)F)c2)C(=O)[C@@]1(C)c1ccc(O)cc1",
+            "isomeric_smiles": "CN1C(=O)N(c2ccc(C#N)c(C(F)(F)F)c2)C(=O)[C@@]1(C)c1ccc(O)cc1",
+            "inchi": "InChI=1S/C19H14F3N3O3/c1-18(12-4-7-14(26)8-5-12)16(27)25(17(28)24(18)2)13-6-3-11(10-23)15(9-13)19(20,21)22/h3-9,26H,1-2H3/t18-/m1/s1",
+            "inchi_key": "IHPVXUVRRPAUIQ-GOSISDBHSA-N",
+            "formula": "C19H14F3N3O3",
+            "cxsmiles": "CN1C(=O)N(c2ccc(C#N)c(C(F)(F)F)c2)C(=O)[C@@]1(C)c1ccc(O)cc1"
+          },
+          "heavy_atoms": 28,
+          "molecular_weight": 389.333,
+          "preparation": {
+            "engines": [
+              "RDKit ETKDGv3",
+              "Meeko"
+            ],
+            "seed": 20260717
+          },
+          "resolution": {
+            "cid": 24811980,
+            "snapshot": "2026-07-18"
+          }
+        },
+        "receptor": {
+          "source": {
+            "database": "RCSB Protein Data Bank",
+            "pdb_id": "3V49",
+            "title": "Structure of ar lbd with activator peptide and sarm inhibitor 1",
+            "structure_url": "https://www.rcsb.org/structure/3V49",
+            "coordinate_url": "https://files.rcsb.org/download/3V49.pdb",
+            "retrieved_at": "2026-07-18T17:26:37.179253+00:00"
+          },
+          "preparation": {
+            "engine": "Meeko",
+            "engine_version": "0.7.1",
+            "rigid_receptor": true,
+            "chains": [
+              "A"
+            ],
+            "kept_heterogens": [],
+            "prepared_atoms": 2054,
+            "explicit_residue_templates": {},
+            "removed_reference_ligand": {
+              "residue_name": "PK0",
+              "chain": "A",
+              "residue_number": 950,
+              "padding": 5
+            },
+            "repair": {
+              "engine": "PDBFixer",
+              "engine_version": "1.12.0",
+              "ph": 7.4,
+              "missing_residue_segments_not_built": [],
+              "replaced_nonstandard_residues": [],
+              "added_missing_heavy_atoms": [],
+              "added_terminal_atoms": [],
+              "preserved_heterogen_atoms": 0,
+              "heterogen_policy": "Heterogens were excluded from PDBFixer and restored unchanged after protein repair.",
+              "relaxation": {
+                "method": "restrained OpenMM minimization",
+                "restrained_observed_heavy_atoms": 1994,
+                "max_iterations": 20,
+                "initial_potential_kj_mol": 349566.781,
+                "final_potential_kj_mol": 349616.206
+              },
+              "policy": "Missing atoms and hydrogens were added; unresolved residue segments were recorded but not modeled."
+            },
+            "hydrogen_and_charge_method": "PDBFixer hydrogens at pH 7.4; Meeko atom typing and charges",
+            "relaxation": "Restrained local OpenMM minimization; parameters and energies are recorded in the repair audit."
+          }
+        },
+        "site": {
+          "center": {
+            "x": 27.017,
+            "y": 2.744,
+            "z": 5.935
+          },
+          "size": {
+            "x": 18.008,
+            "y": 19.993,
+            "z": 17.108
+          },
+          "derived_from": {
+            "residue_name": "PK0",
+            "chain": "A",
+            "residue_number": 950,
+            "heavy_atoms": 28,
+            "padding_angstrom": 5
+          }
+        },
+        "method": {
+          "engine": "AutoDock Vina",
+          "engine_version": "1.2.7",
+          "scoring_function": "vina",
+          "exhaustiveness": 4,
+          "requested_poses": 3,
+          "energy_range_kcal_mol": 4
+        },
+        "poses": [
+          {
+            "rank": 1,
+            "score_kcal_mol": -6.109,
+            "intermolecular_kcal_mol": -7.359,
+            "intramolecular_kcal_mol": 0.659,
+            "torsional_kcal_mol": 1.25,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.2182
+          },
+          {
+            "rank": 2,
+            "score_kcal_mol": -5.281,
+            "intermolecular_kcal_mol": -6.315,
+            "intramolecular_kcal_mol": 0.612,
+            "torsional_kcal_mol": 1.081,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.1886
+          },
+          {
+            "rank": 3,
+            "score_kcal_mol": -5.099,
+            "intermolecular_kcal_mol": -6.548,
+            "intramolecular_kcal_mol": 1.064,
+            "torsional_kcal_mol": 1.043,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.1821
+          }
+        ],
+        "best_score_kcal_mol": -6.109,
+        "interpretation": {
+          "score_meaning": "Vina scores rank predicted poses under this exact preparation protocol.",
+          "not_an_affinity": "Scores are not experimental binding affinity and must not be converted to Ki, Kd, or IC50.",
+          "comparison_rule": "Compare ligands only when receptor, box, protonation, scoring, and search settings are identical.",
+          "validation": "Use known active/inactive controls, redocking RMSD, orthogonal scoring, and experimental binding assays."
+        },
+        "sources": [
+          {
+            "id": "DOCK1",
+            "title": "AutoDock Vina",
+            "url": "https://autodock-vina.readthedocs.io/"
+          },
+          {
+            "id": "DOCK2",
+            "title": "Meeko receptor and ligand preparation",
+            "url": "https://meeko.readthedocs.io/"
+          },
+          {
+            "id": "DOCK3",
+            "title": "RCSB Protein Data Bank",
+            "url": "https://www.rcsb.org/structure/3V49"
+          }
+        ],
+        "artifacts": [],
+        "provenance": {
+          "operation": "dock",
+          "service_version": "1.1.0",
+          "rdkit_version": "2025.09.5",
+          "computed_at": "2026-07-18T17:27:58.522249+00:00",
+          "computation_ms": 9079.2
+        }
+      },
+      {
+        "ligand": {
+          "label": "testosterone propionate",
+          "identifiers": {
+            "canonical_smiles": "CCC(=O)O[C@H]1CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C",
+            "isomeric_smiles": "CCC(=O)O[C@H]1CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C",
+            "inchi": "InChI=1S/C22H32O3/c1-4-20(24)25-19-8-7-17-16-6-5-14-13-15(23)9-11-21(14,2)18(16)10-12-22(17,19)3/h13,16-19H,4-12H2,1-3H3/t16-,17-,18-,19-,21-,22-/m0/s1",
+            "inchi_key": "PDMMFKSKQVNJMI-BLQWBTBKSA-N",
+            "formula": "C22H32O3",
+            "cxsmiles": "CCC(=O)O[C@H]1CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C"
+          },
+          "heavy_atoms": 25,
+          "molecular_weight": 344.495,
+          "preparation": {
+            "engines": [
+              "RDKit ETKDGv3",
+              "Meeko"
+            ],
+            "seed": 20260717
+          },
+          "resolution": {
+            "cid": 5995,
+            "snapshot": "2026-07-18"
+          }
+        },
+        "receptor": {
+          "source": {
+            "database": "RCSB Protein Data Bank",
+            "pdb_id": "3V49",
+            "title": "Structure of ar lbd with activator peptide and sarm inhibitor 1",
+            "structure_url": "https://www.rcsb.org/structure/3V49",
+            "coordinate_url": "https://files.rcsb.org/download/3V49.pdb",
+            "retrieved_at": "2026-07-18T17:26:37.179253+00:00"
+          },
+          "preparation": {
+            "engine": "Meeko",
+            "engine_version": "0.7.1",
+            "rigid_receptor": true,
+            "chains": [
+              "A"
+            ],
+            "kept_heterogens": [],
+            "prepared_atoms": 2054,
+            "explicit_residue_templates": {},
+            "removed_reference_ligand": {
+              "residue_name": "PK0",
+              "chain": "A",
+              "residue_number": 950,
+              "padding": 5
+            },
+            "repair": {
+              "engine": "PDBFixer",
+              "engine_version": "1.12.0",
+              "ph": 7.4,
+              "missing_residue_segments_not_built": [],
+              "replaced_nonstandard_residues": [],
+              "added_missing_heavy_atoms": [],
+              "added_terminal_atoms": [],
+              "preserved_heterogen_atoms": 0,
+              "heterogen_policy": "Heterogens were excluded from PDBFixer and restored unchanged after protein repair.",
+              "relaxation": {
+                "method": "restrained OpenMM minimization",
+                "restrained_observed_heavy_atoms": 1994,
+                "max_iterations": 20,
+                "initial_potential_kj_mol": 349566.781,
+                "final_potential_kj_mol": 349616.206
+              },
+              "policy": "Missing atoms and hydrogens were added; unresolved residue segments were recorded but not modeled."
+            },
+            "hydrogen_and_charge_method": "PDBFixer hydrogens at pH 7.4; Meeko atom typing and charges",
+            "relaxation": "Restrained local OpenMM minimization; parameters and energies are recorded in the repair audit."
+          }
+        },
+        "site": {
+          "center": {
+            "x": 27.017,
+            "y": 2.744,
+            "z": 5.935
+          },
+          "size": {
+            "x": 18.008,
+            "y": 19.993,
+            "z": 17.108
+          },
+          "derived_from": {
+            "residue_name": "PK0",
+            "chain": "A",
+            "residue_number": 950,
+            "heavy_atoms": 28,
+            "padding_angstrom": 5
+          }
+        },
+        "method": {
+          "engine": "AutoDock Vina",
+          "engine_version": "1.2.7",
+          "scoring_function": "vina",
+          "exhaustiveness": 4,
+          "requested_poses": 3,
+          "energy_range_kcal_mol": 4
+        },
+        "poses": [
+          {
+            "rank": 1,
+            "score_kcal_mol": -5.292,
+            "intermolecular_kcal_mol": -6.22,
+            "intramolecular_kcal_mol": -0.524,
+            "torsional_kcal_mol": 0.928,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.2117
+          },
+          {
+            "rank": 2,
+            "score_kcal_mol": -4.68,
+            "intermolecular_kcal_mol": -5.723,
+            "intramolecular_kcal_mol": -0.301,
+            "torsional_kcal_mol": 0.821,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.1872
+          },
+          {
+            "rank": 3,
+            "score_kcal_mol": -3.098,
+            "intermolecular_kcal_mol": -4.379,
+            "intramolecular_kcal_mol": 0.214,
+            "torsional_kcal_mol": 0.543,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.1239
+          }
+        ],
+        "best_score_kcal_mol": -5.292,
+        "interpretation": {
+          "score_meaning": "Vina scores rank predicted poses under this exact preparation protocol.",
+          "not_an_affinity": "Scores are not experimental binding affinity and must not be converted to Ki, Kd, or IC50.",
+          "comparison_rule": "Compare ligands only when receptor, box, protonation, scoring, and search settings are identical.",
+          "validation": "Use known active/inactive controls, redocking RMSD, orthogonal scoring, and experimental binding assays."
+        },
+        "sources": [
+          {
+            "id": "DOCK1",
+            "title": "AutoDock Vina",
+            "url": "https://autodock-vina.readthedocs.io/"
+          },
+          {
+            "id": "DOCK2",
+            "title": "Meeko receptor and ligand preparation",
+            "url": "https://meeko.readthedocs.io/"
+          },
+          {
+            "id": "DOCK3",
+            "title": "RCSB Protein Data Bank",
+            "url": "https://www.rcsb.org/structure/3V49"
+          }
+        ],
+        "artifacts": [],
+        "provenance": {
+          "operation": "dock",
+          "service_version": "1.1.0",
+          "rdkit_version": "2025.09.5",
+          "computed_at": "2026-07-18T17:28:03.656265+00:00",
+          "computation_ms": 5133.96
+        }
+      },
+      {
+        "ligand": {
+          "label": "flutamide",
+          "identifiers": {
+            "canonical_smiles": "CC(C)C(=O)Nc1ccc([N+](=O)[O-])c(C(F)(F)F)c1",
+            "isomeric_smiles": "CC(C)C(=O)Nc1ccc([N+](=O)[O-])c(C(F)(F)F)c1",
+            "inchi": "InChI=1S/C11H11F3N2O3/c1-6(2)10(17)15-7-3-4-9(16(18)19)8(5-7)11(12,13)14/h3-6H,1-2H3,(H,15,17)",
+            "inchi_key": "MKXKFYHWDHIYRV-UHFFFAOYSA-N",
+            "formula": "C11H11F3N2O3",
+            "cxsmiles": "CC(C)C(=O)Nc1ccc([N+](=O)[O-])c(C(F)(F)F)c1"
+          },
+          "heavy_atoms": 19,
+          "molecular_weight": 276.214,
+          "preparation": {
+            "engines": [
+              "RDKit ETKDGv3",
+              "Meeko"
+            ],
+            "seed": 20260717
+          },
+          "resolution": {
+            "cid": 3397,
+            "snapshot": "2026-07-18"
+          }
+        },
+        "receptor": {
+          "source": {
+            "database": "RCSB Protein Data Bank",
+            "pdb_id": "3V49",
+            "title": "Structure of ar lbd with activator peptide and sarm inhibitor 1",
+            "structure_url": "https://www.rcsb.org/structure/3V49",
+            "coordinate_url": "https://files.rcsb.org/download/3V49.pdb",
+            "retrieved_at": "2026-07-18T17:26:37.179253+00:00"
+          },
+          "preparation": {
+            "engine": "Meeko",
+            "engine_version": "0.7.1",
+            "rigid_receptor": true,
+            "chains": [
+              "A"
+            ],
+            "kept_heterogens": [],
+            "prepared_atoms": 2054,
+            "explicit_residue_templates": {},
+            "removed_reference_ligand": {
+              "residue_name": "PK0",
+              "chain": "A",
+              "residue_number": 950,
+              "padding": 5
+            },
+            "repair": {
+              "engine": "PDBFixer",
+              "engine_version": "1.12.0",
+              "ph": 7.4,
+              "missing_residue_segments_not_built": [],
+              "replaced_nonstandard_residues": [],
+              "added_missing_heavy_atoms": [],
+              "added_terminal_atoms": [],
+              "preserved_heterogen_atoms": 0,
+              "heterogen_policy": "Heterogens were excluded from PDBFixer and restored unchanged after protein repair.",
+              "relaxation": {
+                "method": "restrained OpenMM minimization",
+                "restrained_observed_heavy_atoms": 1994,
+                "max_iterations": 20,
+                "initial_potential_kj_mol": 349566.781,
+                "final_potential_kj_mol": 349616.206
+              },
+              "policy": "Missing atoms and hydrogens were added; unresolved residue segments were recorded but not modeled."
+            },
+            "hydrogen_and_charge_method": "PDBFixer hydrogens at pH 7.4; Meeko atom typing and charges",
+            "relaxation": "Restrained local OpenMM minimization; parameters and energies are recorded in the repair audit."
+          }
+        },
+        "site": {
+          "center": {
+            "x": 27.017,
+            "y": 2.744,
+            "z": 5.935
+          },
+          "size": {
+            "x": 18.008,
+            "y": 19.993,
+            "z": 17.108
+          },
+          "derived_from": {
+            "residue_name": "PK0",
+            "chain": "A",
+            "residue_number": 950,
+            "heavy_atoms": 28,
+            "padding_angstrom": 5
+          }
+        },
+        "method": {
+          "engine": "AutoDock Vina",
+          "engine_version": "1.2.7",
+          "scoring_function": "vina",
+          "exhaustiveness": 4,
+          "requested_poses": 3,
+          "energy_range_kcal_mol": 4
+        },
+        "poses": [
+          {
+            "rank": 1,
+            "score_kcal_mol": -8.003,
+            "intermolecular_kcal_mol": -9.874,
+            "intramolecular_kcal_mol": -0.423,
+            "torsional_kcal_mol": 1.871,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.4212
+          },
+          {
+            "rank": 2,
+            "score_kcal_mol": -7.775,
+            "intermolecular_kcal_mol": -9.594,
+            "intramolecular_kcal_mol": -0.422,
+            "torsional_kcal_mol": 1.818,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.4092
+          },
+          {
+            "rank": 3,
+            "score_kcal_mol": -7.054,
+            "intermolecular_kcal_mol": -8.67,
+            "intramolecular_kcal_mol": -0.457,
+            "torsional_kcal_mol": 1.649,
+            "ligand_efficiency_kcal_mol_per_heavy_atom": 0.3713
+          }
+        ],
+        "best_score_kcal_mol": -8.003,
+        "interpretation": {
+          "score_meaning": "Vina scores rank predicted poses under this exact preparation protocol.",
+          "not_an_affinity": "Scores are not experimental binding affinity and must not be converted to Ki, Kd, or IC50.",
+          "comparison_rule": "Compare ligands only when receptor, box, protonation, scoring, and search settings are identical.",
+          "validation": "Use known active/inactive controls, redocking RMSD, orthogonal scoring, and experimental binding assays."
+        },
+        "sources": [
+          {
+            "id": "DOCK1",
+            "title": "AutoDock Vina",
+            "url": "https://autodock-vina.readthedocs.io/"
+          },
+          {
+            "id": "DOCK2",
+            "title": "Meeko receptor and ligand preparation",
+            "url": "https://meeko.readthedocs.io/"
+          },
+          {
+            "id": "DOCK3",
+            "title": "RCSB Protein Data Bank",
+            "url": "https://www.rcsb.org/structure/3V49"
+          }
+        ],
+        "artifacts": [],
+        "provenance": {
+          "operation": "dock",
+          "service_version": "1.1.0",
+          "rdkit_version": "2025.09.5",
+          "computed_at": "2026-07-18T17:28:07.739705+00:00",
+          "computation_ms": 4083.35
+        }
+      }
+    ],
+    "count": 26,
+    "receptor": {
+      "source": {
+        "database": "RCSB Protein Data Bank",
+        "pdb_id": "3V49",
+        "title": "Structure of ar lbd with activator peptide and sarm inhibitor 1",
+        "structure_url": "https://www.rcsb.org/structure/3V49",
+        "coordinate_url": "https://files.rcsb.org/download/3V49.pdb",
+        "retrieved_at": "2026-07-18T17:26:37.179253+00:00"
+      },
+      "preparation": {
+        "engine": "Meeko",
+        "engine_version": "0.7.1",
+        "rigid_receptor": true,
+        "chains": [
+          "A"
+        ],
+        "kept_heterogens": [],
+        "prepared_atoms": 2054,
+        "explicit_residue_templates": {},
+        "removed_reference_ligand": {
+          "residue_name": "PK0",
+          "chain": "A",
+          "residue_number": 950,
+          "padding": 5
+        },
+        "repair": {
+          "engine": "PDBFixer",
+          "engine_version": "1.12.0",
+          "ph": 7.4,
+          "missing_residue_segments_not_built": [],
+          "replaced_nonstandard_residues": [],
+          "added_missing_heavy_atoms": [],
+          "added_terminal_atoms": [],
+          "preserved_heterogen_atoms": 0,
+          "heterogen_policy": "Heterogens were excluded from PDBFixer and restored unchanged after protein repair.",
+          "relaxation": {
+            "method": "restrained OpenMM minimization",
+            "restrained_observed_heavy_atoms": 1994,
+            "max_iterations": 20,
+            "initial_potential_kj_mol": 349566.781,
+            "final_potential_kj_mol": 349616.206
+          },
+          "policy": "Missing atoms and hydrogens were added; unresolved residue segments were recorded but not modeled."
+        },
+        "hydrogen_and_charge_method": "PDBFixer hydrogens at pH 7.4; Meeko atom typing and charges",
+        "relaxation": "Restrained local OpenMM minimization; parameters and energies are recorded in the repair audit."
+      }
+    },
+    "site": {
+      "center": {
+        "x": 27.017,
+        "y": 2.744,
+        "z": 5.935
+      },
+      "size": {
+        "x": 18.008,
+        "y": 19.993,
+        "z": 17.108
+      },
+      "derived_from": {
+        "residue_name": "PK0",
+        "chain": "A",
+        "residue_number": 950,
+        "heavy_atoms": 28,
+        "padding_angstrom": 5
+      }
+    },
+    "method": {
+      "engine": "AutoDock Vina",
+      "engine_version": "1.2.7",
+      "scoring_function": "vina",
+      "exhaustiveness": 4,
+      "requested_poses": 3,
+      "seed": 20260717,
+      "execution": "serial ligand batch with one receptor preparation"
+    },
+    "provenance": {
+      "operation": "dock_batch",
+      "service_version": "1.1.0",
+      "rdkit_version": "2025.09.5",
+      "computed_at": "2026-07-18T17:28:07.740307+00:00",
+      "computation_ms": 91035.3
+    }
+  }
+}
