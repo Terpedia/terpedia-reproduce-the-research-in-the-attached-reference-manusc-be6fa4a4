@@ -2,7 +2,7 @@
 
 Terpedia study: `study_be6fa4a4-c9eb-45e6-916e-aec999992e4f`
 
-Research snapshot SHA-256: `4c08c84feac979e8ba665156a6b8f42c10c7ef741f3912a89b3b5b0ea2e2ee33`
-Notebook SHA-256: `5d5787b35deade1dee2f6d8d7a895947458e15be361de50bc39890e53ffbfee0`
+Research snapshot SHA-256: `8725fda7a8c61057a326afb6c6944068f64d1bc9835b25b5ea2168fbed693908`
+Notebook SHA-256: `f956f8222d7112349ef1ce2d331bfa3bcaa513a62d9a65bbda05d702a9ccafe8`
 
-[Open the reproducibility notebook in Google Colab](https://colab.research.google.com/github/Terpedia/terpedia-reproduce-the-research-in-the-attached-reference-manusc-be6fa4a4/blob/main/notebooks/study_be6fa4a4-c9eb-45e6-916e-aec999992e4f-reproducibility-r4.ipynb)
+[Open the reproducibility notebook in Google Colab](https://colab.research.google.com/github/Terpedia/terpedia-reproduce-the-research-in-the-attached-reference-manusc-be6fa4a4/blob/main/notebooks/study_be6fa4a4-c9eb-45e6-916e-aec999992e4f-reproducibility-r5.ipynb)
