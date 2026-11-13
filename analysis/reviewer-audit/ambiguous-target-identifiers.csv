@@ -1,0 +1,30 @@
+normalized_target_name,candidate_ids
+5hydroxytryptaminereceptor1a,CHEMBL214; CHEMBL273
+5hydroxytryptaminereceptor2a,CHEMBL224; CHEMBL322
+AR,CHEMBL1871; CHEMBL3072
+acetylcholinesterase,CHEMBL220; CHEMBL4078
+cannabinoidcb1receptor,CHEMBL218; CHEMBL3571
+d2dopaminereceptor,CHEMBL217; CHEMBL339
+dopamined2receptor,CHEMBL217; CHEMBL339
+dopaminetransporter,CHEMBL238; CHEMBL338
+histamineh3receptor,CHEMBL264; CHEMBL4124
+hmgcoareductase,CHEMBL3247; CHEMBL402
+lanosterolsynthase,CHEMBL3262; CHEMBL3593
+muopioidreceptor,CHEMBL233; CHEMBL270
+muscarinicacetylcholinereceptorm,CHEMBL1821; CHEMBL2035; CHEMBL216
+muscarinicacetylcholinereceptorm1,CHEMBL216; CHEMBL276
+norepinephrinetransporter,CHEMBL222; CHEMBL304
+prostaglandinghsynthase2,CHEMBL230; CHEMBL4102
+serotonin1a5ht1areceptor,CHEMBL214; CHEMBL273
+serotonin2a5ht2areceptor,CHEMBL224; CHEMBL322
+serotonintransporter,CHEMBL228; CHEMBL313
+sigmanonopioidintracellularrece,CHEMBL3602; CHEMBL4153
+sigmaopioidreceptor,CHEMBL287; CHEMBL3602
+sodiumdependentserotonintranspor,CHEMBL228; CHEMBL313
+solutecarrierorganicaniontransp,CHEMBL1697668; CHEMBL1743121
+squalenemonooxygenase,CHEMBL3592; CHEMBL4241
+transientreceptorpotentialcation,CHEMBL1250402; CHEMBL6007
+transientreceptorpotentialcationchannelsubfamilyamember1,CHEMBL5160; CHEMBL6007
+transientreceptorpotentialcationchannelsubfamilymmember8,CHEMBL1075319; CHEMBL5011
+vasopressinv1areceptor,CHEMBL1889; CHEMBL2868
+vitamindreceptor,CHEMBL1977; CHEMBL3150

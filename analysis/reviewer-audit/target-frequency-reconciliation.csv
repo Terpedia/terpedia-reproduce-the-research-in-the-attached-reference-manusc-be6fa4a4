@@ -1,0 +1,41 @@
+rank,target_name,terpenes_predicting,selected_top_five,source,audit_target_id,author_unique_ligand_count,recomputed_two_tool_count,identity_status,reported_minus_author,reported_minus_recomputed
+1,Cannabinoid receptor 2,18,True,"{'supplement': 2, 'sheet': 'Top 5 target proteins', 'row': 2}",CHEMBL253,19.0,18.0,identifier_matched_pending_source_curation,-1.0,0.0
+2,Androgen receptor,15,True,"{'supplement': 2, 'sheet': 'Top 5 target proteins', 'row': 3}",name:AR,,,unresolved_identity_do_not_compare_counts,,
+3,CYP19A1 / Aromatase,13,True,"{'supplement': 2, 'sheet': 'Top 5 target proteins', 'row': 4}",CHEMBL1978,11.0,11.0,identifier_matched_pending_source_curation,2.0,2.0
+4,Estrogen receptor β,11,True,"{'supplement': 2, 'sheet': 'Top 5 target proteins', 'row': 5}",CHEMBL242,10.0,11.0,identifier_matched_pending_source_curation,1.0,0.0
+5,11β-hydroxysteroid dehydrogenase 1,10,True,"{'supplement': 2, 'sheet': 'Top 5 target proteins', 'row': 6}",CHEMBL4235,7.0,7.0,identifier_matched_pending_source_curation,3.0,3.0
+6,Serotonin transporter,9,False,"{'supplement': 2, 'sheet': 'Top 5 target proteins', 'row': 7}",name:serotonintransporter,,,unresolved_identity_do_not_compare_counts,,
+7,Carbonic anhydrase II,8,False,"{'supplement': 2, 'sheet': 'Top 5 target proteins', 'row': 8}",CHEMBL205,10.0,12.0,identifier_matched_pending_source_curation,-2.0,-4.0
+8,Carbonic anhydrase I,8,False,"{'supplement': 2, 'sheet': 'Top 5 target proteins', 'row': 9}",CHEMBL261,9.0,9.0,identifier_matched_pending_source_curation,-1.0,-1.0
+9,Cannabinoid receptor 1,8,False,"{'supplement': 2, 'sheet': 'Top 5 target proteins', 'row': 10}",CHEMBL218,8.0,9.0,identifier_matched_pending_source_curation,0.0,-1.0
+10,Mu opioid receptor,7,False,"{'supplement': 2, 'sheet': 'Top 5 target proteins', 'row': 11}",name:muopioidreceptor,,,unresolved_identity_do_not_compare_counts,,
+11,PPARα,7,False,"{'supplement': 2, 'sheet': 'Top 5 target proteins', 'row': 12}",name:pparalpha,,,unresolved_identity_do_not_compare_counts,,
+12,Dopamine D2 receptor,7,False,"{'supplement': 2, 'sheet': 'Top 5 target proteins', 'row': 13}",name:dopamined2receptor,,,unresolved_identity_do_not_compare_counts,,
+13,GPR55,7,False,"{'supplement': 2, 'sheet': 'Top 5 target proteins', 'row': 14}",name:gpr55,,,unresolved_identity_do_not_compare_counts,,
+14,CYP3A4,7,False,"{'supplement': 2, 'sheet': 'Top 5 target proteins', 'row': 15}",name:cyp3a4,,,unresolved_identity_do_not_compare_counts,,
+15,Testis-specific ABP,6,False,"{'supplement': 2, 'sheet': 'Top 5 target proteins', 'row': 16}",name:testisspecificabp,,,unresolved_identity_do_not_compare_counts,,
+16,Estrogen receptor α,6,False,"{'supplement': 2, 'sheet': 'Top 5 target proteins', 'row': 17}",CHEMBL206,7.0,7.0,identifier_matched_pending_source_curation,-1.0,-1.0
+17,Potassium voltage-gated channel,6,False,"{'supplement': 2, 'sheet': 'Top 5 target proteins', 'row': 18}",name:potassiumvoltagegatedchannel,,,unresolved_identity_do_not_compare_counts,,
+18,Delta opioid receptor,6,False,"{'supplement': 2, 'sheet': 'Top 5 target proteins', 'row': 19}",CHEMBL236,7.0,7.0,identifier_matched_pending_source_curation,-1.0,-1.0
+19,5-HT2A receptor,6,False,"{'supplement': 2, 'sheet': 'Top 5 target proteins', 'row': 20}",name:5ht2areceptor,,,unresolved_identity_do_not_compare_counts,,
+20,Polyunsaturated fatty acid 5-lipoxygenase (5-LOX),5,False,"{'supplement': 2, 'sheet': 'Top 5 target proteins', 'row': 21}",name:polyunsaturatedfattyacid5lipoxygenase5lox,,,unresolved_identity_do_not_compare_counts,,
+21,MAPK14,3,False,"{'supplement': 2, 'sheet': 'Top 5 target proteins', 'row': 22}",name:mapk14,,,unresolved_identity_do_not_compare_counts,,
+22,Glucocorticoid receptor,3,False,"{'supplement': 2, 'sheet': 'Top 5 target proteins', 'row': 23}",CHEMBL2034,3.0,3.0,identifier_matched_pending_source_curation,0.0,0.0
+23,PPARγ,3,False,"{'supplement': 2, 'sheet': 'Top 5 target proteins', 'row': 24}",name:ppargamma,,,unresolved_identity_do_not_compare_counts,,
+24,PPARδ,3,False,"{'supplement': 2, 'sheet': 'Top 5 target proteins', 'row': 25}",name:ppar,,,unresolved_identity_do_not_compare_counts,,
+25,Vitamin D receptor,2,False,"{'supplement': 2, 'sheet': 'Top 5 target proteins', 'row': 26}",name:vitamindreceptor,,,unresolved_identity_do_not_compare_counts,,
+26,VEGFR2,2,False,"{'supplement': 2, 'sheet': 'Top 5 target proteins', 'row': 27}",name:vegfr2,,,unresolved_identity_do_not_compare_counts,,
+27,FXR,2,False,"{'supplement': 2, 'sheet': 'Top 5 target proteins', 'row': 28}",name:fxr,,,unresolved_identity_do_not_compare_counts,,
+28,Acetylcholinesterase,2,False,"{'supplement': 2, 'sheet': 'Top 5 target proteins', 'row': 29}",name:acetylcholinesterase,,,unresolved_identity_do_not_compare_counts,,
+29,Butyrylcholinesterase,2,False,"{'supplement': 2, 'sheet': 'Top 5 target proteins', 'row': 30}",CHEMBL1914,1.0,1.0,identifier_matched_pending_source_curation,1.0,1.0
+30,GPBAR1 (bile acid receptor 1),2,False,"{'supplement': 2, 'sheet': 'Top 5 target proteins', 'row': 31}",name:gpbar1bileacidreceptor1,,,unresolved_identity_do_not_compare_counts,,
+31,Dopamine transporter,2,False,"{'supplement': 2, 'sheet': 'Top 5 target proteins', 'row': 32}",name:dopaminetransporter,,,unresolved_identity_do_not_compare_counts,,
+32,5-HT1A,2,False,"{'supplement': 2, 'sheet': 'Top 5 target proteins', 'row': 33}",name:5ht1a,,,unresolved_identity_do_not_compare_counts,,
+33,5-HT7,2,False,"{'supplement': 2, 'sheet': 'Top 5 target proteins', 'row': 34}",name:5ht7,,,unresolved_identity_do_not_compare_counts,,
+34,Nuclear receptor NR5A2,2,False,"{'supplement': 2, 'sheet': 'Top 5 target proteins', 'row': 35}",name:nuclearreceptornr5a2,,,unresolved_identity_do_not_compare_counts,,
+35,UDP-glucuronosyltransferase 2B7,2,False,"{'supplement': 2, 'sheet': 'Top 5 target proteins', 'row': 36}",CHEMBL4370,2.0,2.0,identifier_matched_pending_source_curation,0.0,0.0
+36,Squalene monooxygenase,2,False,"{'supplement': 2, 'sheet': 'Top 5 target proteins', 'row': 37}",name:squalenemonooxygenase,,,unresolved_identity_do_not_compare_counts,,
+37,GGPP synthase,2,False,"{'supplement': 2, 'sheet': 'Top 5 target proteins', 'row': 38}",name:ggppsynthase,,,unresolved_identity_do_not_compare_counts,,
+38,Trace amine-associated receptor 1,2,False,"{'supplement': 2, 'sheet': 'Top 5 target proteins', 'row': 39}",CHEMBL5857,2.0,2.0,identifier_matched_pending_source_curation,0.0,0.0
+39,Histamine H3 receptor,2,False,"{'supplement': 2, 'sheet': 'Top 5 target proteins', 'row': 40}",name:histamineh3receptor,,,unresolved_identity_do_not_compare_counts,,
+40,Cyclooxygenase-1,1,False,"{'supplement': 2, 'sheet': 'Top 5 target proteins', 'row': 41}",CHEMBL221,1.0,0.0,identifier_matched_pending_source_curation,0.0,1.0

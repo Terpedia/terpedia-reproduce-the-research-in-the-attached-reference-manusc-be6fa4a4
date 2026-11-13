@@ -1,0 +1,1285 @@
+ligand_key,audit_target_id,supporting_tools,support_count,passes_two_tool_rule,observed_tools_for_ligand,attempted_tools_denominator,coverage_note
+alphabisabolol,CHEMBL1075180,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL1075322,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL1293286,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL1741186,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL1795166,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL1856,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL1859,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL1871,"['PPB2', 'STarFish', 'SwissTargetPrediction']",3,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL1914,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL1978,"['STarFish', 'SwissTargetPrediction']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL1994,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL2027,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL2034,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL2049,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL205,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL206,"['PPB2', 'STarFish', 'SwissTargetPrediction']",3,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL2083,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL2094108,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL2094135,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL211,"['PPB2', 'SwissTargetPrediction']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL214,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL216,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL217,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL218,"['PPB2', 'STarFish', 'SwissTargetPrediction']",3,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL2189127,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL220,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL222,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL224,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL228,"['STarFish', 'SwissTargetPrediction']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL231,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL233,"['PPB2', 'STarFish']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL234,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL235,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL236,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL237,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL239,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL240,"['PPB2', 'STarFish']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL242,"['PPB2', 'STarFish', 'SwissTargetPrediction']",3,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL2421,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL245,"['PPB2', 'SwissTargetPrediction']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL253,"['PPB2', 'STarFish']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL260,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL261,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL264,"['PPB2', 'STarFish']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL268,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL2778,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL279,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL2808,"['PPB2', 'SwissTargetPrediction']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL284,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL287,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL289,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL2933,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL3155,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL3166,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL3227,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL3242,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL3305,"['STarFish', 'SwissTargetPrediction']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL3344,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL335,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL3397,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL340,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL3521,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL3522,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL3571,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL3592,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL3594,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL3622,"['STarFish', 'SwissTargetPrediction']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL3674,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL3751648,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL3807,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL3849,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL3979,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL4018,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL402,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL4235,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL4426,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL4561,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL4699,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL4769,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL4794,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL4903,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL5160,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL5347,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL5421,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL5503,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL5555,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL5857,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL5868,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphabisabolol,CHEMBL5983,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+alphapinene,CHEMBL1075138,['SEA'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+alphapinene,CHEMBL1075322,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+alphapinene,CHEMBL1859,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+alphapinene,CHEMBL1871,"['PPB2', 'STarFish', 'SwissTargetPrediction']",3,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+alphapinene,CHEMBL1914,"['PPB2', 'SwissTargetPrediction']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+alphapinene,CHEMBL1978,"['PPB2', 'STarFish', 'SwissTargetPrediction']",3,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+alphapinene,CHEMBL205,"['PPB2', 'STarFish']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+alphapinene,CHEMBL206,"['PPB2', 'SwissTargetPrediction']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+alphapinene,CHEMBL211,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+alphapinene,CHEMBL214,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+alphapinene,CHEMBL217,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+alphapinene,CHEMBL218,"['PPB2', 'STarFish']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+alphapinene,CHEMBL220,"['PPB2', 'SwissTargetPrediction']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+alphapinene,CHEMBL222,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+alphapinene,CHEMBL224,"['PPB2', 'STarFish']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+alphapinene,CHEMBL2243,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+alphapinene,CHEMBL228,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+alphapinene,CHEMBL233,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+alphapinene,CHEMBL236,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+alphapinene,CHEMBL239,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+alphapinene,CHEMBL240,"['PPB2', 'STarFish']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+alphapinene,CHEMBL2409,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+alphapinene,CHEMBL242,"['PPB2', 'STarFish']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+alphapinene,CHEMBL253,"['PPB2', 'STarFish', 'SwissTargetPrediction']",3,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+alphapinene,CHEMBL260,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+alphapinene,CHEMBL261,"['PPB2', 'STarFish']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+alphapinene,CHEMBL264,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+alphapinene,CHEMBL274,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+alphapinene,CHEMBL287,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+alphapinene,CHEMBL289,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+alphapinene,CHEMBL3242,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+alphapinene,CHEMBL3305,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+alphapinene,CHEMBL335,"['PPB2', 'SwissTargetPrediction']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+alphapinene,CHEMBL3397,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+alphapinene,CHEMBL340,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+alphapinene,CHEMBL3571,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+alphapinene,CHEMBL3594,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+alphapinene,CHEMBL3622,"['STarFish', 'SwissTargetPrediction']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+alphapinene,CHEMBL4235,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+alphapinene,CHEMBL4441,"['PPB2', 'SEA', 'STarFish']",3,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+alphapinene,CHEMBL4769,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+alphapinene,CHEMBL4794,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+alphapinene,CHEMBL5313,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+betacaryophyllene,CHEMBL1075322,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+betacaryophyllene,CHEMBL1782,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+betacaryophyllene,CHEMBL1833,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+betacaryophyllene,CHEMBL1859,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+betacaryophyllene,CHEMBL1871,"['PPB2', 'STarFish']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+betacaryophyllene,CHEMBL2034,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+betacaryophyllene,CHEMBL205,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+betacaryophyllene,CHEMBL206,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+betacaryophyllene,CHEMBL208,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+betacaryophyllene,CHEMBL214,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+betacaryophyllene,CHEMBL215,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+betacaryophyllene,CHEMBL217,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+betacaryophyllene,CHEMBL218,"['PPB2', 'STarFish']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+betacaryophyllene,CHEMBL220,"['PPB2', 'STarFish']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+betacaryophyllene,CHEMBL222,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+betacaryophyllene,CHEMBL224,"['PPB2', 'STarFish']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+betacaryophyllene,CHEMBL2243,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+betacaryophyllene,CHEMBL225,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+betacaryophyllene,CHEMBL228,"['PPB2', 'STarFish']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+betacaryophyllene,CHEMBL231,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+betacaryophyllene,CHEMBL233,"['PPB2', 'STarFish']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+betacaryophyllene,CHEMBL234,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+betacaryophyllene,CHEMBL236,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+betacaryophyllene,CHEMBL237,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+betacaryophyllene,CHEMBL238,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+betacaryophyllene,CHEMBL239,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+betacaryophyllene,CHEMBL240,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+betacaryophyllene,CHEMBL242,"['PPB2', 'STarFish']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+betacaryophyllene,CHEMBL253,"['PPB2', 'STarFish', 'SwissTargetPrediction']",3,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+betacaryophyllene,CHEMBL260,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+betacaryophyllene,CHEMBL261,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+betacaryophyllene,CHEMBL264,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+betacaryophyllene,CHEMBL273,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+betacaryophyllene,CHEMBL279,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+betacaryophyllene,CHEMBL287,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+betacaryophyllene,CHEMBL289,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+betacaryophyllene,CHEMBL3155,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+betacaryophyllene,CHEMBL3227,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+betacaryophyllene,CHEMBL3242,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+betacaryophyllene,CHEMBL3305,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+betacaryophyllene,CHEMBL339,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+betacaryophyllene,CHEMBL3397,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+betacaryophyllene,CHEMBL340,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+betacaryophyllene,CHEMBL3571,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+betacaryophyllene,CHEMBL3594,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+betacaryophyllene,CHEMBL3622,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+betacaryophyllene,CHEMBL4769,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+betacaryophyllene,CHEMBL4794,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+betacaryophyllene,CHEMBL5119,['SEA'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+betacaryophyllene,CHEMBL5461,['SEA'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+betacaryophyllene,CHEMBL5857,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+betacaryophyllene,CHEMBL6007,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+betaocimene,CHEMBL1075322,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+betaocimene,CHEMBL1782,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+betaocimene,CHEMBL1859,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+betaocimene,CHEMBL1914,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+betaocimene,CHEMBL1945,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+betaocimene,CHEMBL205,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+betaocimene,CHEMBL214,"['PPB2', 'STarFish']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+betaocimene,CHEMBL215,"['PPB2', 'STarFish']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+betaocimene,CHEMBL217,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+betaocimene,CHEMBL218,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+betaocimene,CHEMBL220,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+betaocimene,CHEMBL221,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+betaocimene,CHEMBL224,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+betaocimene,CHEMBL228,"['PPB2', 'STarFish']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+betaocimene,CHEMBL230,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+betaocimene,CHEMBL231,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+betaocimene,CHEMBL233,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+betaocimene,CHEMBL235,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+betaocimene,CHEMBL236,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+betaocimene,CHEMBL239,"['PPB2', 'SwissTargetPrediction']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+betaocimene,CHEMBL240,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+betaocimene,CHEMBL253,"['PPB2', 'STarFish', 'SwissTargetPrediction']",3,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+betaocimene,CHEMBL260,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+betaocimene,CHEMBL261,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+betaocimene,CHEMBL264,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+betaocimene,CHEMBL289,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+betaocimene,CHEMBL3242,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+betaocimene,CHEMBL3262,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+betaocimene,CHEMBL332,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+betaocimene,CHEMBL335,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+betaocimene,CHEMBL3397,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+betaocimene,CHEMBL340,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+betaocimene,CHEMBL3593,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+betaocimene,CHEMBL3594,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+betaocimene,CHEMBL3602,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+betaocimene,CHEMBL3815,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+betaocimene,CHEMBL4699,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+betaocimene,CHEMBL4769,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+betaocimene,CHEMBL4794,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+betaocimene,CHEMBL4829,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+betaocimene,CHEMBL5160,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+betapinene,CHEMBL1075322,['STarFish'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+betapinene,CHEMBL1859,['STarFish'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+betapinene,CHEMBL1871,['PPB2'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+betapinene,CHEMBL1978,['PPB2'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+betapinene,CHEMBL2034,['PPB2'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+betapinene,CHEMBL204,['STarFish'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+betapinene,CHEMBL205,['STarFish'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+betapinene,CHEMBL206,['PPB2'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+betapinene,CHEMBL208,['PPB2'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+betapinene,CHEMBL211,['PPB2'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+betapinene,CHEMBL214,['STarFish'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+betapinene,CHEMBL216,['PPB2'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+betapinene,CHEMBL217,['STarFish'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+betapinene,CHEMBL218,['PPB2'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+betapinene,CHEMBL219,['STarFish'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+betapinene,CHEMBL224,['STarFish'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+betapinene,CHEMBL228,['STarFish'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+betapinene,CHEMBL230,['PPB2'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+betapinene,CHEMBL231,['STarFish'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+betapinene,CHEMBL233,['STarFish'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+betapinene,CHEMBL236,['STarFish'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+betapinene,CHEMBL240,"['PPB2', 'STarFish']",2,True,2,,Observed positive-output tools only; attempted-tool denominator unknown
+betapinene,CHEMBL2409,['PPB2'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+betapinene,CHEMBL242,"['PPB2', 'STarFish']",2,True,2,,Observed positive-output tools only; attempted-tool denominator unknown
+betapinene,CHEMBL253,"['PPB2', 'STarFish']",2,True,2,,Observed positive-output tools only; attempted-tool denominator unknown
+betapinene,CHEMBL260,['STarFish'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+betapinene,CHEMBL261,['STarFish'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+betapinene,CHEMBL264,['STarFish'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+betapinene,CHEMBL2731,['STarFish'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+betapinene,CHEMBL279,['STarFish'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+betapinene,CHEMBL284,['PPB2'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+betapinene,CHEMBL287,['PPB2'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+betapinene,CHEMBL289,['STarFish'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+betapinene,CHEMBL3155,['STarFish'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+betapinene,CHEMBL3242,['STarFish'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+betapinene,CHEMBL3397,['STarFish'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+betapinene,CHEMBL340,['STarFish'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+betapinene,CHEMBL3544,['STarFish'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+betapinene,CHEMBL3571,['PPB2'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+betapinene,CHEMBL3594,['STarFish'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+betapinene,CHEMBL3766,['PPB2'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+betapinene,CHEMBL4235,['PPB2'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+betapinene,CHEMBL4296,['PPB2'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+betapinene,CHEMBL4361,['STarFish'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+betapinene,CHEMBL4374,['STarFish'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+betapinene,CHEMBL4441,['PPB2'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+betapinene,CHEMBL4666,['STarFish'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+betapinene,CHEMBL5857,['STarFish'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+borneol,CHEMBL1075319,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+borneol,CHEMBL1075322,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+borneol,CHEMBL1828,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+borneol,CHEMBL1859,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+borneol,CHEMBL1871,"['PPB2', 'STarFish', 'SwissTargetPrediction']",3,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+borneol,CHEMBL1978,"['STarFish', 'SwissTargetPrediction']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+borneol,CHEMBL2027,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+borneol,CHEMBL2034,"['PPB2', 'SwissTargetPrediction']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+borneol,CHEMBL2047,"['PPB2', 'SwissTargetPrediction']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+borneol,CHEMBL205,"['STarFish', 'SwissTargetPrediction']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+borneol,CHEMBL206,"['PPB2', 'STarFish', 'SwissTargetPrediction']",3,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+borneol,CHEMBL2064,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+borneol,CHEMBL208,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+borneol,CHEMBL2111413,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+borneol,CHEMBL214,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+borneol,CHEMBL217,"['STarFish', 'SwissTargetPrediction']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+borneol,CHEMBL218,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+borneol,CHEMBL220,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+borneol,CHEMBL224,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+borneol,CHEMBL228,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+borneol,CHEMBL231,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+borneol,CHEMBL236,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+borneol,CHEMBL2392,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+borneol,CHEMBL240,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+borneol,CHEMBL242,"['PPB2', 'STarFish', 'SwissTargetPrediction']",3,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+borneol,CHEMBL253,"['PPB2', 'STarFish']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+borneol,CHEMBL260,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+borneol,CHEMBL261,"['STarFish', 'SwissTargetPrediction']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+borneol,CHEMBL264,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+borneol,CHEMBL2808,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+borneol,CHEMBL2868,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+borneol,CHEMBL287,"['PPB2', 'SwissTargetPrediction']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+borneol,CHEMBL289,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+borneol,CHEMBL3011,['SEA'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+borneol,CHEMBL3072,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+borneol,CHEMBL3227,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+borneol,CHEMBL3242,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+borneol,CHEMBL3305,"['PPB2', 'SEA', 'STarFish', 'SwissTargetPrediction']",4,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+borneol,CHEMBL335,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+borneol,CHEMBL3397,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+borneol,CHEMBL340,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+borneol,CHEMBL3571,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+borneol,CHEMBL3594,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+borneol,CHEMBL3622,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+borneol,CHEMBL3729,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+borneol,CHEMBL3766,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+borneol,CHEMBL3775,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+borneol,CHEMBL3996,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+borneol,CHEMBL4235,"['PPB2', 'SwissTargetPrediction']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+borneol,CHEMBL4370,"['STarFish', 'SwissTargetPrediction']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+borneol,CHEMBL4441,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+borneol,CHEMBL4804,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+borneol,CHEMBL5347,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+borneol,CHEMBL5409,"['PPB2', 'STarFish', 'SwissTargetPrediction']",3,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+borneol,CHEMBL5503,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+borneol,CHEMBL5602,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+borneol,CHEMBL5857,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+borneol,CHEMBL5983,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL1075322,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL1250402,['SEA'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL1293286,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL1697668,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL1743121,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL1821,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL1828,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL1835,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL1859,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL1867,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL1871,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL1908,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL1916,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL1942,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL1952,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL1977,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL1978,"['PPB2', 'SwissTargetPrediction']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL2014,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL2034804,['SEA'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL2035,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL2047,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL205,"['PPB2', 'STarFish', 'SwissTargetPrediction']",3,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL214,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL2157,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL216,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL217,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL218,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL220,"['PPB2', 'SwissTargetPrediction']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL221,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL224,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL2252,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL228,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL229,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL231,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL233,"['PPB2', 'STarFish']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL236,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL237,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL238,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL240,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL2409,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL253,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL260,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL261,"['PPB2', 'STarFish', 'SwissTargetPrediction']",3,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL264,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL268,"['PPB2', 'STarFish']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL2722,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL279,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL289,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL2954,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL313,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL3155,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL3242,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL3272,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL3305,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL335,"['PPB2', 'SwissTargetPrediction']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL338,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL3397,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL340,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL3419,['SEA'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL3522,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL3590,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL3594,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL3622,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL3775,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL3837,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL402,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL4235,"['PPB2', 'SwissTargetPrediction']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL4302,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL4370,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL4441,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL4796,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+bornylacetate,CHEMBL5857,"['STarFish', 'SwissTargetPrediction']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+caryophylleneoxide,CHEMBL1075322,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+caryophylleneoxide,CHEMBL1859,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+caryophylleneoxide,CHEMBL1871,"['PPB2', 'STarFish']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+caryophylleneoxide,CHEMBL1978,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+caryophylleneoxide,CHEMBL1994,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+caryophylleneoxide,CHEMBL2034,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+caryophylleneoxide,CHEMBL205,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+caryophylleneoxide,CHEMBL206,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+caryophylleneoxide,CHEMBL208,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+caryophylleneoxide,CHEMBL217,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+caryophylleneoxide,CHEMBL218,"['PPB2', 'STarFish']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+caryophylleneoxide,CHEMBL220,"['PPB2', 'STarFish']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+caryophylleneoxide,CHEMBL222,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+caryophylleneoxide,CHEMBL228,"['PPB2', 'STarFish', 'SwissTargetPrediction']",3,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+caryophylleneoxide,CHEMBL233,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+caryophylleneoxide,CHEMBL236,"['PPB2', 'STarFish']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+caryophylleneoxide,CHEMBL237,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+caryophylleneoxide,CHEMBL238,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+caryophylleneoxide,CHEMBL240,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+caryophylleneoxide,CHEMBL242,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+caryophylleneoxide,CHEMBL253,"['PPB2', 'STarFish']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+caryophylleneoxide,CHEMBL260,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+caryophylleneoxide,CHEMBL261,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+caryophylleneoxide,CHEMBL279,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+caryophylleneoxide,CHEMBL289,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+caryophylleneoxide,CHEMBL3242,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+caryophylleneoxide,CHEMBL3305,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+caryophylleneoxide,CHEMBL335,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+caryophylleneoxide,CHEMBL3356,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+caryophylleneoxide,CHEMBL3397,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+caryophylleneoxide,CHEMBL340,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+caryophylleneoxide,CHEMBL3544,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+caryophylleneoxide,CHEMBL3592,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+caryophylleneoxide,CHEMBL3593,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+caryophylleneoxide,CHEMBL3594,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+caryophylleneoxide,CHEMBL3622,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+caryophylleneoxide,CHEMBL3922,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+caryophylleneoxide,CHEMBL4005,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+caryophylleneoxide,CHEMBL4235,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+caryophylleneoxide,CHEMBL4302,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+caryophylleneoxide,CHEMBL4666,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+caryophylleneoxide,CHEMBL5857,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+eucalyptol,CHEMBL1075322,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+eucalyptol,CHEMBL1859,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+eucalyptol,CHEMBL1914,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+eucalyptol,CHEMBL1978,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+eucalyptol,CHEMBL2047,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+eucalyptol,CHEMBL205,"['PPB2', 'STarFish']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+eucalyptol,CHEMBL211,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+eucalyptol,CHEMBL214,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+eucalyptol,CHEMBL216,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+eucalyptol,CHEMBL217,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+eucalyptol,CHEMBL218,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+eucalyptol,CHEMBL220,"['STarFish', 'SwissTargetPrediction']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+eucalyptol,CHEMBL222,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+eucalyptol,CHEMBL224,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+eucalyptol,CHEMBL228,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+eucalyptol,CHEMBL231,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+eucalyptol,CHEMBL233,"['PPB2', 'STarFish']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+eucalyptol,CHEMBL236,"['PPB2', 'STarFish']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+eucalyptol,CHEMBL237,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+eucalyptol,CHEMBL238,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+eucalyptol,CHEMBL240,"['PPB2', 'STarFish']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+eucalyptol,CHEMBL242,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+eucalyptol,CHEMBL253,"['PPB2', 'STarFish']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+eucalyptol,CHEMBL260,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+eucalyptol,CHEMBL261,"['PPB2', 'STarFish']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+eucalyptol,CHEMBL264,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+eucalyptol,CHEMBL268,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+eucalyptol,CHEMBL2731,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+eucalyptol,CHEMBL279,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+eucalyptol,CHEMBL287,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+eucalyptol,CHEMBL289,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+eucalyptol,CHEMBL3227,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+eucalyptol,CHEMBL3242,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+eucalyptol,CHEMBL3397,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+eucalyptol,CHEMBL340,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+eucalyptol,CHEMBL3544,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+eucalyptol,CHEMBL3594,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+eucalyptol,CHEMBL3622,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+eucalyptol,CHEMBL3837,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+eucalyptol,CHEMBL3849,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+eucalyptol,CHEMBL3996,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+eucalyptol,CHEMBL4158,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+eucalyptol,CHEMBL4235,"['PPB2', 'STarFish']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+eucalyptol,CHEMBL4296,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+eucalyptol,CHEMBL4302,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+eucalyptol,CHEMBL4361,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+eucalyptol,CHEMBL4374,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+eucalyptol,CHEMBL4441,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+eucalyptol,CHEMBL4666,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+eucalyptol,CHEMBL5409,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+eucalyptol,CHEMBL5602,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+eucalyptol,CHEMBL5857,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL1075319,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL1075322,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL1741186,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL1741219,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL1828,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL1833,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL1856,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL1859,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL1865,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL1871,"['PPB2', 'STarFish', 'SwissTargetPrediction']",3,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL1951,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL1974,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL1977,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL1978,"['PPB2', 'STarFish', 'SwissTargetPrediction']",3,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL2014,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL2027,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL2034,"['PPB2', 'SwissTargetPrediction']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL2039,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL204,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL2047,"['PPB2', 'SwissTargetPrediction']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL205,"['STarFish', 'SwissTargetPrediction']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL2056,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL206,"['STarFish', 'SwissTargetPrediction']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL2064,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL208,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL2111413,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL214,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL2146304,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL216,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL217,"['STarFish', 'SwissTargetPrediction']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL218,"['PPB2', 'STarFish']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL219,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL220,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL2219,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL222,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL224,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL225,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL226,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL228,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL231,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL233,"['PPB2', 'STarFish']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL234,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL236,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL2366411,['SEA'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL2366492,['SEA'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL237,"['PPB2', 'STarFish']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL238,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL2392,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL240,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL242,"['STarFish', 'SwissTargetPrediction']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL244,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL251,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL253,"['PPB2', 'STarFish']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL256,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL260,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL261,"['STarFish', 'SwissTargetPrediction']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL2635,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL264,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL268,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL270,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL273,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL2731,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL279,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL2808,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL287,"['PPB2', 'SwissTargetPrediction']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL289,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL3072,"['PPB2', 'STarFish']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL3105,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL313,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL3155,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL322,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL3227,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL3242,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL3262,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL3301558,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL3301559,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL3305,"['STarFish', 'SwissTargetPrediction']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL335,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL3356,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL3371,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL339,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL3397,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL340,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL344,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL3571,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL3594,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL3602,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL3622,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL3729,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL3775,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL3996,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL4078,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL4102,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL4143,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL4153,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL4235,"['PPB2', 'STarFish', 'SwissTargetPrediction']",3,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL4370,"['STarFish', 'SwissTargetPrediction']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL4441,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL4804,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL4980,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL5313,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL5347,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL5387,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL5409,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL5503,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL5567,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL5602,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL5857,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL5983,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+fenchol,CHEMBL6169,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+gammaterpinene,CHEMBL1075322,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+gammaterpinene,CHEMBL1782,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+gammaterpinene,CHEMBL1859,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+gammaterpinene,CHEMBL1871,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+gammaterpinene,CHEMBL2014,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+gammaterpinene,CHEMBL205,"['PPB2', 'STarFish']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+gammaterpinene,CHEMBL206,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+gammaterpinene,CHEMBL211,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+gammaterpinene,CHEMBL214,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+gammaterpinene,CHEMBL215,"['PPB2', 'STarFish']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+gammaterpinene,CHEMBL217,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+gammaterpinene,CHEMBL220,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+gammaterpinene,CHEMBL222,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+gammaterpinene,CHEMBL224,"['PPB2', 'STarFish']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+gammaterpinene,CHEMBL225,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+gammaterpinene,CHEMBL228,"['PPB2', 'STarFish']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+gammaterpinene,CHEMBL231,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+gammaterpinene,CHEMBL233,"['PPB2', 'STarFish']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+gammaterpinene,CHEMBL236,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+gammaterpinene,CHEMBL237,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+gammaterpinene,CHEMBL238,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+gammaterpinene,CHEMBL240,"['PPB2', 'STarFish']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+gammaterpinene,CHEMBL242,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+gammaterpinene,CHEMBL253,"['PPB2', 'STarFish']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+gammaterpinene,CHEMBL260,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+gammaterpinene,CHEMBL261,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+gammaterpinene,CHEMBL264,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+gammaterpinene,CHEMBL273,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+gammaterpinene,CHEMBL279,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+gammaterpinene,CHEMBL287,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+gammaterpinene,CHEMBL289,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+gammaterpinene,CHEMBL3024,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+gammaterpinene,CHEMBL313,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+gammaterpinene,CHEMBL3227,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+gammaterpinene,CHEMBL3242,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+gammaterpinene,CHEMBL3305,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+gammaterpinene,CHEMBL338,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+gammaterpinene,CHEMBL3397,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+gammaterpinene,CHEMBL340,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+gammaterpinene,CHEMBL3568,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+gammaterpinene,CHEMBL3571,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+gammaterpinene,CHEMBL3594,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+gammaterpinene,CHEMBL3622,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+gammaterpinene,CHEMBL4769,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+gammaterpinene,CHEMBL4794,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+gammaterpinene,CHEMBL4803,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+gammaterpinene,CHEMBL5119,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+gammaterpinene,CHEMBL5461,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+gammaterpinene,CHEMBL5857,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+humulene,CHEMBL1075322,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+humulene,CHEMBL1697668,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+humulene,CHEMBL1743121,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+humulene,CHEMBL1859,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+humulene,CHEMBL1871,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+humulene,CHEMBL1978,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+humulene,CHEMBL2039,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+humulene,CHEMBL205,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+humulene,CHEMBL217,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+humulene,CHEMBL218,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+humulene,CHEMBL224,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+humulene,CHEMBL239,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+humulene,CHEMBL240,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+humulene,CHEMBL242,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+humulene,CHEMBL253,"['STarFish', 'SwissTargetPrediction']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+humulene,CHEMBL260,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+humulene,CHEMBL261,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+humulene,CHEMBL264,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+humulene,CHEMBL289,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+humulene,CHEMBL3242,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+humulene,CHEMBL3305,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+humulene,CHEMBL3397,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+humulene,CHEMBL340,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+humulene,CHEMBL3594,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+humulene,CHEMBL3622,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+humulene,CHEMBL4441,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+humulene,CHEMBL4769,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+humulene,CHEMBL4794,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+humulene,CHEMBL5119,"['SEA', 'SwissTargetPrediction']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+humulene,CHEMBL5461,"['PPB2', 'SEA', 'SwissTargetPrediction']",3,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+limonene,CHEMBL1075322,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+limonene,CHEMBL1859,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+limonene,CHEMBL1871,"['PPB2', 'STarFish']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+limonene,CHEMBL1978,"['PPB2', 'STarFish', 'SwissTargetPrediction']",3,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+limonene,CHEMBL205,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+limonene,CHEMBL206,"['PPB2', 'STarFish']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+limonene,CHEMBL214,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+limonene,CHEMBL215,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+limonene,CHEMBL216,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+limonene,CHEMBL217,"['PPB2', 'STarFish']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+limonene,CHEMBL218,"['PPB2', 'STarFish']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+limonene,CHEMBL222,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+limonene,CHEMBL224,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+limonene,CHEMBL228,"['PPB2', 'STarFish']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+limonene,CHEMBL231,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+limonene,CHEMBL233,"['PPB2', 'STarFish']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+limonene,CHEMBL234,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+limonene,CHEMBL236,"['PPB2', 'STarFish']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+limonene,CHEMBL238,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+limonene,CHEMBL239,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+limonene,CHEMBL240,"['PPB2', 'STarFish']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+limonene,CHEMBL242,"['PPB2', 'STarFish']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+limonene,CHEMBL253,"['PPB2', 'STarFish', 'SwissTargetPrediction']",3,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+limonene,CHEMBL260,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+limonene,CHEMBL261,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+limonene,CHEMBL264,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+limonene,CHEMBL279,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+limonene,CHEMBL2808,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+limonene,CHEMBL289,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+limonene,CHEMBL304,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+limonene,CHEMBL313,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+limonene,CHEMBL3155,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+limonene,CHEMBL3242,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+limonene,CHEMBL3371,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+limonene,CHEMBL338,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+limonene,CHEMBL339,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+limonene,CHEMBL3397,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+limonene,CHEMBL340,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+limonene,CHEMBL3571,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+limonene,CHEMBL3594,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+limonene,CHEMBL3622,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+limonene,CHEMBL4235,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+limonene,CHEMBL4769,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+limonene,CHEMBL5857,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL1075104,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL1075319,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL1075322,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL1821,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL1859,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL1871,"['STarFish', 'SwissTargetPrediction']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL1916,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL1977,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL1980,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL1994,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL2034,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL205,"['STarFish', 'SwissTargetPrediction']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL208,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL2095202,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL211,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL214,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL2148,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL215,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL216,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL217,"['STarFish', 'SwissTargetPrediction']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL218,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL221,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL229,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL230,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL233,"['STarFish', 'SwissTargetPrediction']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL235,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL236,"['STarFish', 'SwissTargetPrediction']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL237,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL238,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL239,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL240,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL242,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL245,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL250,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL253,"['PPB2', 'STarFish']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL260,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL261,"['STarFish', 'SwissTargetPrediction']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL264,"['STarFish', 'SwissTargetPrediction']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL2789,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL2808,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL2823,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL2835,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL284,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL287,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL289,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL2971,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL3105,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL3242,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL3262,"['PPB2', 'SEA']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL3305,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL332,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL3397,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL340,"['PPB2', 'STarFish']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL3553,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL3592,"['SEA', 'SwissTargetPrediction']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL3594,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL3622,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL3729,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL3759,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL3815,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL4296,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL4306,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL4521,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL4685,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL4699,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL4769,"['PPB2', 'SEA']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL4794,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL4822,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL5160,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL5436,['SEA'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL5522,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL5658,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+linalool,CHEMBL5857,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+nerolidol,CHEMBL1782,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+nerolidol,CHEMBL1859,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+nerolidol,CHEMBL1871,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+nerolidol,CHEMBL1889,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+nerolidol,CHEMBL1985,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+nerolidol,CHEMBL2034,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+nerolidol,CHEMBL2047,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+nerolidol,CHEMBL205,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+nerolidol,CHEMBL208,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+nerolidol,CHEMBL2094108,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+nerolidol,CHEMBL2094135,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+nerolidol,CHEMBL214,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+nerolidol,CHEMBL215,"['PPB2', 'STarFish']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+nerolidol,CHEMBL217,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+nerolidol,CHEMBL218,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+nerolidol,CHEMBL220,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+nerolidol,CHEMBL233,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+nerolidol,CHEMBL235,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+nerolidol,CHEMBL236,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+nerolidol,CHEMBL238,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+nerolidol,CHEMBL239,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+nerolidol,CHEMBL240,"['STarFish', 'SwissTargetPrediction']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+nerolidol,CHEMBL242,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+nerolidol,CHEMBL253,"['PPB2', 'STarFish']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+nerolidol,CHEMBL260,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+nerolidol,CHEMBL261,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+nerolidol,CHEMBL264,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+nerolidol,CHEMBL272,['SEA'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+nerolidol,CHEMBL2778,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+nerolidol,CHEMBL2789,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+nerolidol,CHEMBL2808,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+nerolidol,CHEMBL284,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+nerolidol,CHEMBL289,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+nerolidol,CHEMBL3227,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+nerolidol,CHEMBL3242,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+nerolidol,CHEMBL3262,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+nerolidol,CHEMBL3305,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+nerolidol,CHEMBL335,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+nerolidol,CHEMBL3397,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+nerolidol,CHEMBL340,"['PPB2', 'STarFish']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+nerolidol,CHEMBL3592,"['SEA', 'SwissTargetPrediction']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+nerolidol,CHEMBL3593,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+nerolidol,CHEMBL3594,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+nerolidol,CHEMBL3622,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+nerolidol,CHEMBL3751648,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+nerolidol,CHEMBL3815,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+nerolidol,CHEMBL4241,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+nerolidol,CHEMBL4685,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+nerolidol,CHEMBL4699,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+nerolidol,CHEMBL4769,"['PPB2', 'SEA', 'STarFish']",3,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+nerolidol,CHEMBL4794,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+nerolidol,CHEMBL4822,"['PPB2', 'SwissTargetPrediction']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+nerolidol,CHEMBL5011,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+nerolidol,CHEMBL5160,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+pcymene,CHEMBL1075322,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+pcymene,CHEMBL1859,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+pcymene,CHEMBL1878,['SEA'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+pcymene,CHEMBL1973,['SEA'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+pcymene,CHEMBL1978,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+pcymene,CHEMBL2014,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+pcymene,CHEMBL202,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+pcymene,CHEMBL205,"['PPB2', 'STarFish']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+pcymene,CHEMBL2056,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+pcymene,CHEMBL2073673,['SEA'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+pcymene,CHEMBL214,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+pcymene,CHEMBL217,"['PPB2', 'STarFish']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+pcymene,CHEMBL220,"['PPB2', 'SwissTargetPrediction']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+pcymene,CHEMBL221,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+pcymene,CHEMBL222,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+pcymene,CHEMBL224,"['PPB2', 'STarFish']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+pcymene,CHEMBL228,"['PPB2', 'STarFish']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+pcymene,CHEMBL231,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+pcymene,CHEMBL2326,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+pcymene,CHEMBL233,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+pcymene,CHEMBL234,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+pcymene,CHEMBL238,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+pcymene,CHEMBL239,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+pcymene,CHEMBL240,"['PPB2', 'STarFish']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+pcymene,CHEMBL253,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+pcymene,CHEMBL260,"['PPB2', 'STarFish']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+pcymene,CHEMBL261,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+pcymene,CHEMBL264,"['PPB2', 'STarFish']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+pcymene,CHEMBL2731,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+pcymene,CHEMBL276,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+pcymene,CHEMBL2789,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+pcymene,CHEMBL287,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+pcymene,CHEMBL289,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+pcymene,CHEMBL313,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+pcymene,CHEMBL3155,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+pcymene,CHEMBL3227,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+pcymene,CHEMBL3242,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+pcymene,CHEMBL3247,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+pcymene,CHEMBL338,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+pcymene,CHEMBL340,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+pcymene,CHEMBL3437,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+pcymene,CHEMBL3510,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+pcymene,CHEMBL3594,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+pcymene,CHEMBL3622,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+pcymene,CHEMBL4124,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+pcymene,CHEMBL5282,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+pcymene,CHEMBL5857,"['STarFish', 'SwissTargetPrediction']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+pcymene,CHEMBL5893,['SEA'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+pcymene,CHEMBL6007,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+perillylalcohol,CHEMBL1075319,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+perillylalcohol,CHEMBL1795166,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+perillylalcohol,CHEMBL1856,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+perillylalcohol,CHEMBL1871,"['PPB2', 'STarFish', 'SwissTargetPrediction']",3,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+perillylalcohol,CHEMBL1908,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+perillylalcohol,CHEMBL1977,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+perillylalcohol,CHEMBL1978,"['STarFish', 'SwissTargetPrediction']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+perillylalcohol,CHEMBL2027,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+perillylalcohol,CHEMBL205,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+perillylalcohol,CHEMBL206,"['PPB2', 'STarFish']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+perillylalcohol,CHEMBL211,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+perillylalcohol,CHEMBL217,"['PPB2', 'SwissTargetPrediction']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+perillylalcohol,CHEMBL218,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+perillylalcohol,CHEMBL222,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+perillylalcohol,CHEMBL228,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+perillylalcohol,CHEMBL233,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+perillylalcohol,CHEMBL236,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+perillylalcohol,CHEMBL237,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+perillylalcohol,CHEMBL238,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+perillylalcohol,CHEMBL240,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+perillylalcohol,CHEMBL242,"['PPB2', 'STarFish']",2,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+perillylalcohol,CHEMBL253,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+perillylalcohol,CHEMBL261,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+perillylalcohol,CHEMBL270,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+perillylalcohol,CHEMBL2722,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+perillylalcohol,CHEMBL2808,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+perillylalcohol,CHEMBL2823,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+perillylalcohol,CHEMBL2835,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+perillylalcohol,CHEMBL284,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+perillylalcohol,CHEMBL2971,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+perillylalcohol,CHEMBL3072,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+perillylalcohol,CHEMBL3305,"['PPB2', 'STarFish', 'SwissTargetPrediction']",3,True,4,,Observed positive-output tools only; attempted-tool denominator unknown
+perillylalcohol,CHEMBL335,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+perillylalcohol,CHEMBL338,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+perillylalcohol,CHEMBL3571,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+perillylalcohol,CHEMBL3592,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+perillylalcohol,CHEMBL3622,['STarFish'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+perillylalcohol,CHEMBL3729,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+perillylalcohol,CHEMBL402,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+perillylalcohol,CHEMBL4235,['PPB2'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+perillylalcohol,CHEMBL4878,['SEA'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+perillylalcohol,CHEMBL5503,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+perillylalcohol,CHEMBL5868,['SwissTargetPrediction'],1,False,4,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL1075322,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL1781,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL1787,"['PPB2', 'SwissTargetPrediction']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL1856,"['PPB2', 'STarFish', 'SwissTargetPrediction']",3,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL1859,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL1871,"['PPB2', 'STarFish', 'SwissTargetPrediction']",3,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL1907589,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL1908,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL1951,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL1952,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL1970,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL1978,"['PPB2', 'STarFish', 'SwissTargetPrediction']",3,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL1994,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL2027,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL2039,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL204,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL205,"['STarFish', 'SwissTargetPrediction']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL206,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL214,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL215,"['STarFish', 'SwissTargetPrediction']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL216,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL217,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL218,"['PPB2', 'STarFish']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL219,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL220,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL224,"['PPB2', 'STarFish']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL2243,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL225,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL228,"['PPB2', 'STarFish']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL231,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL233,"['PPB2', 'STarFish']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL236,"['PPB2', 'STarFish']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL237,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL238,"['PPB2', 'SwissTargetPrediction']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL240,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL242,"['PPB2', 'STarFish']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL2421,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL2474,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL253,"['PPB2', 'STarFish']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL2599,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL260,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL261,"['STarFish', 'SwissTargetPrediction']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL264,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL268,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL2722,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL274,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL279,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL2808,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL284,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL287,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL289,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL3012,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL3105,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL3155,"['STarFish', 'SwissTargetPrediction']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL3242,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL3285,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL3305,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL3385,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL3397,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL340,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL3401,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL3522,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL3571,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL3594,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL3616,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL3622,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL3729,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL3746,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL3807,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL3864,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL4234,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL4235,"['PPB2', 'SwissTargetPrediction']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL4462,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL4481,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL4769,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL4822,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL5421,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL5503,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL5658,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL5857,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+rcarvone,CHEMBL5983,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+sabinene,CHEMBL1075322,['STarFish'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+sabinene,CHEMBL1859,['STarFish'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+sabinene,CHEMBL1871,"['PPB2', 'STarFish']",2,True,2,,Observed positive-output tools only; attempted-tool denominator unknown
+sabinene,CHEMBL1977,['STarFish'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+sabinene,CHEMBL1978,"['PPB2', 'STarFish']",2,True,2,,Observed positive-output tools only; attempted-tool denominator unknown
+sabinene,CHEMBL2034,['PPB2'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+sabinene,CHEMBL205,['STarFish'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+sabinene,CHEMBL206,['STarFish'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+sabinene,CHEMBL2061,['PPB2'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+sabinene,CHEMBL208,['PPB2'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+sabinene,CHEMBL214,['STarFish'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+sabinene,CHEMBL217,"['PPB2', 'STarFish']",2,True,2,,Observed positive-output tools only; attempted-tool denominator unknown
+sabinene,CHEMBL218,['STarFish'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+sabinene,CHEMBL220,['PPB2'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+sabinene,CHEMBL222,['PPB2'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+sabinene,CHEMBL224,['STarFish'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+sabinene,CHEMBL228,['STarFish'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+sabinene,CHEMBL231,['STarFish'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+sabinene,CHEMBL233,"['PPB2', 'STarFish']",2,True,2,,Observed positive-output tools only; attempted-tool denominator unknown
+sabinene,CHEMBL234,"['PPB2', 'STarFish']",2,True,2,,Observed positive-output tools only; attempted-tool denominator unknown
+sabinene,CHEMBL236,['STarFish'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+sabinene,CHEMBL237,['PPB2'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+sabinene,CHEMBL240,"['PPB2', 'STarFish']",2,True,2,,Observed positive-output tools only; attempted-tool denominator unknown
+sabinene,CHEMBL2409,['PPB2'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+sabinene,CHEMBL242,['STarFish'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+sabinene,CHEMBL253,['STarFish'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+sabinene,CHEMBL260,['STarFish'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+sabinene,CHEMBL261,['STarFish'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+sabinene,CHEMBL264,['STarFish'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+sabinene,CHEMBL268,['PPB2'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+sabinene,CHEMBL279,['STarFish'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+sabinene,CHEMBL284,['PPB2'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+sabinene,CHEMBL289,['STarFish'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+sabinene,CHEMBL313,['PPB2'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+sabinene,CHEMBL3150,['PPB2'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+sabinene,CHEMBL3155,['STarFish'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+sabinene,CHEMBL3227,['STarFish'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+sabinene,CHEMBL3242,['STarFish'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+sabinene,CHEMBL335,['PPB2'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+sabinene,CHEMBL3397,['STarFish'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+sabinene,CHEMBL340,['STarFish'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+sabinene,CHEMBL3522,['PPB2'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+sabinene,CHEMBL3594,['STarFish'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+sabinene,CHEMBL3622,['STarFish'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+sabinene,CHEMBL4235,['PPB2'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+sabinene,CHEMBL4521,['STarFish'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+sabinene,CHEMBL5857,['STarFish'],1,False,2,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL1075322,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL1781,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL1787,"['PPB2', 'SwissTargetPrediction']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL1856,"['PPB2', 'STarFish', 'SwissTargetPrediction']",3,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL1859,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL1871,"['PPB2', 'STarFish', 'SwissTargetPrediction']",3,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL1907589,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL1908,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL1951,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL1952,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL1970,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL1978,"['PPB2', 'STarFish', 'SwissTargetPrediction']",3,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL1994,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL2027,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL2039,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL204,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL205,"['STarFish', 'SwissTargetPrediction']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL206,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL214,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL215,"['STarFish', 'SwissTargetPrediction']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL216,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL217,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL218,"['PPB2', 'STarFish']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL219,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL220,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL224,"['PPB2', 'STarFish']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL2243,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL225,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL228,"['PPB2', 'STarFish']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL230,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL231,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL233,"['PPB2', 'STarFish']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL234,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL236,"['PPB2', 'STarFish']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL237,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL238,"['PPB2', 'SwissTargetPrediction']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL240,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL242,"['PPB2', 'STarFish']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL2421,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL2474,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL253,"['PPB2', 'STarFish']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL2599,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL260,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL261,"['STarFish', 'SwissTargetPrediction']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL264,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL268,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL2722,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL274,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL279,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL2808,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL284,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL287,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL289,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL3012,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL3105,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL3155,"['STarFish', 'SwissTargetPrediction']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL3227,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL3242,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL3285,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL3305,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL3356,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL3385,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL3397,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL340,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL3401,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL3522,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL3571,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL3594,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL3616,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL3622,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL3729,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL3746,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL3807,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL3864,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL4234,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL4235,"['PPB2', 'SwissTargetPrediction']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL4462,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL4481,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL4769,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL4822,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL5421,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL5503,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL5658,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL5857,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+scarvone,CHEMBL5983,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL1075180,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL1075319,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL1075322,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL1795166,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL1859,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL1871,"['PPB2', 'STarFish', 'SwissTargetPrediction']",3,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL1914,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL1916,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL1977,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL1978,"['PPB2', 'STarFish', 'SwissTargetPrediction']",3,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL1994,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL2027,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL2034,"['PPB2', 'SwissTargetPrediction']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL205,"['STarFish', 'SwissTargetPrediction']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL206,"['PPB2', 'SwissTargetPrediction']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL208,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL2083,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL211,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL214,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL216,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL217,"['PPB2', 'STarFish', 'SwissTargetPrediction']",3,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL218,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL220,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL222,"['PPB2', 'SwissTargetPrediction']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL224,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL228,"['PPB2', 'STarFish', 'SwissTargetPrediction']",3,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL231,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL233,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL236,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL238,"['PPB2', 'SwissTargetPrediction']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL239,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL240,"['PPB2', 'STarFish']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL242,"['PPB2', 'STarFish', 'SwissTargetPrediction']",3,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL253,"['PPB2', 'STarFish']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL260,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL261,"['STarFish', 'SwissTargetPrediction']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL264,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL273,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL279,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL2808,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL2823,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL287,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL289,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL2933,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL304,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL313,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL3166,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL3242,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL3305,"['STarFish', 'SwissTargetPrediction']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL3344,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL335,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL338,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL339,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL3397,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL340,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL3521,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL3522,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL3571,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL3592,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL3594,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL3622,"['STarFish', 'SwissTargetPrediction']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL3674,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL3729,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL3807,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL3849,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL3979,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL402,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL4235,"['PPB2', 'SwissTargetPrediction']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL4426,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL4699,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL4769,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL4903,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL5347,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL5421,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL5503,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL5522,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL5555,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL5857,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL5868,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpineol,CHEMBL5983,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpinolene,CHEMBL1075322,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpinolene,CHEMBL1782,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpinolene,CHEMBL1859,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpinolene,CHEMBL1867,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpinolene,CHEMBL1871,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpinolene,CHEMBL1945,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpinolene,CHEMBL205,"['PPB2', 'STarFish']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpinolene,CHEMBL214,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpinolene,CHEMBL215,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpinolene,CHEMBL217,"['PPB2', 'STarFish']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpinolene,CHEMBL218,"['PPB2', 'STarFish']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpinolene,CHEMBL219,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpinolene,CHEMBL2219,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpinolene,CHEMBL222,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpinolene,CHEMBL224,"['PPB2', 'STarFish']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpinolene,CHEMBL225,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpinolene,CHEMBL228,"['PPB2', 'STarFish']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpinolene,CHEMBL231,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpinolene,CHEMBL233,"['PPB2', 'STarFish']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpinolene,CHEMBL236,"['PPB2', 'STarFish']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpinolene,CHEMBL238,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpinolene,CHEMBL239,['SwissTargetPrediction'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpinolene,CHEMBL240,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpinolene,CHEMBL253,"['PPB2', 'STarFish', 'SwissTargetPrediction']",3,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpinolene,CHEMBL260,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpinolene,CHEMBL261,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpinolene,CHEMBL264,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpinolene,CHEMBL273,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpinolene,CHEMBL279,"['PPB2', 'STarFish']",2,True,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpinolene,CHEMBL287,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpinolene,CHEMBL289,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpinolene,CHEMBL3155,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpinolene,CHEMBL322,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpinolene,CHEMBL3227,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpinolene,CHEMBL3242,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpinolene,CHEMBL3397,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpinolene,CHEMBL340,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpinolene,CHEMBL3594,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpinolene,CHEMBL4769,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpinolene,CHEMBL4803,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpinolene,CHEMBL5071,['PPB2'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown
+terpinolene,CHEMBL5857,['STarFish'],1,False,3,,Observed positive-output tools only; attempted-tool denominator unknown

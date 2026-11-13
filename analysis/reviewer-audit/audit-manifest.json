@@ -1,0 +1,27 @@
+{
+  "notebook_revision": 11,
+  "source_revision": 10,
+  "review_basis": "Two reviewer reports supplied 2026-11-13",
+  "source_snapshot_sha256": "a0f2569040758f879017e98239620e7a280b83b1830c73f5d3a74545f5b7e325",
+  "generated_at_utc": "2026-11-13T22:29:41.797745+00:00",
+  "packages": {
+    "numpy": "2.5.1",
+    "pandas": "2.3.3",
+    "scipy": "1.18.1",
+    "matplotlib": "3.11.2",
+    "rdkit": "not_installed"
+  },
+  "new_docking_performed": false,
+  "files": {
+    "ambiguous-target-identifiers.csv": "11d29e82c9ce48e4611ab5d0454237187c55feb71c7383520a767877827c5ee5",
+    "consensus-pair-discrepancies.csv": "dd32ab62595f539f0a46abfcbd6c82ae76506bd84b39f0147e0ed67fd4335bd8",
+    "ligand-structure-pains-audit.csv": "1b5b26bbbd11c2efe605508fbff884d74a7e504da64a8a1453f8b41cf70a4b93",
+    "pair-tool-support.csv": "629af812a92629d1110c102e7bd3cd652de45aabb483d350a364221f89b64576",
+    "recorded-receptor-preparation.csv": "6c510663c09d842ecadff98a72c6c2566bd260f5fd028dd6ffb539388b7b61bb",
+    "recorded-receptor-preparation.json": "63cafb34b96187f1b0707d221e85191961179334f407051c080053c5aac3d2d8",
+    "size-score-regressions.csv": "6199e181c9edcdf7ed6c82b6bd025f0bba00c304575afbaaa8a972be04b25f4e",
+    "target-frequency-reconciliation.csv": "443b88bf4da01cc8f85b041723d19543c744f6354e6695ac9ba5e06b97397741",
+    "target-specific-docking-table.csv": "f99636f688cc3385c3cb4827a6cab762888554ca79bd4a6a7de459d0aa91d073",
+    "terpene-only-computational-enrichment.csv": "55d4c036ba170cf9b9db367954737014c94971aa27874006aa64a0d8004cb6f9"
+  }
+}

@@ -1,0 +1,348 @@
+[
+  {
+    "run_id": "run_d357300d-54f1-4e46-a4da-40d653024f55",
+    "run_status": "completed",
+    "receptor": {
+      "source": {
+        "database": "RCSB Protein Data Bank",
+        "pdb_id": "1XU7",
+        "title": "Crystal Structure of the Interface Open Conformation of Tetrameric 11b-HSD1",
+        "structure_url": "https://www.rcsb.org/structure/1XU7",
+        "coordinate_url": "https://files.rcsb.org/download/1XU7.pdb",
+        "retrieved_at": "2026-07-18T17:32:55.687627+00:00"
+      },
+      "preparation": {
+        "engine": "Meeko",
+        "engine_version": "0.7.1",
+        "rigid_receptor": true,
+        "chains": [
+          "A"
+        ],
+        "kept_heterogens": [
+          "NDP"
+        ],
+        "prepared_atoms": 2062,
+        "explicit_residue_templates": {},
+        "removed_reference_ligand": {
+          "residue_name": "CPS",
+          "chain": "A",
+          "residue_number": 523,
+          "padding": 5
+        },
+        "repair": {
+          "engine": "PDBFixer",
+          "engine_version": "1.12.0",
+          "ph": 7.4,
+          "missing_residue_segments_not_built": [],
+          "replaced_nonstandard_residues": [],
+          "added_missing_heavy_atoms": [],
+          "added_terminal_atoms": [
+            {
+              "chain": "A",
+              "residue": "283",
+              "name": "SER",
+              "atoms": [
+                "OXT"
+              ]
+            }
+          ],
+          "preserved_heterogen_atoms": 48,
+          "heterogen_policy": "Heterogens were excluded from PDBFixer and restored unchanged after protein repair.",
+          "relaxation": {
+            "method": "restrained OpenMM minimization",
+            "restrained_observed_heavy_atoms": 2014,
+            "max_iterations": 20,
+            "initial_potential_kj_mol": 52588.038,
+            "final_potential_kj_mol": 51670.179
+          },
+          "policy": "Missing atoms and hydrogens were added; unresolved residue segments were recorded but not modeled."
+        },
+        "hydrogen_and_charge_method": "PDBFixer hydrogens at pH 7.4; Meeko atom typing and charges",
+        "relaxation": "Restrained local OpenMM minimization; parameters and energies are recorded in the repair audit."
+      }
+    },
+    "method": {
+      "engine": "AutoDock Vina",
+      "engine_version": "1.2.7",
+      "scoring_function": "vina",
+      "exhaustiveness": 4,
+      "requested_poses": 3,
+      "seed": 20260717,
+      "execution": "serial ligand batch with one receptor preparation"
+    },
+    "validation_assessment": "Requires explicit pose/RMSD evidence; completion alone is insufficient"
+  },
+  {
+    "run_id": "run_c82db68b-4525-409d-b3fb-ab9f970e60d1",
+    "run_status": "completed",
+    "receptor": {
+      "source": {
+        "database": "RCSB Protein Data Bank",
+        "pdb_id": "3V49",
+        "title": "Structure of ar lbd with activator peptide and sarm inhibitor 1",
+        "structure_url": "https://www.rcsb.org/structure/3V49",
+        "coordinate_url": "https://files.rcsb.org/download/3V49.pdb",
+        "retrieved_at": "2026-07-18T17:26:37.179253+00:00"
+      },
+      "preparation": {
+        "engine": "Meeko",
+        "engine_version": "0.7.1",
+        "rigid_receptor": true,
+        "chains": [
+          "A"
+        ],
+        "kept_heterogens": [],
+        "prepared_atoms": 2054,
+        "explicit_residue_templates": {},
+        "removed_reference_ligand": {
+          "residue_name": "PK0",
+          "chain": "A",
+          "residue_number": 950,
+          "padding": 5
+        },
+        "repair": {
+          "engine": "PDBFixer",
+          "engine_version": "1.12.0",
+          "ph": 7.4,
+          "missing_residue_segments_not_built": [],
+          "replaced_nonstandard_residues": [],
+          "added_missing_heavy_atoms": [],
+          "added_terminal_atoms": [],
+          "preserved_heterogen_atoms": 0,
+          "heterogen_policy": "Heterogens were excluded from PDBFixer and restored unchanged after protein repair.",
+          "relaxation": {
+            "method": "restrained OpenMM minimization",
+            "restrained_observed_heavy_atoms": 1994,
+            "max_iterations": 20,
+            "initial_potential_kj_mol": 349566.781,
+            "final_potential_kj_mol": 349616.206
+          },
+          "policy": "Missing atoms and hydrogens were added; unresolved residue segments were recorded but not modeled."
+        },
+        "hydrogen_and_charge_method": "PDBFixer hydrogens at pH 7.4; Meeko atom typing and charges",
+        "relaxation": "Restrained local OpenMM minimization; parameters and energies are recorded in the repair audit."
+      }
+    },
+    "method": {
+      "engine": "AutoDock Vina",
+      "engine_version": "1.2.7",
+      "scoring_function": "vina",
+      "exhaustiveness": 4,
+      "requested_poses": 3,
+      "seed": 20260717,
+      "execution": "serial ligand batch with one receptor preparation"
+    },
+    "validation_assessment": "Requires explicit pose/RMSD evidence; completion alone is insufficient"
+  },
+  {
+    "run_id": "run_25a0332b-cfa5-4afc-929c-170f2a2dbe83",
+    "run_status": "completed",
+    "receptor": {
+      "source": {
+        "database": "RCSB Protein Data Bank",
+        "pdb_id": "6KPF",
+        "title": "Cryo-EM structure of a class A GPCR with G protein complex",
+        "structure_url": "https://www.rcsb.org/structure/6KPF",
+        "coordinate_url": "https://files.rcsb.org/download/6KPF.pdb",
+        "retrieved_at": "2026-07-18T17:24:52.403895+00:00"
+      },
+      "preparation": {
+        "engine": "Meeko",
+        "engine_version": "0.7.1",
+        "rigid_receptor": true,
+        "chains": [
+          "R"
+        ],
+        "kept_heterogens": [],
+        "prepared_atoms": 2250,
+        "explicit_residue_templates": {
+          "R:174": "CYX",
+          "R:179": "CYX"
+        },
+        "removed_reference_ligand": {
+          "residue_name": "E3R",
+          "chain": "R",
+          "residue_number": 401,
+          "padding": 5
+        },
+        "repair": {
+          "engine": "PDBFixer",
+          "engine_version": "1.12.0",
+          "ph": 7.4,
+          "missing_residue_segments_not_built": [],
+          "replaced_nonstandard_residues": [],
+          "added_missing_heavy_atoms": [
+            {
+              "chain": "R",
+              "residue": "177",
+              "name": "ARG",
+              "atoms": [
+                "CG",
+                "CD",
+                "NE",
+                "CZ",
+                "NH1",
+                "NH2"
+              ]
+            }
+          ],
+          "added_terminal_atoms": [
+            {
+              "chain": "R",
+              "residue": "319",
+              "name": "LYS",
+              "atoms": [
+                "OXT"
+              ]
+            }
+          ],
+          "preserved_heterogen_atoms": 0,
+          "heterogen_policy": "Heterogens were excluded from PDBFixer and restored unchanged after protein repair.",
+          "relaxation": {
+            "method": "restrained OpenMM minimization",
+            "restrained_observed_heavy_atoms": 2250,
+            "max_iterations": 200,
+            "initial_potential_kj_mol": 760109.993,
+            "final_potential_kj_mol": 22812.995
+          },
+          "policy": "Missing atoms and hydrogens were added; unresolved residue segments were recorded but not modeled."
+        },
+        "hydrogen_and_charge_method": "PDBFixer hydrogens at pH 7.4; Meeko atom typing and charges",
+        "relaxation": "Restrained local OpenMM minimization; parameters and energies are recorded in the repair audit."
+      }
+    },
+    "method": {
+      "engine": "AutoDock Vina",
+      "engine_version": "1.2.7",
+      "scoring_function": "vina",
+      "exhaustiveness": 4,
+      "requested_poses": 3,
+      "seed": 20260717,
+      "execution": "serial ligand batch with one receptor preparation"
+    },
+    "validation_assessment": "Requires explicit pose/RMSD evidence; completion alone is insufficient"
+  },
+  {
+    "run_id": "run_eb5cc5f4-a0cb-4394-857d-ac2015bd6a41",
+    "run_status": "completed",
+    "receptor": {
+      "source": {
+        "database": "RCSB Protein Data Bank",
+        "pdb_id": "3EQM",
+        "title": "Crystal structure of human placental aromatase cytochrome P450 in complex with androstenedione",
+        "structure_url": "https://www.rcsb.org/structure/3EQM",
+        "coordinate_url": "https://files.rcsb.org/download/3EQM.pdb",
+        "retrieved_at": "2026-07-18T17:29:38.958648+00:00"
+      },
+      "preparation": {
+        "engine": "Meeko",
+        "engine_version": "0.7.1",
+        "rigid_receptor": true,
+        "chains": [
+          "A"
+        ],
+        "kept_heterogens": [
+          "HEM"
+        ],
+        "prepared_atoms": 3701,
+        "explicit_residue_templates": {},
+        "removed_reference_ligand": {
+          "residue_name": "ASD",
+          "chain": "A",
+          "residue_number": 601,
+          "padding": 5
+        },
+        "repair": {
+          "engine": "PDBFixer",
+          "engine_version": "1.12.0",
+          "ph": 7.4,
+          "missing_residue_segments_not_built": [],
+          "replaced_nonstandard_residues": [],
+          "added_missing_heavy_atoms": [],
+          "added_terminal_atoms": [
+            {
+              "chain": "A",
+              "residue": "496",
+              "name": "ASN",
+              "atoms": [
+                "OXT"
+              ]
+            }
+          ],
+          "preserved_heterogen_atoms": 43,
+          "heterogen_policy": "Heterogens were excluded from PDBFixer and restored unchanged after protein repair.",
+          "relaxation": {
+            "method": "restrained OpenMM minimization",
+            "restrained_observed_heavy_atoms": 3658,
+            "max_iterations": 20,
+            "initial_potential_kj_mol": 116370.413,
+            "final_potential_kj_mol": 114183.006
+          },
+          "policy": "Missing atoms and hydrogens were added; unresolved residue segments were recorded but not modeled."
+        },
+        "hydrogen_and_charge_method": "PDBFixer hydrogens at pH 7.4; Meeko atom typing and charges",
+        "relaxation": "Restrained local OpenMM minimization; parameters and energies are recorded in the repair audit."
+      }
+    },
+    "method": {
+      "engine": "AutoDock Vina",
+      "engine_version": "1.2.7",
+      "scoring_function": "vina",
+      "exhaustiveness": 4,
+      "requested_poses": 3,
+      "seed": 20260717,
+      "execution": "serial ligand batch with one receptor preparation"
+    },
+    "validation_assessment": "Requires explicit pose/RMSD evidence; completion alone is insufficient"
+  },
+  {
+    "run_id": "run_37fbba52-a178-469f-ab6a-bcf6a4ef2611",
+    "run_status": "completed",
+    "receptor": {
+      "source": {
+        "database": "RCSB Protein Data Bank",
+        "pdb_id": "1L2J",
+        "title": "Human Estrogen Receptor beta Ligand-binding Domain in Complex with (R,R)-5,11-cis-diethyl-5,6,11,12-tetrahydrochrysene-2,8-diol",
+        "structure_url": "https://www.rcsb.org/structure/1L2J",
+        "coordinate_url": "https://files.rcsb.org/download/1L2J.pdb",
+        "retrieved_at": "2026-07-18T17:49:32.071280+00:00"
+      },
+      "preparation": {
+        "engine": "Meeko",
+        "engine_version": "0.7.1",
+        "rigid_receptor": true,
+        "chains": [
+          "A"
+        ],
+        "kept_heterogens": [],
+        "prepared_atoms": 1741,
+        "explicit_residue_templates": {},
+        "allow_bad_res": true,
+        "bad_residue_policy": "Meeko excluded observed residues that could not match a complete chemical template.",
+        "removed_reference_ligand": {
+          "residue_name": "ETC",
+          "chain": "A",
+          "residue_number": 600,
+          "padding": 5
+        },
+        "repair": {
+          "engine": "not applied",
+          "reason": "PDBFixer output for 1L2J creates a residue valence conflict in Meeko 0.7.1; use the observed chain-A coordinates and let Meeko exclude incomplete residues that cannot match a chemical template.",
+          "policy": "Observed protein coordinates were passed directly to Meeko; missing atoms and unresolved segments were not modeled."
+        },
+        "hydrogen_and_charge_method": "PDBFixer hydrogens at pH 7.4; Meeko atom typing and charges",
+        "relaxation": "Restrained local OpenMM minimization; parameters and energies are recorded in the repair audit."
+      }
+    },
+    "method": {
+      "engine": "AutoDock Vina",
+      "engine_version": "1.2.7",
+      "scoring_function": "vina",
+      "exhaustiveness": 4,
+      "requested_poses": 3,
+      "seed": 20260717,
+      "execution": "serial ligand batch with one receptor preparation"
+    },
+    "validation_assessment": "Requires explicit pose/RMSD evidence; completion alone is insufficient"
+  }
+]
